@@ -30830,12 +30830,6 @@
     <url>http://www.virginmedia.com</url>
     <display-name lang="en">TNT Sports 3 HD</display-name>
   </channel>
-  <channel id="TNT.Sports.4.HD.uk">
-    <icon src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/tnt-sports-4-hd.png" />
-    <icon src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/tnt-sports-4-hd.png" />
-    <url>http://www.virginmedia.com</url>
-    <display-name lang="en">TNT Sports 4 HD</display-name>
-  </channel>
   <channel id="TNT.Sports.2.HD.uk">
     <icon src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/tnt-sports-2-hd.png" />
     <icon src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/tnt-sports-2-hd.png" />
@@ -30847,6 +30841,12 @@
     <icon src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/tnt-sports-1-hd.png" />
     <url>http://www.virginmedia.com</url>
     <display-name lang="en">TNT Sports 1 HD</display-name>
+  </channel>
+  <channel id="TNT.Sports.4.HD.uk">
+    <icon src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/tnt-sports-4-hd.png" />
+    <icon src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/tnt-sports-4-hd.png" />
+    <url>http://www.virginmedia.com</url>
+    <display-name lang="en">TNT Sports 4 HD</display-name>
   </channel>
   <programme channel="TNT.Sports.1.HD.uk" start="20250926180000 +0000" stop="20250926210000 +0000">
     <title lang="en">Live: PREM Rugby</title>
@@ -48452,82 +48452,6 @@
     <icon src="https://www.a1.hr/rasporedhttps://ssc.a1.hr/ITV/pictures/logos/arena_sport_10.png" />
     <url>http://www.a1.hr</url>
   </channel>
-  <programme start="20250926000000 +0200" stop="20250926021500 +0200" channel="Arena.Sport.1.HD.hr">
-    <title lang="hr">Nogomet – Copa Libertadores: Sao Paulo – Ldu Quito</title>
-    <desc lang="hr">São Paulo FC i LDU Quito odmjerit će snage 26. rujna 2025. u uzvratu četvrtine finala Kupa Libertadores. Tko će slaviti na stadionu Do MorumBIS? Početak utakmice je u ponoć.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/d9764a8faa03cf7e4425dfd3befadbec77b19fc0_thumb.jpg" />
-  </programme>
-  <programme start="20250926021500 +0200" stop="20250926050000 +0200" channel="Arena.Sport.1.HD.hr">
-    <title lang="hr">Nfl: Arizona – Seattle</title>
-    <desc lang="hr">Arizona Cardinals suočit će se sa Seattle Seahawks u utakmici četvrtog kola NFL-a. Koji će tim ostvariti pobjedu na stadionu State Farm? Susret započinje u 02:15.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/de4a97c1b89e69613ec98d97e1eaa46e0a221f08_thumb.jpg" />
-  </programme>
-  <programme start="20250926050000 +0200" stop="20250926070000 +0200" channel="Arena.Sport.1.HD.hr">
-    <title lang="hr">Nogomet – Liga Prvaka: Manchester City – Napoli</title>
-    <desc lang="hr">Građani iz Manchester Cityja žele započeti svoju europsku sezonu u velikom stilu, no Napolitanci nikada nisu laka prepreka. Ipak, Englezi i dalje ulaze u susret kao favoriti.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/ee516324c2df3659b29af1c43e63a00bdda65d39_thumb.jpg" />
-  </programme>
-  <programme start="20250926070000 +0200" stop="20250926083000 +0200" channel="Arena.Sport.1.HD.hr">
-    <title lang="hr">Rukomet – Ehf Lp: Zagreb – Barcelona</title>
-    <desc lang="hr">RK Zagreb i Barcelona odmjerit će snage 25. rujna 2025. u Areni Zagreb tijekom utakmice trećeg kola EHF Lige prvaka. Oba tima priželjkuju slavlje. Susret će započeti u 18:45.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/12cea8b4aa27219b6637cd3ae3e0385c71510f0e_thumb.jpg" />
-  </programme>
-  <programme start="20250926083000 +0200" stop="20250926100000 +0200" channel="Arena.Sport.1.HD.hr">
-    <title lang="hr">Košarka – Aba Liga: Split – Partizan</title>
-    <desc lang="hr">KK Split i Partizan srest će se u dvorani na Gripama 30. ožujka 2025. u 25. kolu ABA lige. Trenutačno, KK Split zauzima 12. mjesto s 32 boda, dok je Partizan vodeći s 45 bodova.</desc>
-  </programme>
-  <programme start="20250926100000 +0200" stop="20250926120000 +0200" channel="Arena.Sport.1.HD.hr">
-    <title lang="hr">Nogomet – Francuska Liga: Lyon – Angers</title>
-    <desc lang="hr">Lyon i Angers suočit će se 19. rujna 2025. na stadionu Groupama tijekom petog kola najjačeg francuskog nogometnog natjecanja. Obje ekipe žele pobjedu. Susret će započeti u 20:45.</desc>
-  </programme>
-  <programme start="20250926120000 +0200" stop="20250926140000 +0200" channel="Arena.Sport.1.HD.hr">
-    <title lang="hr">Nogomet – Premier League: Wolves – Leeds</title>
-    <desc lang="hr">Wolves i Leeds susrest će se 20. rujna 2025. na stadionu Molineux tijekom petog kola Premier lige. Domaćini još uvijek love prve ovosezonske bodove u ligi. Početak utakmice zakazan je za 16:00 sati.</desc>
-  </programme>
-  <programme start="20250926140000 +0200" stop="20250926160000 +0200" channel="Arena.Sport.1.HD.hr">
-    <title lang="hr">Nogomet – Talijanska Liga: Verona – Juventus</title>
-    <desc lang="hr">Verona i Juventus će se suočiti 20. rujna 2025. na stadionu Marcantonio Bentegodi u četvrtom kolu Serie A. Obje ekipe teže trijumfu. Početak susreta zakazan je za 18:00 sati.</desc>
-  </programme>
-  <programme start="20250926160000 +0200" stop="20250926170000 +0200" channel="Arena.Sport.1.HD.hr">
-    <title lang="hr">Nogomet – Europa Liga</title>
-    <desc lang="hr">Sažetak 1.kola. Drugo najprestižnije klupsko nogometno natjecanje u Europi je službeno pod okriljem UEFA-e od 1971. godine.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/7f60ac403bc4cb4933b672ebe071fd9366780a0a_thumb.jpg" />
-  </programme>
-  <programme start="20250926170000 +0200" stop="20250926190000 +0200" channel="Arena.Sport.1.HD.hr">
-    <title lang="hr">Nogomet – Ruska Premier Liga: Samara – Dinamo M</title>
-    <desc lang="hr">Krylya Sovetov i Dinamo Moskva suočit će se 26. rujna 2025. u utakmici desetog kola Premier lige Rusije. Tko će pobijediti na travnjaku Samara Arene? Susret započinje u 17:00.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/11253cfcc347bb5fe69084221f0913a4d3f31638_thumb.jpg" />
-  </programme>
-  <programme start="20250926190000 +0200" stop="20250926193000 +0200" channel="Arena.Sport.1.HD.hr">
-    <title lang="hr">Mi Živimo Za Nogomet</title>
-    <desc lang="hr">Hnšk Moslavina. Emisija o najvažnijoj sporednoj stvari na svijetu.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/8a571da00c2286b96e99f55fae7c132b57a97506_thumb.jpg" />
-  </programme>
-  <programme start="20250926193000 +0200" stop="20250926200000 +0200" channel="Arena.Sport.1.HD.hr">
-    <title lang="hr">Magazin Lige Prvaka</title>
-    <desc lang="hr">Pregled vijesti i događaja s nogometnih travnjaka. Koje su novosti i koja nas sportska zbivanja očekuju, pogledajte u sportskim minutama nogometne emisije Magazin Lige prvaka!</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/46ea12a6bbed5e2ece994fb4466b8020336945fe_thumb.jpg" />
-  </programme>
-  <programme start="20250926200000 +0200" stop="20250926203000 +0200" channel="Arena.Sport.1.HD.hr">
-    <title lang="hr">Pushing Progression</title>
-    <desc lang="hr">Freestyle football. Zavirite u svijet ekstremnih sportova i uživajte u sjajnom presjeku Red Bull događanja i natjecanja.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/2fe62fdf1f9eeef81766e4248c99d9bcedd5b0a3_thumb.jpg" />
-  </programme>
-  <programme start="20250926203000 +0200" stop="20250926210000 +0200" channel="Arena.Sport.1.HD.hr">
-    <title lang="hr">Coppa Italia</title>
-    <desc lang="hr">Sažetak 1.kola. Donosimo vam pregled najboljih trenutaka sa Kupa Italije. Ovo natjecanje je osnovano 1922. godine, a organizira ga Nogometni savez Italije.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/4b3d0c1c9964ecabeddfe5a41e84941eb6477ce4_thumb.jpg" />
-  </programme>
-  <programme start="20250926210000 +0200" stop="20250926230000 +0200" channel="Arena.Sport.1.HD.hr">
-    <title lang="hr">Nogomet – Španjolska Liga: Girona – Espanyol</title>
-    <desc lang="hr">Girona i Espanyol sastat će se 26. rujna 2025. na stadionu Montilivi u u utakmici sedmog kola La Lige. Oba tima priželjkuju slavlje. Početak utakmice je u 21:00 sat.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/f1449e40a5f6a4326ba1e17c1e9fb2f8c4d3f089_thumb.jpg" />
-  </programme>
-  <programme start="20250926230000 +0200" stop="20250927000000 +0200" channel="Arena.Sport.1.HD.hr">
-    <title lang="hr">Sideline</title>
-    <desc lang="hr">Studio. Donosimo sportski magazin o najvećoj i najpopularnijoj profesionalnoj ligi američkog nogometa – National Football League (NFL).</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/f517bb0f4835b8651bcbb59eb2f2d4ff5db06cac_thumb.jpg" />
-  </programme>
   <programme start="20250927000000 +0200" stop="20250927020000 +0200" channel="Arena.Sport.1.HD.hr">
     <title lang="hr">Nogomet – Championship: Wba – Leicester</title>
     <desc lang="hr">West Bromwich Albion i Leicester City igrat će utakmicu 26. rujna 2025. u okviru sedmog kola Championshipa. Tko će pobijediti na stadionu The Hawthorns? Početak utakmice je zakazan za 21:00.</desc>
@@ -48802,88 +48726,6 @@
     <desc lang="hr">Magazin koji se bavi prikazivanjem legendarnih i nezaboravnih trenutaka u svijetu sporta, kao i individualnim karijerama sportaša kroz povijest.</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/2a8cdca59a9788b447b84910a7f8eb5f166817fc_thumb.jpg" />
   </programme>
-  <programme start="20250926004500 +0200" stop="20250926010000 +0200" channel="Arena.Sport.2.HD.hr">
-    <title lang="hr">Triatlon – Svjetski Kup: Weihai Men's Race</title>
-    <desc lang="hr">Sezona Svjetskog kupa u triatlonu 2025. donosi niz vrhunskih natjecanja diljem svijeta, gdje će se najbolji svjetski triatlonci boriti za bodove, prestiž i mogućnost plasmana u Svjetsku...</desc>
-  </programme>
-  <programme start="20250926010000 +0200" stop="20250926030000 +0200" channel="Arena.Sport.2.HD.hr">
-    <title lang="hr">Nogomet – Europa Liga: Rangers – Genk</title>
-    <desc lang="hr">Racing Genk nastavlja svoj europski put nakon pobjede protiv Lecha Poznana u kvalifikacijama.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/812cb6f2b29edbfa58a670c7daf011062d4319de_thumb.jpg" />
-  </programme>
-  <programme start="20250926030000 +0200" stop="20250926033000 +0200" channel="Arena.Sport.2.HD.hr">
-    <title lang="hr">Triatlon: Serija Svjetskog Prvenstva U Triatlonu Alghero: Weihai Men's Race</title>
-    <desc lang="hr">Sardinijski grad Alghero postaje domaćin treće utrke u ciklusu Svjetske triatlonske prvenstvene serije.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/9aaf62a17a3da990646d36ec9b22780b2821c747_thumb.jpg" />
-  </programme>
-  <programme start="20250926033000 +0200" stop="20250926050000 +0200" channel="Arena.Sport.2.HD.hr">
-    <title lang="hr">Triatlon – Svjetski Kup: Weihai Women's Race</title>
-    <desc lang="hr">Sezona Svjetskog kupa u triatlonu 2025. donosi niz vrhunskih natjecanja diljem svijeta, gdje će se najbolji svjetski triatlonci boriti za bodove, prestiž i mogućnost plasmana u Svjetsku...</desc>
-  </programme>
-  <programme start="20250926050000 +0200" stop="20250926053000 +0200" channel="Arena.Sport.2.HD.hr">
-    <title lang="hr">Ekstremni Sportovi: The Clip Show</title>
-    <desc lang="hr">Emisija namijenjena svim ljubiteljima ekstremnih sportova. Uživajte u snimkama nevjerojatnih poteza i adrenalinskih borbi koje će vas ostaviti bez daha!</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/01c4c550108767dfad17a5c998d532d808d97025_thumb.jpg" />
-  </programme>
-  <programme start="20250926053000 +0200" stop="20250926054500 +0200" channel="Arena.Sport.2.HD.hr">
-    <title lang="hr">Odbojka – Kvalifikacije Za Ep (m): Izrael – Hrvatska</title>
-    <desc lang="hr">Izrael i Hrvatska suočit će se u borbi za trijumf 10. kolovoza 2025. u sportskoj dvorani tijekom kruga natjecanja. Oba tima su željna pobjede. Početak utakmice zakazan je za 20:00 sati.</desc>
-  </programme>
-  <programme start="20250926054500 +0200" stop="20250926070000 +0200" channel="Arena.Sport.2.HD.hr">
-    <title lang="hr">Triatlon – Svjetski Kup: Weihai Women's Race</title>
-    <desc lang="hr">Sezona Svjetskog kupa u triatlonu 2025. donosi niz vrhunskih natjecanja diljem svijeta, gdje će se najbolji svjetski triatlonci boriti za bodove, prestiž i mogućnost plasmana u Svjetsku...</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/744da57037a6fc9f4e54f8648f2ff5c132171f04_thumb.jpg" />
-  </programme>
-  <programme start="20250926070000 +0200" stop="20250926080000 +0200" channel="Arena.Sport.2.HD.hr">
-    <title lang="hr">Hokej – Stanley Cup: Edmonton – Florida G5</title>
-    <desc lang="hr">Edmonton Oilers i Florida Panthers suočit će se 15. lipnja 2025. godine u petoj međusobnoj utakmici finalne serije NHL-a. Tko će pobijediti na ledu Rogers Place dvorane?</desc>
-  </programme>
-  <programme start="20250926080000 +0200" stop="20250926090000 +0200" channel="Arena.Sport.2.HD.hr">
-    <title lang="hr">Baseball – Mlb: Ny Mets – San Diego</title>
-    <desc lang="hr">New York Mets suočit će se s San Diego Padresima u MLB utakmici. Tko će pobijediti na stadionu Citi Field? Susret počinje u 19:10.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/00d529da329d652cd1296eeaf371beab3e444bde_thumb.jpg" />
-  </programme>
-  <programme start="20250926090000 +0200" stop="20250926110000 +0200" channel="Arena.Sport.2.HD.hr">
-    <title lang="hr">Baseball – Mlb: Ny Mets – San Diego</title>
-    <desc lang="hr">New York Mets suočit će se s San Diego Padresima u MLB utakmici. Tko će pobijediti na stadionu Citi Field? Susret počinje u 19:10.</desc>
-  </programme>
-  <programme start="20250926110000 +0200" stop="20250926130000 +0200" channel="Arena.Sport.2.HD.hr">
-    <title lang="hr">Atletika: Dijamantna Liga – London</title>
-    <desc lang="hr">19. srpnja 2025. godine održava 11. natjecanje u Diamond League seriji, Londonski miting.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/f9a489d79072549acb90cb3245dc1d7bcd151b96_thumb.jpg" />
-  </programme>
-  <programme start="20250926130000 +0200" stop="20250926160000 +0200" channel="Arena.Sport.2.HD.hr">
-    <title lang="hr">Nfl: Arizona – Seattle</title>
-    <desc lang="hr">Arizona Cardinals suočit će se sa Seattle Seahawks u utakmici četvrtog kola NFL-a. Koji će tim ostvariti pobjedu na stadionu State Farm? Susret započinje u 02:15.</desc>
-  </programme>
-  <programme start="20250926160000 +0200" stop="20250926180000 +0200" channel="Arena.Sport.2.HD.hr">
-    <title lang="hr">Nogomet – Copa Libertadores: Estudiantes – Flamengoa</title>
-    <desc lang="hr">Estudiantes i Flamengo RJ sastaju se 25. rujna 2025. u uzvratu četvrtine finala Kupa Libertadores. Tko će pobijediti na stadionu Jorge Luis Hirschi? Susret počinje u 02:30.</desc>
-  </programme>
-  <programme start="20250926180000 +0200" stop="20250926200000 +0200" channel="Arena.Sport.2.HD.hr">
-    <title lang="hr">Nogomet: Premijer Liga Bih: Radnik – Široki Brijeg</title>
-    <desc lang="hr">Radnik Bijeljina i Široki Brijeg odigrat će utakmicu 26. rujna 2025. u okviru devetog kola Premijer lige BiH. Koji će tim odnijeti pobjedu? Susret započinje u 18:00 sati.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/e1c7a7d3d737ff28d905d9dcf6a3402825bd88fe_thumb.jpg" />
-  </programme>
-  <programme start="20250926200000 +0200" stop="20250926204500 +0200" channel="Arena.Sport.2.HD.hr">
-    <title lang="hr">Nogomet – Francuska Liga: Najava</title>
-    <desc lang="hr">Pratite sportski magazin posvećen Francuskoj nogometnoj ligi.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/e6a964afd8923996679d53d67532ad20c161bc05_thumb.jpg" />
-  </programme>
-  <programme start="20250926204500 +0200" stop="20250926223000 +0200" channel="Arena.Sport.2.HD.hr">
-    <title lang="hr">Nogomet – Francuska Liga: Strasbourg – Marseille</title>
-    <desc lang="hr">Strasbourg i Olympique Marseille će se suočiti 26. rujna 2025. na stadionu Meinau u sklopu šestog kola Ligue 1. Oba tima žele novim bodovima napredovati na prvenstvenoj ljestvici.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/63fc97f9691730ceb2366db9db3f5645d4d1fa2b_thumb.jpg" />
-  </programme>
-  <programme start="20250926223000 +0200" stop="20250926230000 +0200" channel="Arena.Sport.2.HD.hr">
-    <title lang="hr">Inside Serie A</title>
-    <desc lang="hr">Donosimo najbolje iz vrhunske talijanske lige, Serie A!</desc>
-  </programme>
-  <programme start="20250926230000 +0200" stop="20250927010000 +0200" channel="Arena.Sport.2.HD.hr">
-    <title lang="hr">Triatlon – Svjetski Kup: Weihai Women's Race</title>
-    <desc lang="hr">Sezona Svjetskog kupa u triatlonu 2025. donosi niz vrhunskih natjecanja diljem svijeta, gdje će se najbolji svjetski triatlonci boriti za bodove, prestiž i mogućnost plasmana u Svjetsku...</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/744da57037a6fc9f4e54f8648f2ff5c132171f04_thumb.jpg" />
-  </programme>
   <programme start="20250927010000 +0200" stop="20250927030000 +0200" channel="Arena.Sport.2.HD.hr">
     <title lang="hr">Baseball – Mlb: Texas – Milwaukee</title>
     <desc lang="hr">Sezona 2025. počinje s velikim očekivanjima: mogu li Houston Astrosi vratiti titulu? Hoće li Shohei Ohtani ponovno dominirati na oba kraja terena?</desc>
@@ -49105,83 +48947,6 @@
     <title lang="hr">Triatlon – Svjetski Kup: Karlovy Vary: Weihai Men's Race</title>
     <desc lang="hr">Grad Karlovy Vary u Češkoj ponovno postaje domaćin Svjetskog kupa u triatlonu, koji se održava 14. rujna 2025. godine.</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/40488f4eff93ef59514b1093d059138628846062_thumb.jpg" />
-  </programme>
-  <programme start="20250926000000 +0200" stop="20250926020000 +0200" channel="Arena.Sport.3.HD.hr">
-    <title lang="hr">Nogomet – Španjolska Liga: Betis – Real Sociedad</title>
-    <desc lang="hr">Real Betis i Real Sociedad odmjerit će snage 19. rujna 2025. u okviru petog kola La Lige. Koji će tim odnijeti pobjedu na stadionu Benito Villamarin? Utakmica započinje u 21:00 sat.</desc>
-  </programme>
-  <programme start="20250926020000 +0200" stop="20250926023000 +0200" channel="Arena.Sport.3.HD.hr">
-    <title lang="hr">Nogomet – Španjolska Liga: Pregled Kola</title>
-    <desc lang="hr">Donosimo presjek najboljih trenutaka, sažetke i popratnu analizu utakmica iz španjolske nogometne lige.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/0770f327fb87ed7a19f816dabfa7276b8c141a4e_thumb.jpg" />
-  </programme>
-  <programme start="20250926023000 +0200" stop="20250926043000 +0200" channel="Arena.Sport.3.HD.hr">
-    <title lang="hr">Nogomet – Copa Libertadores: Estudiantes – Flamengo</title>
-    <desc lang="hr">Estudiantes i Flamengo RJ sastaju se 25. rujna 2025. u uzvratu četvrtine finala Kupa Libertadores. Tko će pobijediti na stadionu Jorge Luis Hirschi? Susret počinje u 02:30.</desc>
-  </programme>
-  <programme start="20250926043000 +0200" stop="20250926050000 +0200" channel="Arena.Sport.3.HD.hr">
-    <title lang="hr">Ultimate Rush</title>
-    <desc lang="hr">Pogledajte spektakularne snimke vrhunskih sportaša i uživajte u njihovim vratolomijama.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/c7ae6a036fbd9d8e265420bd061f7e96e043ef3c_thumb.jpg" />
-  </programme>
-  <programme start="20250926050000 +0200" stop="20250926070000 +0200" channel="Arena.Sport.3.HD.hr">
-    <title lang="hr">Nogomet – Premier League: Brighton – Tottenham</title>
-    <desc lang="hr">Brighton &amp; Hove Albion suočit će se s Tottenhamom 20. rujna 2025. na stadionu American Express tijekom petog kola Premier lige. Oba tima traže pobjedu. Susret započinje u 16:00 sati.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/81e23b02b880be93390607e1394cd1ffa9976f96_thumb.jpg" />
-  </programme>
-  <programme start="20250926070000 +0200" stop="20250926090000 +0200" channel="Arena.Sport.3.HD.hr">
-    <title lang="hr">Nogomet – Talijanska Liga: Inter – Sassuolo</title>
-    <desc lang="hr">Inter i Sassuolo Calcio susret će se 21. rujna 2025. na stadionu San Siro u četvrtom kolu Serie A. Obje ekipe teže pobjedi. Početak utakmice zakazan je za 20:45.</desc>
-  </programme>
-  <programme start="20250926090000 +0200" stop="20250926093000 +0200" channel="Arena.Sport.3.HD.hr">
-    <title lang="hr">Shortlist</title>
-    <desc lang="hr">Magazin koji se bavi prikazivanjem legendarnih i nezaboravnih trenutaka u svijetu sporta, kao i individualnim karijerama sportaša kroz povijest.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/2a8cdca59a9788b447b84910a7f8eb5f166817fc_thumb.jpg" />
-  </programme>
-  <programme start="20250926093000 +0200" stop="20250926100000 +0200" channel="Arena.Sport.3.HD.hr">
-    <title lang="hr">Shortlist</title>
-    <desc lang="hr">Magazin koji se bavi prikazivanjem legendarnih i nezaboravnih trenutaka u svijetu sporta, kao i individualnim karijerama sportaša kroz povijest.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/2a8cdca59a9788b447b84910a7f8eb5f166817fc_thumb.jpg" />
-  </programme>
-  <programme start="20250926100000 +0200" stop="20250926120000 +0200" channel="Arena.Sport.3.HD.hr">
-    <title lang="hr">Nogomet – Ruska Premier Liga: Lokomotiv M – Rostov</title>
-    <desc lang="hr">Lokomotiv Moskva i FC Rostov susrest će se 23. kolovoza 2025. u šestom kolu Premier lige Rusije. Tko će odnijeti pobjedu na terenu RZD Arene? Početak utakmice je u 17:30.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/e78c92031a9da9eb5bae3a834d2bf82a37918e9b_thumb.jpg" />
-  </programme>
-  <programme start="20250926120000 +0200" stop="20250926140000 +0200" channel="Arena.Sport.3.HD.hr">
-    <title lang="hr">Nogomet – Španjolska Liga: Mallorca – Atletico Madrid</title>
-    <desc lang="hr">Mallorca i Atletico Madrid susrest će se 21. rujna 2025. na stadionu Son Moix u utakmici petog kola La Lige. Oba tima su motivirana za pobjedu. Početak susreta zakazan je za 16:15 sati.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/7470dccab3e983c1ffae313d2ebe4fd513203d54_thumb.jpg" />
-  </programme>
-  <programme start="20250926140000 +0200" stop="20250926150000 +0200" channel="Arena.Sport.3.HD.hr">
-    <title lang="hr">Nogomet: Liga Prvaka</title>
-    <desc lang="hr">Sažetak 17.09.. Pogledajte najzanimljivije trenutke utakmica svih faza najvećeg klupskog nogometnog natjecanja u Europi.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/a804cac5dd3097242a7b142a4ab62700d2b0c22a_thumb.jpg" />
-  </programme>
-  <programme start="20250926150000 +0200" stop="20250926170000 +0200" channel="Arena.Sport.3.HD.hr">
-    <title lang="hr">Nogomet – Premier League: Liverpool – Everton</title>
-    <desc lang="hr">Vrijeme je za derbi Merseysidea između Liverpoola i Evertona: hoće li Liverpool nadjačati Everton u ovoj uvijek posebnoj utakmici?</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/a35e248326d5a0892ba7ed1f2a22329b945cd64e_thumb.jpg" />
-  </programme>
-  <programme start="20250926170000 +0200" stop="20250926190000 +0200" channel="Arena.Sport.3.HD.hr">
-    <title lang="hr">Nogomet – Rumunjska Liga: Hermannstadt – Arges</title>
-    <desc lang="hr">Hermannstadt i Argeș Pitești suočit će se 26. rujna 2025. u 11. kolu rumunjske Superlige. Tko će pobijediti na stadionu u Sibiu? Susret počinje u 17:00 sati.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/abb5c7d13a9130bfc0b62cbbf2d48cf24e767051_thumb.jpg" />
-  </programme>
-  <programme start="20250926190000 +0200" stop="20250926210000 +0200" channel="Arena.Sport.3.HD.hr">
-    <title lang="hr">Nogomet – Talijanska Liga: Lazio – Roma</title>
-    <desc lang="hr">SS Lazio i Roma igrat će 21. rujna 2025. u četvrtom kolu najjačeg talijanskog nogometnog natjecanja. Koji će tim odnijeti pobjedu u gradskom derbiju na stadionu Olimpico? Susret počinje u 12:30.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/803f29bb75d1e2ae2fc745a39357ffb69f5b767c_thumb.jpg" />
-  </programme>
-  <programme start="20250926210000 +0200" stop="20250926230000 +0200" channel="Arena.Sport.3.HD.hr">
-    <title lang="hr">Nogomet – Championship: Wba – Leicester</title>
-    <desc lang="hr">West Bromwich Albion i Leicester City igrat će utakmicu 26. rujna 2025. u okviru sedmog kola Championshipa. Tko će pobijediti na stadionu The Hawthorns? Početak utakmice je zakazan za 21:00.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/3b3b38f7a5c885e023c8602c3b4a28d637b3fa60_thumb.jpg" />
-  </programme>
-  <programme start="20250926230000 +0200" stop="20250927000000 +0200" channel="Arena.Sport.3.HD.hr">
-    <title lang="hr">Wrc Pregled</title>
-    <desc lang="hr">Finska. Donosimo isječke najboljih trenutaka s FIA Svjetskog prvenstva u reliju, preglede utrka i razgovore s natjecateljima.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/26480442ac3d2c956159a8a79cb6edd3e3bda45f_thumb.jpg" />
   </programme>
   <programme start="20250927000000 +0200" stop="20250927020000 +0200" channel="Arena.Sport.3.HD.hr">
     <title lang="hr">Nogomet – Španjolska Liga: Alaves – Sevilla</title>
@@ -49442,114 +49207,6 @@
     <title lang="hr">Nogomet – Francuska Liga: Psg – Auxerre</title>
     <desc lang="hr">Momčad Luisa Enriquea ugostit će sastav Christophea Pélissiera na Parku prinčeva u sklopu šestog kola francuskog nogometnog prvenstva - Ligue 1.</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/88a36109c63764c728ab2d220737891ed654ff8b_thumb.jpg" />
-  </programme>
-  <programme start="20250926000000 +0200" stop="20250926020000 +0200" channel="Arena.Sport.4.HD.hr">
-    <title lang="hr">Košarka – Talijanska Liga: Bologna – Brescia G1</title>
-    <desc lang="hr">Virtus i Brescia sastaju se 12. lipnja 2025. u prvom susretu finalne serije najjače talijanske košarkaške lige. Tko će slaviti u Virtus Segafredo Areni? Utakmica počinje u 20:30.</desc>
-  </programme>
-  <programme start="20250926020000 +0200" stop="20250926040000 +0200" channel="Arena.Sport.4.HD.hr">
-    <title lang="hr">Nogomet – Njemački Kup: Lotte – Freiburg</title>
-    <desc lang="hr">Sportfreunde Lotte i Freiburg susreću se 16. kolovoza 2025. na stadionu Lotter Kreuz u prvom kolu Njemačkog kupa. Oba tima su motivirana za pobjedu. Utakmica započinje u 18:00 sati.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/3aad255d25c9d2f278140b01d6ddd6a4f6a37998_thumb.jpg" />
-  </programme>
-  <programme start="20250926040000 +0200" stop="20250926060000 +0200" channel="Arena.Sport.4.HD.hr">
-    <title lang="hr">Nogomet – Poljska Liga: Arka – Korona</title>
-    <desc lang="hr">Arka Gdynia i Kielce susrest će se 20. rujna 2025. na stadionu GOSiR kako bi odigrali utakmicu devetog kola Ekstraklase. Obje ekipe priželjkuju slavlje. Susret započinje u 14:45.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/31e8a5eae28d047bf910b082b3e4e6df8a8866f5_thumb.jpg" />
-  </programme>
-  <programme start="20250926060000 +0200" stop="20250926070000 +0200" channel="Arena.Sport.4.HD.hr">
-    <title lang="hr">Kenny</title>
-    <desc lang="hr">Dokumentarni film o čuvenom škotskom nogometnom reprezentativcu i napadaču FC Liverpoola, Kennyju Dalglishu.</desc>
-    <credits>
-      <director>Stewart Sugg</director>
-      <actor>Margaret Aspinall</actor>
-      <actor>John Barnes</actor>
-      <actor>Kelly Cates</actor>
-      <actor>Jodie Christmas</actor>
-      <actor>Lynsey Dalglish Robinson</actor>
-      <actor>Carol Dalglish</actor>
-      <actor>Kenny Dalglish</actor>
-      <actor>Marina Dalglish</actor>
-      <actor>Paul Dalglish</actor>
-      <actor>Lauren Dalglsih</actor>
-    </credits>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/8ab2ee3578436de40c64e02fefe2dab0284839f0_thumb.jpg" />
-  </programme>
-  <programme start="20250926070000 +0200" stop="20250926073000 +0200" channel="Arena.Sport.4.HD.hr">
-    <title lang="hr">Međunarodna Nogometna Rivalstva</title>
-    <desc lang="hr">Češka – Slovačka. Emisija o najvećim međunarodnim nogometnim rivalstvima.</desc>
-  </programme>
-  <programme start="20250926073000 +0200" stop="20250926080000 +0200" channel="Arena.Sport.4.HD.hr">
-    <title lang="hr">Međunarodna Nogometna Rivalstva</title>
-    <desc lang="hr">Engleska – Brazil. Emisija o najvećim međunarodnim nogometnim rivalstvima.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/f80748cbaa778206acec5e53905c3422e00ffb74_thumb.jpg" />
-  </programme>
-  <programme start="20250926080000 +0200" stop="20250926100000 +0200" channel="Arena.Sport.4.HD.hr">
-    <title lang="hr">Košarka – Nba Liga: Finale – Okc – Indiana G5</title>
-    <desc lang="hr">Oklahoma City Thunder i Indiana Pacers će se suočiti 17. lipnja 2025. u petoj međusobnoj utakmici finalne serije NBA lige. Momčadi su za sada izjednačene u serijama. Tko će prevagnuti u Paycom centru?</desc>
-  </programme>
-  <programme start="20250926100000 +0200" stop="20250926120000 +0200" channel="Arena.Sport.4.HD.hr">
-    <title lang="hr">Nogomet – Premier League: Manchester United – Chelsea</title>
-    <desc lang="hr">U prošloj sezoni Crveni vragovi iz Manchestera uspjeli su protiv Londončana ostvariti samo neriješeno 1:1. Uzvrat na Stamford Bridgeu Chelsea je dobio s 1:0.</desc>
-  </programme>
-  <programme start="20250926120000 +0200" stop="20250926140000 +0200" channel="Arena.Sport.4.HD.hr">
-    <title lang="hr">Nogomet – Europa Liga: Stuttgart – Celta Vigo</title>
-    <desc lang="hr">VfB Stuttgart dočekuje Celtu Vigo u dvoboju koji donosi reprizu srpanjskog prijateljskog susreta u Reutlingenu, gdje je njemačka momčad slavila rezultatom 2:1. Jedan od pogodaka tada je postigao...</desc>
-  </programme>
-  <programme start="20250926140000 +0200" stop="20250926143000 +0200" channel="Arena.Sport.4.HD.hr">
-    <title lang="hr">Explorers</title>
-    <desc lang="hr">Dokumentarni film prati sportaše kroz puste pustinje, brze brzace, najviše vrhove i najdublje oceane i predstavlja njihovu beskrajnu želju za novim avanturama.</desc>
-    <credits>
-      <director>Bryan Smith</director>
-      <director>David Pearson</director>
-    </credits>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/2d0929e06e7665b1a6160cda27a2ffe630d1adb8_thumb.jpg" />
-  </programme>
-  <programme start="20250926143000 +0200" stop="20250926150000 +0200" channel="Arena.Sport.4.HD.hr">
-    <title lang="hr">Rukomet – Ehf Lp: Zagreb – Barcelona</title>
-    <desc lang="hr">RK Zagreb i Barcelona odmjerit će snage 25. rujna 2025. u Areni Zagreb tijekom utakmice trećeg kola EHF Lige prvaka. Oba tima priželjkuju slavlje. Susret će započeti u 18:45.</desc>
-  </programme>
-  <programme start="20250926150000 +0200" stop="20250926160000 +0200" channel="Arena.Sport.4.HD.hr">
-    <title lang="hr">Rukomet – Ehf Lp: Zagreb – Barcelona</title>
-    <desc lang="hr">RK Zagreb i Barcelona odmjerit će snage 25. rujna 2025. u Areni Zagreb tijekom utakmice trećeg kola EHF Lige prvaka. Oba tima priželjkuju slavlje. Susret će započeti u 18:45.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/12cea8b4aa27219b6637cd3ae3e0385c71510f0e_thumb.jpg" />
-  </programme>
-  <programme start="20250926160000 +0200" stop="20250926163000 +0200" channel="Arena.Sport.4.HD.hr">
-    <title lang="hr">Nogomet – Poljska Liga: Zaglebie – Motor</title>
-    <desc lang="hr">Zaglebie Lubin i Motor Lublin suočit će se 21. rujna 2025. u devetom kolu poljske Ekstraklase. Koji će tim pobijediti na travnjaku KGHM Zagłębie Arene? Susret počinje u 12:15.</desc>
-  </programme>
-  <programme start="20250926163000 +0200" stop="20250926180000 +0200" channel="Arena.Sport.4.HD.hr">
-    <title lang="hr">Nogomet – Poljska Liga: Zaglebie – Motor</title>
-    <desc lang="hr">Zaglebie Lubin i Motor Lublin suočit će se 21. rujna 2025. u devetom kolu poljske Ekstraklase. Koji će tim pobijediti na travnjaku KGHM Zagłębie Arene? Susret počinje u 12:15.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/2fc3da57a5f1f61db3f7014bf915f62c6b711220_thumb.jpg" />
-  </programme>
-  <programme start="20250926180000 +0200" stop="20250926183000 +0200" channel="Arena.Sport.4.HD.hr">
-    <title lang="hr">Nogomet – Španjolska Liga: Real Madrid – Espanyol</title>
-    <desc lang="hr">Real Madrid i Espanyol suočit će se u okviru petog kola LaLige, 20. rujna 2025., na stadionu Santiago Bernabeu. Domaćini žele nastaviti niz bez poraza i time održati vodeću poziciju na ljestvici.</desc>
-  </programme>
-  <programme start="20250926183000 +0200" stop="20250926190000 +0200" channel="Arena.Sport.4.HD.hr">
-    <title lang="hr">Sport Bez Granica</title>
-    <desc lang="hr">Uđite u svijet sporta uz našu emisiju i saznajte najnovije vijesti i zanimljivosti!</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/46100e269599f53bed83e625c45bcab8c438cec5_thumb.jpg" />
-  </programme>
-  <programme start="20250926190000 +0200" stop="20250926203000 +0200" channel="Arena.Sport.4.HD.hr">
-    <title lang="hr">Vaterpolo – Regionalna Liga: Novi Beograd – Crvena Zvezda</title>
-    <desc lang="hr">Regionalna vaterpolo liga je najviši rang regionalnog klupskog vaterpola u Europi, okupljajući klubove iz Hrvatske, Crne Gore, Srbije i Slovenije.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/0ccca5f94dca978c0862f231c0875b35dd8a5415_thumb.jpg" />
-  </programme>
-  <programme start="20250926203000 +0200" stop="20250926223000 +0200" channel="Arena.Sport.4.HD.hr">
-    <title lang="hr">Nogomet – Poljska Liga: Wisla – Katowice</title>
-    <desc lang="hr">Dana 26. rujna 2025., susrest će se Wisła Płock i GKS Katowice, u okviru desetog kola Ekstraklase. Koji će tim slaviti na stadionu Kazimierz Gorski? Utakmica započinje u 20:30.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/2240a9cdf3bd0fadcc6ee4249e939724b1999a6b_thumb.jpg" />
-  </programme>
-  <programme start="20250926223000 +0200" stop="20250926230000 +0200" channel="Arena.Sport.4.HD.hr">
-    <title lang="hr">Arena Specijal</title>
-    <desc lang="hr">Emisija "Arena specijal" donosi ekskluzivne intervjue s uspješnim i istaknutim sportašima, trenerima i drugim sportskim stručnjacima.</desc>
-  </programme>
-  <programme start="20250926230000 +0200" stop="20250927000000 +0200" channel="Arena.Sport.4.HD.hr">
-    <title lang="hr">(ne)uspjeh Prvaka</title>
-    <desc lang="hr">Sportski serijal bivšeg nogometaša Slavena Bilića donosi priče uspješnih sportaša iz regije.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/58bc03d6d3871069e77773be5ac643351a885827_thumb.jpg" />
   </programme>
   <programme start="20250927000000 +0200" stop="20250927020000 +0200" channel="Arena.Sport.4.HD.hr">
     <title lang="hr">Košarka – Talijanska Liga: Bologna – Brescia G2</title>
@@ -49829,51 +49486,6 @@
     <title lang="hr">Nogomet – Njemački Kup: Lotte – Freiburg</title>
     <desc lang="hr">Sportfreunde Lotte i Freiburg susreću se 16. kolovoza 2025. na stadionu Lotter Kreuz u prvom kolu Njemačkog kupa. Oba tima su motivirana za pobjedu. Utakmica započinje u 18:00 sati.</desc>
   </programme>
-  <programme start="20250926010000 +0200" stop="20250926050000 +0200" channel="Arena.Sport.5.HD.hr">
-    <title lang="hr">Najava Programa</title>
-    <desc lang="hr">Pogledajte što vas sve očekuje u našem programu.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/174b698ca35b5fbf915870fd8d3140d833677969_thumb.jpg" />
-  </programme>
-  <programme start="20250926050000 +0200" stop="20250926090000 +0200" channel="Arena.Sport.5.HD.hr">
-    <title lang="hr">Najava Programa</title>
-    <desc lang="hr">Pogledajte što vas sve očekuje u našem programu.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/174b698ca35b5fbf915870fd8d3140d833677969_thumb.jpg" />
-  </programme>
-  <programme start="20250926090000 +0200" stop="20250926130000 +0200" channel="Arena.Sport.5.HD.hr">
-    <title lang="hr">Najava Programa</title>
-    <desc lang="hr">Pogledajte što vas sve očekuje u našem programu.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/174b698ca35b5fbf915870fd8d3140d833677969_thumb.jpg" />
-  </programme>
-  <programme start="20250926130000 +0200" stop="20250926150000 +0200" channel="Arena.Sport.5.HD.hr">
-    <title lang="hr">Najava Programa</title>
-    <desc lang="hr">Pogledajte što vas sve očekuje u našem programu.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/174b698ca35b5fbf915870fd8d3140d833677969_thumb.jpg" />
-  </programme>
-  <programme start="20250926150000 +0200" stop="20250926170000 +0200" channel="Arena.Sport.5.HD.hr">
-    <title lang="hr">Hrvanje – Svjetsko Prvenstvo: Zagreb Dan 7</title>
-    <desc lang="hr">Svjetsko prvenstvo u hrvanju je međunarodno natjecanje koje organizira međunarodna hvačka federacija FILA.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/cf6bfe20f0dc92934f0c326a2e760c4c1fc1670c_thumb.jpg" />
-  </programme>
-  <programme start="20250926170000 +0200" stop="20250926190000 +0200" channel="Arena.Sport.5.HD.hr">
-    <title lang="hr">Atletika Dijamantna Liga: Chorzow</title>
-    <desc lang="hr">15. i 16. kolovoza 2025. na stadionu Śląskim u Chorzówu održava se 12. etapa Diamond League sezone.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/5b818ad8c2d759088ae27e4e7ea8fef848e7041a_thumb.jpg" />
-  </programme>
-  <programme start="20250926190000 +0200" stop="20250926200000 +0200" channel="Arena.Sport.5.HD.hr">
-    <title lang="hr">Studio – Premier League</title>
-    <desc lang="hr">Pratite vrhunsku emisiju o najboljoj engleskoj ligi i saznajte ono najvažnije iz svijeta engleskog nogometa!</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/cf20417a2f3c9e20f902ce82caccfa8892f7e83e_thumb.jpg" />
-  </programme>
-  <programme start="20250926200000 +0200" stop="20250926230000 +0200" channel="Arena.Sport.5.HD.hr">
-    <title lang="hr">Baseball – Mlb: Chicago Cubs – St Louis</title>
-    <desc lang="hr">Chicago Cubs suočit će se s St. Louis Cardinals u predstojećem MLB susretu. Koji će tim odnijeti pobjedu na stadionu Wrigley Field?</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/221ea3caeb8fa6074d65546105ba3c7d0fd46dbb_thumb.jpg" />
-  </programme>
-  <programme start="20250926230000 +0200" stop="20250927000000 +0200" channel="Arena.Sport.5.HD.hr">
-    <title lang="hr">Boks – Ibo Super Welterweight World Championship: Lima – Koopman</title>
-    <desc lang="hr">Opet ćemo svjedočiti vrhunskom borilačkom događaju. Lima i Koopman susrest će se u ringu 31. svibnja 2025. godine. Tko će biti pobjednik? Borba počinje u 20:00 sati.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/61f21c0c6601b4a6d0c3c41ceed532cc46336695_thumb.jpg" />
-  </programme>
   <programme start="20250927000000 +0200" stop="20250927040000 +0200" channel="Arena.Sport.5.HD.hr">
     <title lang="hr">Najava Programa</title>
     <desc lang="hr">Pogledajte što vas sve očekuje u našem programu.</desc>
@@ -50037,55 +49649,6 @@
     <desc lang="hr">Pogledajte što vas sve očekuje u našem programu.</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/174b698ca35b5fbf915870fd8d3140d833677969_thumb.jpg" />
   </programme>
-  <programme start="20250926010000 +0200" stop="20250926050000 +0200" channel="Arena.Sport.6.HD.hr">
-    <title lang="hr">Najava Programa</title>
-    <desc lang="hr">Pogledajte što vas sve očekuje u našem programu.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/174b698ca35b5fbf915870fd8d3140d833677969_thumb.jpg" />
-  </programme>
-  <programme start="20250926050000 +0200" stop="20250926090000 +0200" channel="Arena.Sport.6.HD.hr">
-    <title lang="hr">Najava Programa</title>
-    <desc lang="hr">Pogledajte što vas sve očekuje u našem programu.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/174b698ca35b5fbf915870fd8d3140d833677969_thumb.jpg" />
-  </programme>
-  <programme start="20250926090000 +0200" stop="20250926130000 +0200" channel="Arena.Sport.6.HD.hr">
-    <title lang="hr">Najava Programa</title>
-    <desc lang="hr">Pogledajte što vas sve očekuje u našem programu.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/174b698ca35b5fbf915870fd8d3140d833677969_thumb.jpg" />
-  </programme>
-  <programme start="20250926130000 +0200" stop="20250926150000 +0200" channel="Arena.Sport.6.HD.hr">
-    <title lang="hr">Najava Programa</title>
-    <desc lang="hr">Pogledajte što vas sve očekuje u našem programu.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/174b698ca35b5fbf915870fd8d3140d833677969_thumb.jpg" />
-  </programme>
-  <programme start="20250926150000 +0200" stop="20250926170000 +0200" channel="Arena.Sport.6.HD.hr">
-    <title lang="hr">Nogomet – Francuska Liga: Monaco – Metz</title>
-    <desc lang="hr">AS Monaco suočit će se s Metzom 21. rujna 2025. na stadionu Louis II u okviru petog kola. Ligue 1. Oba tima su motivirana za pobjedu. Susret započinje u 17:15.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/b79f3c5200c59a652b93a454808725a81f0427b0_thumb.jpg" />
-  </programme>
-  <programme start="20250926170000 +0200" stop="20250926190000 +0200" channel="Arena.Sport.6.HD.hr">
-    <title lang="hr">Nogomet – Talijanska Liga: Udinese – Milan</title>
-    <desc lang="hr">Udinese i Milan susrest će se 20. rujna 2025. na stadionu Bluenergy u okviru četvrtog kola Serie A. Oba tima žele osvojiti nove bodove. Početak utakmice predviđen je za 20:45.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/3ff0fc9a90c49b05b82e844ce0ac02a18e326795_thumb.jpg" />
-  </programme>
-  <programme start="20250926190000 +0200" stop="20250926200000 +0200" channel="Arena.Sport.6.HD.hr">
-    <title lang="hr">Nogomet – Europa Liga</title>
-    <desc lang="hr">Sažetak 1. Kola. Drugo najprestižnije klupsko nogometno natjecanje u Europi je službeno pod okriljem UEFA-e od 1971. godine.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/7f60ac403bc4cb4933b672ebe071fd9366780a0a_thumb.jpg" />
-  </programme>
-  <programme start="20250926200000 +0200" stop="20250926220000 +0200" channel="Arena.Sport.6.HD.hr">
-    <title lang="hr">Nogomet – Rumunjska Liga: Univ Craiova – Dinamo B</title>
-    <desc lang="hr">CS Universitatea Craiova će se suočiti s Dinamom B. 26. rujna 2025. na stadionu u natjecateljskom kolu. Oba tima su odlučna ostvariti pobjedu. Početak utakmice zakazan je za 20:00 sati.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/d3b3d523fc9dce527493be7fe31d663d78b83d98_thumb.jpg" />
-  </programme>
-  <programme start="20250926220000 +0200" stop="20250926230000 +0200" channel="Arena.Sport.6.HD.hr">
-    <title lang="hr">Vaterpolo – Kvalifikacije Za Lp: Mladost – Vouliagmeni</title>
-    <desc lang="hr">Mladost i Vouliagmeni sastaju se 20. rujna 2025. u kvalifikacijskoj utakmici LEN Lige prvaka. Susret počinje u 19 sati. Ne propustite!</desc>
-  </programme>
-  <programme start="20250926230000 +0200" stop="20250927000000 +0200" channel="Arena.Sport.6.HD.hr">
-    <title lang="hr">Nogomet – Carabao Cup: Lincoln – Chelsea</title>
-    <desc lang="hr">Lincoln City i Chelsea odmjerit će snage 23. rujna 2025. tijekom trećeg kola EFL kupa. Tko će ostvariti pobjedu na stadionu Sincil Bank? Utakmica započinje u 20:45.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/7fc0fa821e77a93b039d4fc83b1838ac3a8660c4_thumb.jpg" />
-  </programme>
   <programme start="20250927000000 +0200" stop="20250927040000 +0200" channel="Arena.Sport.6.HD.hr">
     <title lang="hr">Najava Programa</title>
     <desc lang="hr">Pogledajte što vas sve očekuje u našem programu.</desc>
@@ -50246,83 +49809,6 @@
     <title lang="hr">Najava Programa</title>
     <desc lang="hr">Pogledajte što vas sve očekuje u našem programu.</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/174b698ca35b5fbf915870fd8d3140d833677969_thumb.jpg" />
-  </programme>
-  <programme start="20250926010000 +0200" stop="20250926030000 +0200" channel="Arena.Sport.7.HD.hr">
-    <title lang="hr">Nogomet – Europa Liga: Aston Villa – Bologna</title>
-    <desc lang="hr">Aston Villa, koja je prošlu sezonu završila na šestom mjestu Premier lige, ali je ovu otvorila vrlo loše, započinje grupnu fazu Europske lige susretom protiv talijanske Bologne.</desc>
-  </programme>
-  <programme start="20250926030000 +0200" stop="20250926050000 +0200" channel="Arena.Sport.7.HD.hr">
-    <title lang="hr">Nogomet – Liga Prvaka: Slovan – Dinamo</title>
-    <desc lang="hr">Sa tri poraza u isto toliko utakmica, i to uz prilično uvjerljive rezultate protivnika, Slovan Bratislava drži začelje ljestvice Lige prvaka, a domaći susret s Dinamom iz Zagreba teško da će im...</desc>
-  </programme>
-  <programme start="20250926050000 +0200" stop="20250926070000 +0200" channel="Arena.Sport.7.HD.hr">
-    <title lang="hr">Nogomet – Konferencijska Liga: Chelsea – Djurgarden</title>
-    <desc lang="hr">Chelsea i Djurgarden će se suočiti 8. svibnja 2025. na stadionu Stamford Bridge tijekom uzvratne utakmice polufinala Konferencijske lige.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/77a3d216b90d384bbb13f2e03d6975c41bbfe968_thumb.jpg" />
-  </programme>
-  <programme start="20250926070000 +0200" stop="20250926080000 +0200" channel="Arena.Sport.7.HD.hr">
-    <title lang="hr">Nogomet: Liga Prvaka</title>
-    <desc lang="hr">Sažetak 04.03.25. Pogledajte najzanimljivije trenutke utakmica svih faza najvećeg klupskog nogometnog natjecanja u Europi.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/a804cac5dd3097242a7b142a4ab62700d2b0c22a_thumb.jpg" />
-  </programme>
-  <programme start="20250926080000 +0200" stop="20250926100000 +0200" channel="Arena.Sport.7.HD.hr">
-    <title lang="hr">Nogomet – Europa Liga: Utrecht – Lyon</title>
-    <desc lang="hr">Olympique Lyonnais putuje u Nizozemsku na ogled s Utrechtom. Momčad koju vodi Paulo Fonseca morat će pristupiti susretu ozbiljno, jer nizozemski predstavnik može biti nezgodan protivnik.</desc>
-  </programme>
-  <programme start="20250926100000 +0200" stop="20250926103000 +0200" channel="Arena.Sport.7.HD.hr">
-    <title lang="hr">Magazin Lige Prvaka</title>
-    <desc lang="hr">Pregled vijesti i događaja s nogometnih travnjaka. Koje su novosti i koja nas sportska zbivanja očekuju, pogledajte u sportskim minutama nogometne emisije Magazin Lige prvaka!</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/46ea12a6bbed5e2ece994fb4466b8020336945fe_thumb.jpg" />
-  </programme>
-  <programme start="20250926103000 +0200" stop="20250926110000 +0200" channel="Arena.Sport.7.HD.hr">
-    <title lang="hr">Greatest Club</title>
-    <desc lang="hr">Benfica. Nikako nemojte propustiti emisiju o najboljim nogometnim momčadima koje su obilježile svjetsku nogometnu povijest. Njihove uspone i padove pogledajte u ovoj dokumentarnoj emisiji na vašim tv ekranima!</desc>
-  </programme>
-  <programme start="20250926110000 +0200" stop="20250926120000 +0200" channel="Arena.Sport.7.HD.hr">
-    <title lang="hr">Nogomet – Europa Liga</title>
-    <desc lang="hr">Sažetak 1/4 Finala. Drugo najprestižnije klupsko nogometno natjecanje u Europi je službeno pod okriljem UEFA-e od 1971. godine.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/7f60ac403bc4cb4933b672ebe071fd9366780a0a_thumb.jpg" />
-  </programme>
-  <programme start="20250926120000 +0200" stop="20250926140000 +0200" channel="Arena.Sport.7.HD.hr">
-    <title lang="hr">Nogomet – Europa Liga: Braga – Feyenoord</title>
-    <desc lang="hr">Momčadi Braga i Feyenoord suočit će se 24. rujna 2025. godine na stadionu u Bragi u okviru prvog kola Europske lige. Oba tima teže pobjedi. Početak utakmice zakazan je za 21:00 sat.</desc>
-  </programme>
-  <programme start="20250926140000 +0200" stop="20250926150000 +0200" channel="Arena.Sport.7.HD.hr">
-    <title lang="hr">Nogomet – Europa Liga</title>
-    <desc lang="hr">Sažetak 6.kola. Drugo najprestižnije klupsko nogometno natjecanje u Europi je službeno pod okriljem UEFA-e od 1971. godine.</desc>
-  </programme>
-  <programme start="20250926150000 +0200" stop="20250926170000 +0200" channel="Arena.Sport.7.HD.hr">
-    <title lang="hr">Nogomet – Konferencijska Liga: Finale</title>
-    <desc lang="hr">Real Betis prvi je put u povijesti kluba izborio finale Europske lige gdje će se suočiti s dvostrukim osvajačem Lige prvaka, Chelseajem.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/eee468776e94685ff3b292ce9097df441ecd6784_thumb.jpg" />
-  </programme>
-  <programme start="20250926170000 +0200" stop="20250926190000 +0200" channel="Arena.Sport.7.HD.hr">
-    <title lang="hr">Nogomet – Liga Prvaka: Bayern – Chelsea</title>
-    <desc lang="hr">Bavarci iz Bayerna München dočekuju londonski Chelsea, koji je ovog ljeta osvojio Svjetsko klupsko prvenstvo protiv PSG-a.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/9e976e869a787f6df7081ffcc99013b5d81a6cc8_thumb.jpg" />
-  </programme>
-  <programme start="20250926190000 +0200" stop="20250926200000 +0200" channel="Arena.Sport.7.HD.hr">
-    <title lang="hr">Explorers</title>
-    <desc lang="hr">11 Voyage Of The Finnman. Dokumentarni film prati sportaše kroz puste pustinje, brze brzace, najviše vrhove i najdublje oceane i predstavlja njihovu beskrajnu želju za novim avanturama.</desc>
-    <credits>
-      <director>Bryan Smith</director>
-      <director>David Pearson</director>
-    </credits>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/2d0929e06e7665b1a6160cda27a2ffe630d1adb8_thumb.jpg" />
-  </programme>
-  <programme start="20250926200000 +0200" stop="20250926220000 +0200" channel="Arena.Sport.7.HD.hr">
-    <title lang="hr">Nogomet – Francuska 2. Liga: Nancy – Reims</title>
-    <desc lang="hr">AS Nancy i Reims susrest će se 26. rujna 2025. u osmom kolu francuske druge nogometne lige. Tko će odnijeti pobjedu n stadionu Marcel Picot? Susret počinje u 20:00.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/db5d833524141f7cc0f48c8bc6ced687c84113dd_thumb.jpg" />
-  </programme>
-  <programme start="20250926220000 +0200" stop="20250926230000 +0200" channel="Arena.Sport.7.HD.hr">
-    <title lang="hr">Nogomet: Liga Prvaka</title>
-    <desc lang="hr">Sažetak 17.09.. Pogledajte najzanimljivije trenutke utakmica svih faza najvećeg klupskog nogometnog natjecanja u Europi.</desc>
-  </programme>
-  <programme start="20250926230000 +0200" stop="20250927010000 +0200" channel="Arena.Sport.7.HD.hr">
-    <title lang="hr">Nogomet – Liga Prvaka: Ajax – Inter</title>
-    <desc lang="hr">Liga prvaka 2025./2026. počinje večeras. Sudjeluje 36 klubova, svaki protiv osam protivnika.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/46ab56f9ea011cd743508de0a7335ab1da56be6a_thumb.jpg" />
   </programme>
   <programme start="20250927010000 +0200" stop="20250927030000 +0200" channel="Arena.Sport.7.HD.hr">
     <title lang="hr">Nogomet – Europa Liga: Nice – Roma</title>
@@ -50555,108 +50041,6 @@
   <programme start="20250930030000 +0200" stop="20250930050000 +0200" channel="Arena.Sport.7.HD.hr">
     <title lang="hr">Nogomet: Uefa Superkup: Psg – Tottenham</title>
     <desc lang="hr">U Udinama, u Italiji, PSG otvara novu sezonu s titulom pobjednika Lige prvaka, nastupajući u tradicionalnom susretu UEFA Superkupa.</desc>
-  </programme>
-  <programme start="20250926000000 +0200" stop="20250926020000 +0200" channel="Arena.Sport.8.HD.hr">
-    <title lang="hr">Košarka – Nba Liga: Denver – La Clippers G5</title>
-    <desc lang="hr">Denver Nuggets će se suočiti s La Clippersima 29. travnja 2025. u petoj međusobnoj i odlučujućoj utakmici NBA doigravanja. Tko će slaviti u Ball Areni? Utakmica će započeti u 22:00 sata.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/10c53be9f2945cc656af9fbb75f7cdccf43e23a7_thumb.jpg" />
-  </programme>
-  <programme start="20250926020000 +0200" stop="20250926033000 +0200" channel="Arena.Sport.8.HD.hr">
-    <title lang="hr">Nba Classic Game</title>
-    <desc lang="hr">Portland – Detroit 1990.. NBA Classic Game donosi snimke legendarnih košarkaških utakmica iz NBA lige koje su ostale upamćene po nevjerojatnim obratima, vrhunskoj igri i genijalnim ubačajima.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/e5d4e52adcf88761806912fbb1cd284aba442cf0_thumb.jpg" />
-  </programme>
-  <programme start="20250926033000 +0200" stop="20250926040000 +0200" channel="Arena.Sport.8.HD.hr">
-    <title lang="hr">Nba Action</title>
-    <desc lang="hr">Tjedni magazin o NBA događajima.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/0fa01adcd7397521a1e95d9d6ea4c26bb9739afe_thumb.jpg" />
-  </programme>
-  <programme start="20250926040000 +0200" stop="20250926060000 +0200" channel="Arena.Sport.8.HD.hr">
-    <title lang="hr">Košarka – Nba Liga: Miami – Atlanta</title>
-    <desc lang="hr">Miami Heat i Atlanta Hawks odmjerit će snage u utakmici NBA lige. Koja će ekipa slaviti na terenu Kaseya centra?</desc>
-  </programme>
-  <programme start="20250926060000 +0200" stop="20250926063000 +0200" channel="Arena.Sport.8.HD.hr">
-    <title lang="hr">Nba Action</title>
-    <desc lang="hr">Tjedni magazin o NBA događajima.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/0fa01adcd7397521a1e95d9d6ea4c26bb9739afe_thumb.jpg" />
-  </programme>
-  <programme start="20250926063000 +0200" stop="20250926083000 +0200" channel="Arena.Sport.8.HD.hr">
-    <title lang="hr">Košarka – Nba Liga: Ny Knicks – Indiana G4</title>
-    <desc lang="hr">Indiana Pacers i New York Knicks odmjerit će snage 28. svibnja 2025. u okviru četvrte međusobne utakmice finalne serije NBA Istočne konferencije.</desc>
-  </programme>
-  <programme start="20250926083000 +0200" stop="20250926100000 +0200" channel="Arena.Sport.8.HD.hr">
-    <title lang="hr">30 Za 30</title>
-    <desc lang="hr">9.79. "30 for 30" serija je kritički priznatih sportskih dokumentaraca ESPN-a, koji su prvi zaživjeli kao proslava 30. godišnjice mreže.</desc>
-    <credits>
-      <director>Daniel Gordon</director>
-      <actor>Don Catlin</actor>
-      <actor>Linford Christie</actor>
-      <actor>Robson da Silva</actor>
-      <actor>Joe Douglas</actor>
-      <actor>David Harewood</actor>
-      <actor>John Hoberman</actor>
-      <actor>Angella Issajenko</actor>
-      <actor>André Action Jackson</actor>
-      <actor>Ben Johnson</actor>
-      <actor>Carl Lewis</actor>
-      <writer>Daniel Gordon</writer>
-      <writer>Nick Packer</writer>
-    </credits>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/23737e55f27499ea5d115cd71dc39ae8179060e6_thumb.jpg" />
-  </programme>
-  <programme start="20250926100000 +0200" stop="20250926120000 +0200" channel="Arena.Sport.8.HD.hr">
-    <title lang="hr">Košarka – Nba Liga: Ny Knicks – Boston G5</title>
-    <desc lang="hr">Boston Celticsi i New York Knicksi odmjerit će snage 15. svibnja 2025. u petoj međusobnoj utakmici polufinala Istočne konferencije NBA lige Tko će slaviti u TD Gardenu? Početak utakmice je u 01:00.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/a4b873a43b6541cc05e397ce19dfe9098b61bbcb_thumb.jpg" />
-  </programme>
-  <programme start="20250926120000 +0200" stop="20250926140000 +0200" channel="Arena.Sport.8.HD.hr">
-    <title lang="hr">Košarka – Nba Liga: Finale: Okc – Indiana G5</title>
-    <desc lang="hr">Oklahoma City Thunder i Indiana Pacers će se suočiti 17. lipnja 2025. u petoj međusobnoj utakmici finalne serije NBA lige. Momčadi su za sada izjednačene u serijama. Tko će prevagnuti u Paycom centru?</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/a5e94210fe1377c2e30ad530551dda1b453ddc46_thumb.jpg" />
-  </programme>
-  <programme start="20250926140000 +0200" stop="20250926160000 +0200" channel="Arena.Sport.8.HD.hr">
-    <title lang="hr">Košarka – Nba Liga: Denver – La Clippers G5</title>
-    <desc lang="hr">La Clippers će igrati protiv Denver Nuggetsa 27. travnja 2025. u sportskoj dvorani Intuit Dome tijekom četvrte utakmice prve runde doigravanja Zapadne Konferencije. Obje ekipe žele slaviti.</desc>
-  </programme>
-  <programme start="20250926160000 +0200" stop="20250926170000 +0200" channel="Arena.Sport.8.HD.hr">
-    <title lang="hr">30 Za 30</title>
-    <desc lang="hr">Celtics/Lakers: Best of Enemies, Part 1. "30 for 30" serija je kritički priznatih sportskih dokumentaraca ESPN-a, koji su prvi zaživjeli kao proslava 30. godišnjice mreže.</desc>
-    <credits>
-      <director>Jim Podhoretz</director>
-      <actor>Kareem Abdul-Jabbar</actor>
-      <actor>Danny Ainge</actor>
-      <actor>Tiny Archibald</actor>
-      <actor>Larry Bird</actor>
-      <actor>M.L. Carr</actor>
-      <actor>Nelson George</actor>
-      <actor>Bryant Gumbel</actor>
-      <actor>Ice Cube</actor>
-      <actor>Magic Johnson</actor>
-      <actor>Kevin McHale</actor>
-    </credits>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/3e2c3d360553681815f193332e8705be87837b90_thumb.jpg" />
-  </programme>
-  <programme start="20250926170000 +0200" stop="20250926180000 +0200" channel="Arena.Sport.8.HD.hr">
-    <title lang="hr">Košarka – Nba Liga: Finale Zapada – Okc – Minnesota G5</title>
-    <desc lang="hr">Oklahoma City Thunder i Minnesota Timberwolves odmjerit će snage 29. svibnja 2025. u petoj međusobnoj utakmici finalne serije Zapadne konferencije NBA lige. Tko će slaviti u Paycom centru?</desc>
-  </programme>
-  <programme start="20250926180000 +0200" stop="20250926190000 +0200" channel="Arena.Sport.8.HD.hr">
-    <title lang="hr">Košarka – Nba Liga: Finale Zapada: Okc – Minnesota G5</title>
-    <desc lang="hr">Oklahoma City Thunder i Minnesota Timberwolves odmjerit će snage 29. svibnja 2025. u petoj međusobnoj utakmici finalne serije Zapadne konferencije NBA lige. Tko će slaviti u Paycom centru?</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/8e1c02bc283bbeb22e3f9661a61c581e7abcdb85_thumb.jpg" />
-  </programme>
-  <programme start="20250926190000 +0200" stop="20250926193000 +0200" channel="Arena.Sport.8.HD.hr">
-    <title lang="hr">Nfl: Arizona – Seattle</title>
-    <desc lang="hr">Arizona Cardinals suočit će se sa Seattle Seahawks u utakmici četvrtog kola NFL-a. Koji će tim ostvariti pobjedu na stadionu State Farm? Susret započinje u 02:15.</desc>
-  </programme>
-  <programme start="20250926193000 +0200" stop="20250926220000 +0200" channel="Arena.Sport.8.HD.hr">
-    <title lang="hr">Nfl: Arizona – Seattle</title>
-    <desc lang="hr">Arizona Cardinals suočit će se sa Seattle Seahawks u utakmici četvrtog kola NFL-a. Koji će tim ostvariti pobjedu na stadionu State Farm? Susret započinje u 02:15.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/de4a97c1b89e69613ec98d97e1eaa46e0a221f08_thumb.jpg" />
-  </programme>
-  <programme start="20250926220000 +0200" stop="20250927000000 +0200" channel="Arena.Sport.8.HD.hr">
-    <title lang="hr">Košarka – Nba Liga: All Star Weekend – Rising Stars</title>
-    <desc lang="hr">NBA sezona i ovoga puta donosi novu dozu košarkaškog uzbuđenja s 30 timova koji se natječu kroz 82 utakmice regularnog dijela, sve do travnja 2025. Nova sezona uključuje i Emirates NBA Cup te...</desc>
   </programme>
   <programme start="20250927000000 +0200" stop="20250927020000 +0200" channel="Arena.Sport.8.HD.hr">
     <title lang="hr">Košarka – Nba Liga: Denver – La Clippers G6</title>
@@ -50922,36 +50306,6 @@
     <desc lang="hr">Tjedni magazin o NBA događajima.</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/0fa01adcd7397521a1e95d9d6ea4c26bb9739afe_thumb.jpg" />
   </programme>
-  <programme start="20250926000000 +0200" stop="20250926040000 +0200" channel="Arena.Sport.9.HD.hr">
-    <title lang="hr">Najava Programa</title>
-    <desc lang="hr">Pogledajte što vas sve očekuje u našem programu.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/174b698ca35b5fbf915870fd8d3140d833677969_thumb.jpg" />
-  </programme>
-  <programme start="20250926040000 +0200" stop="20250926080000 +0200" channel="Arena.Sport.9.HD.hr">
-    <title lang="hr">Najava Programa</title>
-    <desc lang="hr">Pogledajte što vas sve očekuje u našem programu.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/174b698ca35b5fbf915870fd8d3140d833677969_thumb.jpg" />
-  </programme>
-  <programme start="20250926080000 +0200" stop="20250926120000 +0200" channel="Arena.Sport.9.HD.hr">
-    <title lang="hr">Najava Programa</title>
-    <desc lang="hr">Pogledajte što vas sve očekuje u našem programu.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/174b698ca35b5fbf915870fd8d3140d833677969_thumb.jpg" />
-  </programme>
-  <programme start="20250926120000 +0200" stop="20250926160000 +0200" channel="Arena.Sport.9.HD.hr">
-    <title lang="hr">Najava Programa</title>
-    <desc lang="hr">Pogledajte što vas sve očekuje u našem programu.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/174b698ca35b5fbf915870fd8d3140d833677969_thumb.jpg" />
-  </programme>
-  <programme start="20250926160000 +0200" stop="20250926200000 +0200" channel="Arena.Sport.9.HD.hr">
-    <title lang="hr">Najava Programa</title>
-    <desc lang="hr">Pogledajte što vas sve očekuje u našem programu.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/174b698ca35b5fbf915870fd8d3140d833677969_thumb.jpg" />
-  </programme>
-  <programme start="20250926200000 +0200" stop="20250927000000 +0200" channel="Arena.Sport.9.HD.hr">
-    <title lang="hr">Najava Programa</title>
-    <desc lang="hr">Pogledajte što vas sve očekuje u našem programu.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/174b698ca35b5fbf915870fd8d3140d833677969_thumb.jpg" />
-  </programme>
   <programme start="20250927000000 +0200" stop="20250927040000 +0200" channel="Arena.Sport.9.HD.hr">
     <title lang="hr">Najava Programa</title>
     <desc lang="hr">Pogledajte što vas sve očekuje u našem programu.</desc>
@@ -51058,36 +50412,6 @@
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/174b698ca35b5fbf915870fd8d3140d833677969_thumb.jpg" />
   </programme>
   <programme start="20250930000000 +0200" stop="20250930040000 +0200" channel="Arena.Sport.9.HD.hr">
-    <title lang="hr">Najava Programa</title>
-    <desc lang="hr">Pogledajte što vas sve očekuje u našem programu.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/174b698ca35b5fbf915870fd8d3140d833677969_thumb.jpg" />
-  </programme>
-  <programme start="20250926000000 +0200" stop="20250926040000 +0200" channel="Arena.Sport.10.HD.hr">
-    <title lang="hr">Najava Programa</title>
-    <desc lang="hr">Pogledajte što vas sve očekuje u našem programu.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/174b698ca35b5fbf915870fd8d3140d833677969_thumb.jpg" />
-  </programme>
-  <programme start="20250926040000 +0200" stop="20250926080000 +0200" channel="Arena.Sport.10.HD.hr">
-    <title lang="hr">Najava Programa</title>
-    <desc lang="hr">Pogledajte što vas sve očekuje u našem programu.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/174b698ca35b5fbf915870fd8d3140d833677969_thumb.jpg" />
-  </programme>
-  <programme start="20250926080000 +0200" stop="20250926120000 +0200" channel="Arena.Sport.10.HD.hr">
-    <title lang="hr">Najava Programa</title>
-    <desc lang="hr">Pogledajte što vas sve očekuje u našem programu.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/174b698ca35b5fbf915870fd8d3140d833677969_thumb.jpg" />
-  </programme>
-  <programme start="20250926120000 +0200" stop="20250926160000 +0200" channel="Arena.Sport.10.HD.hr">
-    <title lang="hr">Najava Programa</title>
-    <desc lang="hr">Pogledajte što vas sve očekuje u našem programu.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/174b698ca35b5fbf915870fd8d3140d833677969_thumb.jpg" />
-  </programme>
-  <programme start="20250926160000 +0200" stop="20250926200000 +0200" channel="Arena.Sport.10.HD.hr">
-    <title lang="hr">Najava Programa</title>
-    <desc lang="hr">Pogledajte što vas sve očekuje u našem programu.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/174b698ca35b5fbf915870fd8d3140d833677969_thumb.jpg" />
-  </programme>
-  <programme start="20250926200000 +0200" stop="20250927000000 +0200" channel="Arena.Sport.10.HD.hr">
     <title lang="hr">Najava Programa</title>
     <desc lang="hr">Pogledajte što vas sve očekuje u našem programu.</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/174b698ca35b5fbf915870fd8d3140d833677969_thumb.jpg" />
@@ -100699,106 +100023,6 @@
     <display-name lang="Russian Federation">beIN Sports Xtra [US]</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/02/23/20250223020606068934_27.png" />
   </channel>
-  <programme channel="413152" start="20250927013000 +0000" stop="20250927020000 +0000">
-    <title lang="zh">World Downhill Skateboarding Championships</title>
-    <desc />
-    <date>2025-09-27</date>
-  </programme>
-  <programme channel="413152" start="20250927020000 +0000" stop="20250927023000 +0000">
-    <title lang="zh">The Knockout Room</title>
-    <desc />
-    <date>2025-09-27</date>
-  </programme>
-  <programme channel="413152" start="20250927023000 +0000" stop="20250927030000 +0000">
-    <title lang="zh">GKA Kite World Tour</title>
-    <desc />
-    <date>2025-09-27</date>
-  </programme>
-  <programme channel="413152" start="20250927030000 +0000" stop="20250927050000 +0000">
-    <title lang="zh">Skiing: Engadin Ski Marathon, Switzerland</title>
-    <desc />
-    <date>2025-09-27</date>
-  </programme>
-  <programme channel="413152" start="20250927050000 +0000" stop="20250927070000 +0000">
-    <title lang="zh">French Ligue 1 Soccer: Olympique de Marseille vs. Paris Saint-Germain (Orange Vélodrome, Provence-Al</title>
-    <desc />
-    <date>2025-09-27</date>
-  </programme>
-  <programme channel="413152" start="20250927070000 +0000" stop="20250927073000 +0000">
-    <title lang="zh">This is Paris</title>
-    <desc />
-    <date>2025-09-27</date>
-  </programme>
-  <programme channel="413152" start="20250927073000 +0000" stop="20250927080000 +0000">
-    <title lang="zh">The Knockout Room</title>
-    <desc />
-    <date>2025-09-27</date>
-  </programme>
-  <programme channel="413152" start="20250927080000 +0000" stop="20250927100000 +0000">
-    <title lang="zh">BRAVE – MMA: Origin of UFC Warriors</title>
-    <desc />
-    <date>2025-09-27</date>
-  </programme>
-  <programme channel="413152" start="20250927100000 +0000" stop="20250927120000 +0000">
-    <title lang="zh">Bare Knuckle Boxing: BKB 35, Part 1</title>
-    <desc />
-    <date>2025-09-27</date>
-  </programme>
-  <programme channel="413152" start="20250927120000 +0000" stop="20250927140000 +0000">
-    <title lang="zh">French Ligue 1 Soccer: Olympique de Marseille vs. Paris Saint-Germain (Orange Vélodrome, Provence-Al</title>
-    <desc />
-    <date>2025-09-27</date>
-  </programme>
-  <programme channel="413152" start="20250927140000 +0000" stop="20250927160000 +0000">
-    <title lang="zh">Skiing: Engadin Ski Marathon, Switzerland</title>
-    <desc />
-    <date>2025-09-27</date>
-  </programme>
-  <programme channel="413152" start="20250927160000 +0000" stop="20250927180000 +0000">
-    <title lang="zh">Premier Padel Tennis</title>
-    <desc />
-    <date>2025-09-27</date>
-  </programme>
-  <programme channel="413152" start="20250927180000 +0000" stop="20250927183000 +0000">
-    <title lang="zh">ABSA Cape Epic</title>
-    <desc />
-    <date>2025-09-27</date>
-  </programme>
-  <programme channel="413152" start="20250927183000 +0000" stop="20250927190000 +0000">
-    <title lang="zh">Cape Epic</title>
-    <desc />
-    <date>2025-09-27</date>
-  </programme>
-  <programme channel="413152" start="20250927190000 +0000" stop="20250927193000 +0000">
-    <title lang="zh">Mass Participation</title>
-    <desc />
-    <date>2025-09-27</date>
-  </programme>
-  <programme channel="413152" start="20250927193000 +0000" stop="20250927195000 +0000">
-    <title lang="zh">500 Great Goals</title>
-    <desc />
-    <date>2025-09-27</date>
-  </programme>
-  <programme channel="413152" start="20250927195000 +0000" stop="20250927220000 +0000">
-    <title lang="zh">Ekstraklasa Soccer</title>
-    <desc />
-    <date>2025-09-27</date>
-  </programme>
-  <programme channel="413152" start="20250927220000 +0000" stop="20250927223000 +0000">
-    <title lang="zh">90 in 30</title>
-    <desc />
-    <date>2025-09-27</date>
-  </programme>
-  <programme channel="413152" start="20250927223000 +0000" stop="20250927225000 +0000">
-    <title lang="zh">500 Great Goals</title>
-    <desc />
-    <date>2025-09-27</date>
-  </programme>
-  <programme channel="413152" start="20250927225000 +0000" stop="20250928000000 +0000">
-    <title lang="zh">Ekstraklasa Soccer</title>
-    <desc />
-    <date>2025-09-27</date>
-  </programme>
   <programme channel="413152" start="20250928010000 +0000" stop="20250928030000 +0000">
     <title lang="zh">Premier Padel Tennis</title>
     <desc />
@@ -100894,8 +100118,48 @@
     <desc />
     <date>2025-09-28</date>
   </programme>
-  <programme channel="413152" start="20250929000000 +0000" stop="20250930000000 +0000">
+  <programme channel="413152" start="20250929000000 +0000" stop="20250929003000 +0000">
     <title lang="zh">World Downhill Skateboarding Championships</title>
+    <desc />
+    <date>2025-09-29</date>
+  </programme>
+  <programme channel="413152" start="20250929003000 +0000" stop="20250929010000 +0000">
+    <title lang="zh">World Downhill Skateboarding Championships</title>
+    <desc />
+    <date>2025-09-29</date>
+  </programme>
+  <programme channel="413152" start="20250929010000 +0000" stop="20250929013000 +0000">
+    <title lang="zh">GKA Kite World Tour</title>
+    <desc />
+    <date>2025-09-29</date>
+  </programme>
+  <programme channel="413152" start="20250929013000 +0000" stop="20250929020000 +0000">
+    <title lang="zh">GKA Kite World Tour</title>
+    <desc />
+    <date>2025-09-29</date>
+  </programme>
+  <programme channel="413152" start="20250929020000 +0000" stop="20250929030000 +0000">
+    <title lang="zh">Footvolley</title>
+    <desc />
+    <date>2025-09-29</date>
+  </programme>
+  <programme channel="413152" start="20250929030000 +0000" stop="20250929040000 +0000">
+    <title lang="zh">Footvolley</title>
+    <desc />
+    <date>2025-09-29</date>
+  </programme>
+  <programme channel="413152" start="20250929040000 +0000" stop="20250929060000 +0000">
+    <title lang="zh">FIBA 3x3 Basketball World Tour</title>
+    <desc />
+    <date>2025-09-29</date>
+  </programme>
+  <programme channel="413152" start="20250929060000 +0000" stop="20250929090000 +0000">
+    <title lang="zh">BYB Xtreme Fighting Series</title>
+    <desc />
+    <date>2025-09-29</date>
+  </programme>
+  <programme channel="413152" start="20250929090000 +0000" stop="20250930000000 +0000">
+    <title lang="zh">BYB Xtreme Fighting Series</title>
     <desc />
     <date>2025-09-29</date>
   </programme>
