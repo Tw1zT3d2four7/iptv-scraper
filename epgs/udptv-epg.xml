@@ -30223,12 +30223,6 @@
     <icon src="https://d204lf4nuskf6u.cloudfront.net/it-prog-images/759655a14a35a1279b9fd09565ed0d74.jpg?k=fyYEr9Yc8jWE%2FoS5ylDpwsEwmf05Nfw5CXKpG9rpLgooKyuwx%2Fx8OX38P2gvpPexjIiYfhwAbS4zemR9rBtOPHnxDztSXhwNzCVcM0rU18w%3D" />
     <previously-shown />
   </programme>
-  <channel id="TNT.Sports.3.HD.uk">
-    <icon src="https://tv.assets.pressassociation.io/75c9df5d-d2d8-5d04-92ac-d9973c082c72.png" />
-    <icon src="https://tv.assets.pressassociation.io/75c9df5d-d2d8-5d04-92ac-d9973c082c72.png" />
-    <url>http://www.tvguide.co.uk</url>
-    <display-name lang="en">TNT Sports 3 HD</display-name>
-  </channel>
   <channel id="TNT.Sports.4.HD.uk">
     <icon src="https://tv.assets.pressassociation.io/056d00c0-1629-5388-857c-f1a9ebdec5b8.png" />
     <icon src="https://tv.assets.pressassociation.io/056d00c0-1629-5388-857c-f1a9ebdec5b8.png" />
@@ -30241,197 +30235,18 @@
     <url>http://www.tvguide.co.uk</url>
     <display-name lang="en">TNT Sports 2 HD</display-name>
   </channel>
+  <channel id="TNT.Sports.3.HD.uk">
+    <icon src="https://tv.assets.pressassociation.io/75c9df5d-d2d8-5d04-92ac-d9973c082c72.png" />
+    <icon src="https://tv.assets.pressassociation.io/75c9df5d-d2d8-5d04-92ac-d9973c082c72.png" />
+    <url>http://www.tvguide.co.uk</url>
+    <display-name lang="en">TNT Sports 3 HD</display-name>
+  </channel>
   <channel id="TNT.Sports.1.HD.uk">
     <icon src="https://tv.assets.pressassociation.io/f55b110f-8046-5273-a249-badfe915e918.png" />
     <icon src="https://tv.assets.pressassociation.io/f55b110f-8046-5273-a249-badfe915e918.png" />
     <url>http://www.tvguide.co.uk</url>
     <display-name lang="en">TNT Sports 1 HD</display-name>
   </channel>
-  <programme channel="TNT.Sports.1.HD.uk" start="20251022050000 +0000" stop="20251022060000 +0000">
-    <title lang="en">UTMB World Series Highlights</title>
-    <sub-title lang="en">Kackar</sub-title>
-    <desc lang="en">Action from the latest event at the Kackar Mountains in Turkey.</desc>
-    <category lang="en">Extreme</category>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/347f8e2e-f4eb-54b6-866b-6eae3bf2159f.jpg" />
-    <episode-num system="onscreen">S2024 E8</episode-num>
-  </programme>
-  <programme channel="TNT.Sports.1.HD.uk" start="20251022060000 +0000" stop="20251022080000 +0000">
-    <title lang="en">Northern Ireland Open Snooker</title>
-    <sub-title lang="en">Daily Highlights</sub-title>
-    <desc lang="en">Action from the third day of the tournament.</desc>
-    <category lang="en">Snooker</category>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/d64a6188-14c9-5060-8656-0297668b0bd9.jpg" />
-    <episode-num system="onscreen">S2025 E27</episode-num>
-  </programme>
-  <programme channel="TNT.Sports.1.HD.uk" start="20251022080000 +0000" stop="20251022090000 +0000">
-    <title lang="en">One Day International Cricket</title>
-    <sub-title lang="en">Australia v India - 1st ODI</sub-title>
-    <desc lang="en">Australia v India).</desc>
-    <category lang="en">Cricket - International</category>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/43e77670-d4ae-5f4a-b8a1-e46cf2fc207e.jpg" />
-    <episode-num system="onscreen">S2025 E4</episode-num>
-  </programme>
-  <programme channel="TNT.Sports.1.HD.uk" start="20251022090000 +0000" stop="20251022100000 +0000">
-    <title lang="en">International T20 Cricket Highlights</title>
-    <sub-title lang="en">New Zealand v England - 2nd T20</sub-title>
-    <desc lang="en">New Zealand v England. Action from the second T20 in the three-match series from Hagley Oval in Christchurch.</desc>
-    <category lang="en">Cricket - International</category>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/96df19b5-e360-5cf7-a8c5-79fdfc366d84.jpg" />
-    <episode-num system="onscreen">S2026 E5</episode-num>
-  </programme>
-  <programme channel="TNT.Sports.1.HD.uk" start="20251022100000 +0000" stop="20251022110000 +0000">
-    <title lang="en">Serie A</title>
-    <sub-title lang="en">Roma v Inter</sub-title>
-    <desc lang="en">AS Roma v Inter Milan.</desc>
-    <category lang="en">Football - Club</category>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/ced08774-0f08-5ef5-ac1f-f56731c3ba59.jpg" />
-    <episode-num system="onscreen">S2025 E13</episode-num>
-  </programme>
-  <programme channel="TNT.Sports.1.HD.uk" start="20251022110000 +0000" stop="20251022120000 +0000">
-    <title lang="en">Serie A</title>
-    <sub-title lang="en">AC Milan v Fiorentina</sub-title>
-    <desc lang="en">AC Milan v Fiorentina.</desc>
-    <category lang="en">Football - Club</category>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/53963590-7a4f-53fa-be26-7a91c3836654.jpg" />
-    <episode-num system="onscreen">S2025 E14</episode-num>
-  </programme>
-  <programme channel="TNT.Sports.1.HD.uk" start="20251022120000 +0000" stop="20251022140000 +0000">
-    <title lang="en">Live: Northern Ireland Open Snooker</title>
-    <sub-title lang="en">Round 3-Session 2</sub-title>
-    <desc lang="en">Coverage of the second session from the third round of the tournament, which takes place at Waterfront Hall in Belfast.</desc>
-    <category lang="en">Snooker</category>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/e5771d50-c75c-5cf0-a0da-bbdc818c6aa0.jpg" />
-    <episode-num system="onscreen">S2025 E17</episode-num>
-  </programme>
-  <programme channel="TNT.Sports.1.HD.uk" start="20251022140000 +0000" stop="20251022160000 +0000">
-    <title lang="en">Live: Northern Ireland Open Snooker</title>
-    <sub-title lang="en">Round 3-Session 3</sub-title>
-    <desc lang="en">Coverage of the third session from the third round of the tournament, which takes place at Waterfront Hall in Belfast.</desc>
-    <category lang="en">Snooker</category>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/b0941078-b6f0-5c7f-b9c4-350a1eb0d54c.jpg" />
-    <episode-num system="onscreen">S2025 E18</episode-num>
-  </programme>
-  <programme channel="TNT.Sports.1.HD.uk" start="20251022160000 +0000" stop="20251022163000 +0000">
-    <title lang="en">UIM F1H2O World Championship Highlights</title>
-    <sub-title lang="en">Zhengzhou Review</sub-title>
-    <desc lang="en">Action from the latest round of the season in Zhengzhou, China.</desc>
-    <category lang="en">Powerboating</category>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/79213021-ae54-5840-86b1-ac73ac99b334.jpg" />
-    <episode-num system="onscreen">S2025 E4</episode-num>
-  </programme>
-  <programme channel="TNT.Sports.1.HD.uk" start="20251022163000 +0000" stop="20251022170000 +0000">
-    <title lang="en">TNT Sports Reload</title>
-    <desc lang="en">The best bits from TNT Sports over the last week, including excl"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"usive interviews, the best action and so much more.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/b37a5dc2-fa7f-53cc-85ac-f39853392a4c.jpg" />
-    <episode-num system="onscreen">S2025 E43</episode-num>
-  </programme>
-  <programme channel="TNT.Sports.1.HD.uk" start="20251022170000 +0000" stop="20251022173000 +0000">
-    <title lang="en">Serie A - Full Impact</title>
-    <sub-title lang="en">Matchday 7</sub-title>
-    <desc lang="en">The best moments from the "])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"seventh matchday of the 2025/26 season, including AC Milan v Fiorentina, AS Roma v Inter Milan, Atalanta v Lazio, and Torino v Napoli.</desc>
-    <category lang="en">Football - Club</category>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/6d21f6e7-531b-5242-b0e0-6b8553d26d65.jpg" />
-    <episode-num system="onscreen">S2025 E7</episode-num>
-  </programme>
-  <programme channel="TNT.Sports.1.HD.uk" start="20251022173000 +0000" stop="20251022180000 +0000">
-    <title lang="en">Ally's Social Club</title>
-    <sub-title lang="en">Arne Slot</sub-title>
-    <desc lang="en">Liverpool manager Arne Slot talks to football"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1," legend Ally McCoist.</desc>
-    <category lang="en">Football - Club</category>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/47d09699-7fbd-5bab-8260-8bb3f78fb59c.jpg" />
-    <episode-num system="onscreen">S2024 E6</episode-num>
-  </programme>
-  <programme channel="TNT.Sports.1.HD.uk" start="20251022180000 +0000" stop="20251022213000 +0000">
-    <title lang="en">Live UEFA Champions League</title>
-    <sub-title lang="en">Live UCL: Frankfurt v Liverpool</sub-title>
-    <desc lang="en">Eintracht Frankfurt v Liverpool (Kick-off 8.00pm). Coverage of the league phase match from Deutsche Bank Park, as the visitors look to bounce back after a 1-0 defeat to Galatasaray in their previous fixture in this competition at the end of September. That defeat left them 17th in the table with three points from two games. Their hosts are two places above them on goal difference after suffering a 5-1 thrashing at the hands of Atletico Madrid in their last game.</desc>
-    <category lang="en">Football - Club</category>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/997543e0-90a6-5232-9ae8-4be65d2c8158.jpg" />
-    <episode-num system="onscreen">S2025 E64</episode-num>
-  </programme>
-  <programme channel="TNT.Sports.1.HD.uk" start="20251022213000 +0000" stop="20251022220000 +0000">
-    <title lang="en">Live: UEFA Champions League Goals Show Xtra</title>
-    <desc lang="en">Coverage of all the goals from the latest fixtures, including Chelsea v Ajax, Monaco v Tottenham Hotspur, and Eintracht Frankfurt v Liverpool.</desc>
-    <category lang="en">Football - Club</category>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/e37f798f-f57f-5765-9b27-818eba81215f.jpg" />
-    <episode-num system="onscreen">S2025 E7</episode-num>
-  </programme>
-  <programme channel="TNT.Sports.1.HD.uk" start="20251022220000 +0000" stop="20251022230000 +0000">
-    <title lang="en">Tom Aspinall: Road To Undisputed</title>
-    <desc lang="en">A look at the story of UFC fighter Tom Aspinall.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/274da488-0a1b-587e-8bab-f65f2aabdbbc.jpg" />
-    <episode-num system="onscreen">S2023 E65</episode-num>
-  </programme>
-  <programme channel="TNT.Sports.1.HD.uk" start="20251022230000 +0000" stop="20251023000000 +0000">
-    <title lang="en">UFC Countdown</title>
-    <sub-title lang="en">321</sub-title>
-    <desc lang="en">A look ahead to UFC 321.</desc>
-    <category lang="en">Combat Sports (without own categ</category>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/b55eb8cb-bb31-5e15-96f4-79d5e5adbcb4.jpg" />
-    <episode-num system="onscreen">S2025 E11</episode-num>
-  </programme>
-  <programme channel="TNT.Sports.1.HD.uk" start="20251023000000 +0000" stop="20251023010000 +0000">
-    <title lang="en">The Gallagher PREM</title>
-    <sub-title lang="en">Gloucester Rugby v Bristol Bears</sub-title>
-    <desc lang="en">Gloucester Rugby v Bristol Bears.</desc>
-    <category lang="en">Rugby Union - Domestic</category>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/562841f2-d12f-5812-9357-aecc1e1f857e.jpg" />
-    <episode-num system="onscreen">S2025 E16</episode-num>
-  </programme>
-  <programme channel="TNT.Sports.1.HD.uk" start="20251023010000 +0000" stop="20251023020000 +0000">
-    <title lang="en">The Gallagher PREM</title>
-    <sub-title lang="en">Newcastle Red Bulls v Northampton</sub-title>
-    <desc lang="en">Newcastle Red Bulls v Northampton Saints.</desc>
-    <category lang="en">Rugby Union -"])&lt;</category>
-    <category lang="en">script&gt;&lt;script&gt;self.__next_f.push([1," Domestic</category>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/a83c4cec-bd6d-5cb7-9160-5b7035c95acf.jpg" />
-    <episode-num system="onscreen">S2025 E17</episode-num>
-  </programme>
-  <programme channel="TNT.Sports.1.HD.uk" start="20251023020000 +0000" stop="20251023030000 +0000">
-    <title lang="en">The Gallagher PREM</title>
-    <sub-title lang="en">Leicester Tigers v Bath Rugby</sub-title>
-    <desc lang="en">Leicester Tigers v Bath Rugby.</desc>
-    <category lang="en">Rugby Union - Domestic</category>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/02be8e48-b9a8-5792-aac0-b4399dc71ebc.jpg" />
-    <episode-num system="onscreen">S2025 E18</episode-num>
-  </programme>
-  <programme channel="TNT.Sports.1.HD.uk" start="20251023030000 +0000" stop="20251023040000 +0000">
-    <title lang="en">The Gallagher PREM</title>
-    <sub-title lang="en">Saracens v Sale Sharks</sub-title>
-    <desc lang="en">Saracens v Sale Sharks.</desc>
-    <category lang="en">Rugby Union - Domestic</category>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/f876728f-047a-551b-a3be-cf31082ccd19.jpg" />
-    <episode-num system="onscreen">S2025 E19</episode-num>
-  </programme>
-  <programme channel="TNT.Sports.1.HD.uk" start="20251023040000 +0000" stop="20251023050000 +0000">
-    <title lang="en">The Gallagher PREM</title>
-    <sub-title lang="en">Exeter Chiefs v Harlequins</sub-title>
-    <desc lang="en">Exeter Chiefs v Harlequins.</desc>
-    <category lang="en">Rugby Union - Domestic</category>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/723db069-7a46-519f-a99b-9184a5229a1f.jpg" />
-    <episode-num system="onscreen">S2025 E20</episode-num>
-  </programme>
   <programme channel="TNT.Sports.1.HD.uk" start="20251023050000 +0000" stop="20251023060000 +0000">
     <title lang="en">International T20 Cricket Highlights</title>
     <sub-title lang="en">New Zealand v England - 2nd T20</sub-title>
@@ -30872,175 +30687,160 @@
     <icon src="https://tv.assets.pressassociation.io/46d648c3-9166-58e6-a339-cd9c3cdf0c39.jpg" />
     <episode-num system="onscreen">S2025 E65</episode-num>
   </programme>
-  <programme channel="TNT.Sports.2.HD.uk" start="20251022050000 +0000" stop="20251022060000 +0000">
-    <title lang="en">MotoGP</title>
-    <sub-title lang="en">MotoGP: GP of Australia</sub-title>
-    <desc lang="en">Action from the 2025 MotoGP Grand Prix of Australia.</desc>
-    <category lang="en">Motorcycling</category>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/dd10f540-1d56-5058-8c2e-09e9e3be7a5e.jpg" />
-    <episode-num system="onscreen">S2025 E222</episode-num>
-  </programme>
-  <programme channel="TNT.Sports.2.HD.uk" start="20251022060000 +0000" stop="20251022070000 +0000">
-    <title lang="en">MotoGP Chequered Flag</title>
-    <sub-title lang="en">Grand Prix of Australia</sub-title>
-    <desc lang="en">Post-race show featuring analysis, highlights and interviews with all the key riders).</desc>
-    <category lang="en">Motorcycling</category>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/ab5988d0-d528-5117-8a9a-1cbaec81b186.jpg" />
-    <episode-num system="onscreen">S2025 E19</episode-num>
-  </programme>
-  <programme channel="TNT.Sports.2.HD.uk" start="20251022070000 +0000" stop="20251022080000 +0000">
-    <title lang="en">British Superbikes Highlights</title>
-    <sub-title lang="en">Round 11 Brands Hatch</sub-title>
-    <desc lang="en">Action from the 11th round of the season at Brands Hatch in Kent.</desc>
-    <category lang="en">Motorcycling</category>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/5c53c15e-b294-5534-9014-48d3b1100ab7.jpg" />
-    <episode-num system="onscreen">S2025 E11</episode-num>
-  </programme>
-  <programme channel="TNT.Sports.2.HD.uk" start="20251022080000 +0000" stop="20251022090000 +0000">
-    <title lang="en">Superbike World Championship Highlights</title>
-    <sub-title lang="en">Spanish Round</sub-title>
-    <desc lang="en">Action from the 12th round of the season in Spain.</desc>
-    <category lang="en">Motorcycling</category>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/3130d924-933f-5631-b6f9-9f20b2cb14d3.jpg" />
-    <episode-num system="onscreen">S2025 E12</episode-num>
-  </programme>
-  <programme channel="TNT.Sports.2.HD.uk" start="20251022090000 +0000" stop="20251022093000 +0000">
-    <title lang="en">World E-Bike Series Review</title>
-    <sub-title lang="en">Massa Marittima-Final Review</sub-title>
-    <desc lang="en">A review of the best action and stories from in Massa Marittima, Italy.</desc>
-    <category lang="en">Extreme</category>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/55956047-530d-582f-b7a6-d13bed3f8b22.jpg" />
-    <episode-num system="onscreen">S2025 E5</episode-num>
-  </programme>
-  <programme channel="TNT.Sports.2.HD.uk" start="20251022093000 +0000" stop="20251022100000 +0000">
-    <title lang="en">Premier League Netbusters</title>
-    <desc lang="en">A unique and fast-paced look at all the best action from the top flight, including Nottingham Forest v Chelsea, Fulham v Arsenal, and Liverpool v Manchester United.</desc>
-    <category lang="en">Football - Club</category>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/01709787-53bd-515a-b77b-e3c6263adc79.jpg" />
-    <episode-num system="onscreen">S2025 E8</episode-num>
-  </programme>
-  <programme channel="TNT.Sports.2.HD.uk" start="20251022100000 +0000" stop="20251022120000 +0000">
-    <title lang="en">Northern Ireland Open Snooker</title>
-    <sub-title lang="en">Daily Highlights</sub-title>
-    <desc lang="en">Action from the third day of the tournament.</desc>
-    <category lang="en">Snooker</category>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/d64a6188-14c9-5060-8656-0297668b0bd9.jpg" />
-    <episode-num system="onscreen">S2025 E27</episode-num>
-  </programme>
-  <programme channel="TNT.Sports.2.HD.uk" start="20251022120000 +0000" stop="20251022140000 +0000">
-    <title lang="en">Live: Northern Ireland Open Snooker</title>
-    <sub-title lang="en">Round 3-Session 2</sub-title>
-    <desc lang="en">Coverage of the second session from the third round of the tournament, which takes place at Waterfront Hall in Belfast.</desc>
-    <category lang="en">Snooker</category>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/e5771d50-c75c-5cf0-a0da-bbdc818c6aa0.jpg" />
-    <episode-num system="onscreen">S2025 E17</episode-num>
-  </programme>
-  <programme channel="TNT.Sports.2.HD.uk" start="20251022140000 +0000" stop="20251022160000 +0000">
-    <title lang="en">Live: Northern Ireland Open Snooker</title>
-    <sub-title lang="en">Round 3-Session 3</sub-title>
-    <desc lang="en">Coverage of the third session from the third round of the tournament, which takes place at Waterfront Hall in Belfast.</desc>
-    <category lang="en">Snooker</category>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/b0941078-b6f0-5c7f-b9c4-350a1eb0d54c.jpg" />
-    <episode-num system="onscreen">S2025 E18</episode-num>
-  </programme>
-  <programme channel="TNT.Sports.2.HD.uk" start="20251022160000 +0000" stop="20251022170000 +0000">
-    <title lang="en">Marathons</title>
-    <sub-title lang="en">2025 Amsterdam Marathon</sub-title>
-    <desc lang="en">Action from the 2025 Amsterdam Marathon.</desc>
-    <category lang="en">Athletics</category>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/7f46d2d1-c8d1-501f-a8ff-cf9f5bd8abca.jpg" />
-    <episode-num system="onscreen">S2025 E8</episode-num>
-  </programme>
-  <programme channel="TNT.Sports.2.HD.uk" start="20251022170000 +0000" stop="20251022180000 +0000">
-    <title lang="en">Premier League Review</title>
-    <sub-title lang="en">Matchday 8</sub-title>
-    <desc lang="en">A look b"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"ack at the best action from matchday eight of the top flight, including Nottingham Forest v Chelsea, Liverpool v Manchester United and Tottenham Hotspur v Aston Villa.</desc>
-    <category lang="en">Football - Club</category>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/c5a4025d-9331-524b-aeb1-d68538256a9b.jpg" />
-    <episode-num system="onscreen">S2025 E8</episode-num>
-  </programme>
-  <programme channel="TNT.Sports.2.HD.uk" start="20251022180000 +0000" stop="20251022213000 +0000">
-    <title lang="en">Live UEFA Champions League</title>
-    <sub-title lang="en">Live UCL: Chelsea v Ajax</sub-title>
-    <desc lang="en">Chelsea v Ajax (Kick-off 8.00pm). Coverage of the league phase match from Stamford Bridge. The hosts find themselves 18th in the table after two matches having won one and lost one game so far. They lost to Bayern Munich in their first match before beating former manager Jose Mourinho's Benfica 1-0 at home in their following match. Their visitors are struggling in 35th place after losing their opening two games.</desc>
-    <category lang="en">Football - Club</category>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/2f3d1699-af50-5abd-a377-29d9ed4b8cff.jpg" />
-    <episode-num system="onscreen">S2025 E63</episode-num>
-  </programme>
-  <programme channel="TNT.Sports.2.HD.uk" start="20251022213000 +0000" stop="20251022234500 +0000">
-    <title lang="en">Live: UCI Track Cycling World Championship</title>
-    <sub-title lang="en">Day 1</sub-title>
-    <desc lang="en">Coverage of the first day of the event, which takes place in Santiago, Chile.</desc>
-    <category lang="en">Cycling</category>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/4eef72a0-cd92-53eb-84a7-dccc61c91fc9.jpg" />
-    <episode-num system="onscreen">S2025 E1</episode-num>
-  </programme>
-  <programme channel="TNT.Sports.2.HD.uk" start="20251022234500 +0000" stop="20251023001500 +0000">
-    <title lang="en">UIM F1H2O World Championship Highlights</title>
-    <sub-title lang="en">Zhengzhou Review</sub-title>
-    <desc lang="en">Action from the latest round of the season in Zhengzhou, China.</desc>
-    <category lang="en">Powerboating</category>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/79213021-ae54-5840-86b1-ac73ac99b334.jpg" />
-    <episode-num system="onscreen">S2025 E4</episode-num>
-  </programme>
-  <programme channel="TNT.Sports.2.HD.uk" start="20251023001500 +0000" stop="20251023003000 +0000">
-    <title lang="en">Premier League Reload</title>
-    <sub-title lang="en">Matchday 8</sub-title>
-    <desc lang="en">A whirlwind catch-u"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"p from matchday eight of the top flight, featuring all the goals and major talking points from Fulham v Arsenal, Liverpool v Manchester United, and more.</desc>
-    <category lang="en">Football - Club</category>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/48c135d7-9d05-5638-8d22-0122f4f04473.jpg" />
-    <episode-num system="onscreen">S2025 E8</episode-num>
-  </programme>
-  <programme channel="TNT.Sports.2.HD.uk" start="20251023003000 +0000" stop="20251023010000 +0000">
-    <title lang="en">Serie A - Full Impact</title>
-    <sub-title lang="en">Matchday 7</sub-title>
-    <desc lang="en">The best moments from the s"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"eventh matchday of the 2025/26 season, including AC Milan v Fiorentina, AS Roma v Inter Milan, Atalanta v Lazio, and Torino v Napoli.</desc>
-    <category lang="en">Football - Club</category>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/6d21f6e7-531b-5242-b0e0-6b8553d26d65.jpg" />
-    <episode-num system="onscreen">S2025 E7</episode-num>
-  </programme>
-  <programme channel="TNT.Sports.2.HD.uk" start="20251023010000 +0000" stop="20251023020000 +0000">
-    <title lang="en">Longines Global Champions Tour</title>
-    <sub-title lang="en">Grand Prix of Rabat</sub-title>
-    <desc lang="en">Action from the Grand Prix of Rabat.</desc>
-    <category lang="en">Equestrian</category>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/63115af4-5fab-5e05-ac3e-a70acd6a029c.jpg" />
-    <episode-num system="onscreen">S2025 E18</episode-num>
-  </programme>
-  <programme channel="TNT.Sports.2.HD.uk" start="20251023020000 +0000" stop="20251023030000 +0000">
-    <title lang="en">International T20 Cricket Highlights</title>
-    <sub-title lang="en">New Zealand v England - 2nd T20</sub-title>
-    <desc lang="en">New Zealand v England. Action from the second T20 in the three-match series from Hagley Oval in Christchurch.</desc>
+  <programme channel="TNT.Sports.1.HD.uk" start="20251026004500 +0000" stop="20251026093000 +0000">
+    <title lang="en">Live: One Day International Cricket</title>
+    <sub-title lang="en">Live ODI: New Zealand v England</sub-title>
+    <desc lang="en">New Zealand v England. Coverage of the first ODI in the three-match series from Bay Oval in Mount Maunganui, Tauranga. The visitors will be looking to continue a run of form against New Zealand in one-day internationals that has seen them win three of the last four meetings. However the last fixture between these two sides came in the 2023 World Cup when the hosts hammered England by nine wickets in the group stage.</desc>
     <category lang="en">Cricket - International</category>
     <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/96df19b5-e360-5cf7-a8c5-79fdfc366d84.jpg" />
-    <episode-num system="onscreen">S2026 E5</episode-num>
+    <icon src="https://tv.assets.pressassociation.io/10e02272-c95a-5620-a675-9f1013b04d67.jpg" />
+    <episode-num system="onscreen">S2026 E1</episode-num>
   </programme>
-  <programme channel="TNT.Sports.2.HD.uk" start="20251023030000 +0000" stop="20251023050000 +0000">
-    <title lang="en">V8 Supercars Highlights</title>
-    <sub-title lang="en">Repco Bathurst 1000</sub-title>
-    <desc lang="en">Action from the 20"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"25 Repco Bathurst 1000.</desc>
-    <category lang="en">Motor Sport</category>
+  <programme channel="TNT.Sports.1.HD.uk" start="20251026093000 +0000" stop="20251026094500 +0000">
+    <title lang="en">UEFA Champions League Goals Reload</title>
+    <desc lang="en">The pick of the goals from the third round of fixtures, including Arsenal v Atletico Madrid, Eintracht Frankfurt v Liverpool, Villarreal v Manchester City, and Chelsea v Ajax.</desc>
+    <category lang="en">Football - Club</category>
     <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/264dc63d-8c3f-5f97-b413-9ec5d611cb52.jpg" />
-    <episode-num system="onscreen">S2025 E18</episode-num>
+    <icon src="https://tv.assets.pressassociation.io/f9a034e6-f448-56d5-9071-0a61f2b6b36a.jpg" />
+    <episode-num system="onscreen">S2025 E3</episode-num>
+  </programme>
+  <programme channel="TNT.Sports.1.HD.uk" start="20251026094500 +0000" stop="20251026111500 +0000">
+    <title lang="en">Premier League</title>
+    <sub-title lang="en">PL: Brentford v Liverpool</sub-title>
+    <desc lang="en">Brentford v Liverpool.</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://tv.assets.pressassociation.io/1ffc65e2-d87d-571d-bd0d-774271b8f7f4.jpg" />
+    <episode-num system="onscreen">S2025 E9</episode-num>
+  </programme>
+  <programme channel="TNT.Sports.1.HD.uk" start="20251026111500 +0000" stop="20251026114500 +0000">
+    <title lang="en">Premier League - The Big Interview</title>
+    <desc lang="en">An interview with Bournemouth striker Evanilson.</desc>
+    <category lang="en">Football - Club</category>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/bc3cbd80-1949-5466-b7ed-3299107c3b4f.jpg" />
+    <episode-num system="onscreen">S2025 E11</episode-num>
+  </programme>
+  <programme channel="TNT.Sports.1.HD.uk" start="20251026114500 +0000" stop="20251026133000 +0000">
+    <title lang="en">Live: Men's Alpine Skiing World Cup</title>
+    <sub-title lang="en">Solden-Giant Slalom-Run 2</sub-title>
+    <desc lang="en">Coverage of run two of the giant slalom, which takes place in Solden, Austria.</desc>
+    <category lang="en">Skiing</category>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/ca5b924b-e015-53c9-8bdb-83a5d87a4cf8.jpg" />
+    <episode-num system="onscreen">S2025 E2</episode-num>
+  </programme>
+  <programme channel="TNT.Sports.1.HD.uk" start="20251026133000 +0000" stop="20251026143000 +0000">
+    <title lang="en">The Gallagher PREM</title>
+    <sub-title lang="en">Exeter Chiefs v Gloucester Rugby</sub-title>
+    <desc lang="en">Exeter Chiefs v Gloucester Rugby.</desc>
+    <category lang="en">Rugby Union - Domestic</category>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/c6e97362-2208-555d-8ca6-2438b4f6905a.jpg" />
+    <episode-num system="onscreen">S2025 E23</episode-num>
+  </programme>
+  <programme channel="TNT.Sports.1.HD.uk" start="20251026143000 +0000" stop="20251026171500 +0000">
+    <title lang="en">Live: Premiership Women's Rugby</title>
+    <sub-title lang="en">Live: Gloucester-Hartpury W v Saracens W</sub-title>
+    <desc lang="en">Gloucester-Hartpury Women's RFC v Saracens Women (Kick-off 3.00pm). Coverage of the match from Kingsholm Stadium.</desc>
+    <category lang="en">Rugby Union - Domestic</category>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/1908b697-d8bc-5589-a0d2-635b9135754e.jpg" />
+    <episode-num system="onscreen">S2025 E1</episode-num>
+  </programme>
+  <programme channel="TNT.Sports.1.HD.uk" start="20251026171500 +0000" stop="20251026173000 +0000">
+    <title lang="en">TNT Sports Reload</title>
+    <desc lang="en">The best bits from TNT Sports over the last week, including exclusi"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"ve interviews, the best action and so much more.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/b37a5dc2-fa7f-53cc-85ac-f39853392a4c.jpg" />
+    <episode-num system="onscreen">S2025 E43</episode-num>
+  </programme>
+  <programme channel="TNT.Sports.1.HD.uk" start="20251026173000 +0000" stop="20251026183000 +0000">
+    <title lang="en">One Day International Cricket</title>
+    <sub-title lang="en">New Zealand v England - 1st ODI</sub-title>
+    <desc lang="en">New Zealand v England).</desc>
+    <category lang="en">Cricket - International</category>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/2e4a999d-bcf7-57ad-9a2c-96fb7290895f.jpg" />
+    <episode-num system="onscreen">S2026 E1</episode-num>
+  </programme>
+  <programme channel="TNT.Sports.1.HD.uk" start="20251026183000 +0000" stop="20251026193000 +0000">
+    <title lang="en">Serie A</title>
+    <sub-title lang="en">Napoli v Inter</sub-title>
+    <desc lang="en">Napoli v Inter Milan.</desc>
+    <category lang="en">Football - Club</category>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/c19d2525-251d-562f-b90b-b732ac313679.jpg" />
+    <episode-num system="onscreen">S2025 E15</episode-num>
+  </programme>
+  <programme channel="TNT.Sports.1.HD.uk" start="20251026193000 +0000" stop="20251026214500 +0000">
+    <title lang="en">Live: Serie A</title>
+    <sub-title lang="en">Live Serie A: Lazio v Juventus</sub-title>
+    <desc lang="en">Lazio v Juventus (Kick-off 7.45pm). Coverage of the Italian top-flight match from Stadio Olimpico.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/223953f7-2e32-5a09-a0a9-d0df01802295.jpg" />
+    <episode-num system="onscreen">S2025 E16</episode-num>
+  </programme>
+  <programme channel="TNT.Sports.1.HD.uk" start="20251026214500 +0000" stop="20251026220000 +0000">
+    <title lang="en">UEFA Champions League Goals Reload</title>
+    <desc lang="en">The pick of the goals from the third round of fixtures, including Arsenal v Atletico Madrid, Eintracht Frankfurt v Liverpool, Villarreal v Manchester City, and Chelsea v Ajax.</desc>
+    <category lang="en">Football - Club</category>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/f9a034e6-f448-56d5-9071-0a61f2b6b36a.jpg" />
+    <episode-num system="onscreen">S2025 E3</episode-num>
+  </programme>
+  <programme channel="TNT.Sports.1.HD.uk" start="20251026220000 +0000" stop="20251026230000 +0000">
+    <title lang="en">Adobe Women's FA Cup</title>
+    <sub-title lang="en">Middlesbrough Women v Cheadle Town Stingers WFC</sub-title>
+    <desc lang="en">Action from Middlesbrough Women v "])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"Cheadle Town Stingers WFC.</desc>
+    <category lang="en">Football - Club</category>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/5de53df9-fcf0-53de-823e-cfbe35219f54.jpg" />
+    <episode-num system="onscreen">S2025 E1</episode-num>
+  </programme>
+  <programme channel="TNT.Sports.1.HD.uk" start="20251026230000 +0000" stop="20251027000000 +0000">
+    <title lang="en">Premiership Women's Rugby</title>
+    <sub-title lang="en">Gloucester-Hartpury W v Saracens W</sub-title>
+    <desc lang="en">"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"Gloucester-Hartpury Women's RFC v Saracens Women.</desc>
+    <category lang="en">Rugby Union - Domestic</category>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/358d83ee-68bc-5a0f-9a2d-d4e03c866cd6.jpg" />
+    <episode-num system="onscreen">S2025 E1</episode-num>
+  </programme>
+  <programme channel="TNT.Sports.1.HD.uk" start="20251027000000 +0000" stop="20251027010000 +0000">
+    <title lang="en">The Gallagher PREM</title>
+    <sub-title lang="en">Leicester Tigers v Sale Sharks</sub-title>
+    <desc lang="en">Leicester Tigers v Sale Sharks.</desc>
+    <category lang="en">Rugby Union - Domestic</category>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/6f22da08-1e62-5b8b-bcbb-2d9f167c178e.jpg" />
+    <episode-num system="onscreen">S2025 E25</episode-num>
+  </programme>
+  <programme channel="TNT.Sports.1.HD.uk" start="20251027010000 +0000" stop="20251027013000 +0000">
+    <title lang="en">MLB: Off the Bat</title>
+    <desc lang="en">All the latest action from Major League Baseball wrapped up.</desc>
+    <category lang="en">Ba"])&lt;</category>
+    <category lang="en">script&gt;&lt;script&gt;self.__next_f.push([1,"seball</category>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/882ccb3e-60be-5eef-9d13-5c29533afb89.jpg" />
+    <episode-num system="onscreen">S2025 E31</episode-num>
+  </programme>
+  <programme channel="TNT.Sports.1.HD.uk" start="20251027013000 +0000" stop="20251027040000 +0000">
+    <title lang="en">MLB</title>
+    <sub-title lang="en">World Series Game 2</sub-title>
+    <desc lang="en">Toronto Blue Jays v Los Angeles Dodgers. Action from game two of the World Series at Rogers Centre.</desc>
+    <category lang="en">Baseball</category>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/638c1dcb-71e0-5a22-bd7c-afe1aaf94121.jpg" />
+    <episode-num system="onscreen">S2025 E48</episode-num>
+  </programme>
+  <programme channel="TNT.Sports.1.HD.uk" start="20251027040000 +0000" stop="20251027050000 +0000">
+    <title lang="en">UCI Track Cycling World Championship</title>
+    <sub-title lang="en">Day 5</sub-title>
+    <desc lang="en">Action from the fifth day of the event in Santiago, Chile.</desc>
+    <category lang="en">Cycling</category>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/ef5156a4-b749-5637-a49c-c06d65c7843d.jpg" />
+    <episode-num system="onscreen">S2025 E5</episode-num>
   </programme>
   <programme channel="TNT.Sports.2.HD.uk" start="20251023050000 +0000" stop="20251023060000 +0000">
     <title lang="en">UEFA Champions League Highlights Show</title>
@@ -31055,8 +30855,7 @@
     <title lang="en">UEFA Champions League</title>
     <sub-title lang="en">UCL: Frankfurt v Liverpool</sub-title>
     <desc lang="en">Eintracht Frankfurt v Liverpool.</desc>
-    <category lang="en">Foot"])&lt;</category>
-    <category lang="en">script&gt;&lt;script&gt;self.__next_f.push([1,"ball - Club</category>
+    <category lang="en">Football - Club</category>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/8e76b3cf-8a9b-53ed-8199-9bb77b6d5160.jpg" />
     <episode-num system="onscreen">S2025 E64</episode-num>
@@ -31074,8 +30873,7 @@
     <title lang="en">UEFA Champions League</title>
     <sub-title lang="en">UCL: Monaco v Spurs</sub-title>
     <desc lang="en">Monaco v Tottenham Hotspur.</desc>
-    <category lang="en">Football - Clu"])&lt;</category>
-    <category lang="en">script&gt;&lt;script&gt;self.__next_f.push([1,"b</category>
+    <category lang="en">Football - Club</category>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/217b9ce1-de4d-592a-ad1c-3887e1db0d89.jpg" />
     <episode-num system="onscreen">S2025 E61</episode-num>
@@ -31093,8 +30891,7 @@
     <title lang="en">UEFA Champions League</title>
     <sub-title lang="en">UCL: Bayern Munich v Club Brugge</sub-title>
     <desc lang="en">Bayern Munich v Club Brugge.</desc>
-    <category lang="en">Football - C"])&lt;</category>
-    <category lang="en">script&gt;&lt;script&gt;self.__next_f.push([1,"lub</category>
+    <category lang="en">Football - Club</category>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/9b12fe23-8329-5ef3-bf24-63a9749bfa51.jpg" />
     <episode-num system="onscreen">S2025 E65</episode-num>
@@ -31103,8 +30900,7 @@
     <title lang="en">UEFA Champions League</title>
     <sub-title lang="en">UCL: Athletic Bilbao v Qarabag</sub-title>
     <desc lang="en">Athletic Bilbao v Qarabag.</desc>
-    <category lang="en">Football - Club"])&lt;</category>
-    <category lang="en">script&gt;&lt;script&gt;self.__next_f.push([1,"</category>
+    <category lang="en">Football - Club</category>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/9537ed0c-1174-506a-94a4-1ea9f11c34eb.jpg" />
     <episode-num system="onscreen">S2025 E59</episode-num>
@@ -31168,7 +30964,7 @@
   </programme>
   <programme channel="TNT.Sports.2.HD.uk" start="20251023123000 +0000" stop="20251023130000 +0000">
     <title lang="en">TNT Sports Reload</title>
-    <desc lang="en">The best bits from TNT Sports over the last week, including exclu"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"sive interviews, the best action and so much more.</desc>
+    <desc lang="en">The best bits from TNT Sports over the last week, including exclusive interviews, the best action and so much more.</desc>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/b37a5dc2-fa7f-53cc-85ac-f39853392a4c.jpg" />
     <episode-num system="onscreen">S2025 E43</episode-num>
@@ -31244,16 +31040,7 @@
     <icon src="https://tv.assets.pressassociation.io/bc3cbd80-1949-5466-b7ed-3299107c3b4f.jpg" />
     <episode-num system="onscreen">S2025 E11</episode-num>
   </programme>
-  <programme channel="TNT.Sports.2.HD.uk" start="20251024004500 +0000" stop="20251024010000 +0000">
-    <title lang="en">MotoGP Rewind</title>
-    <sub-title lang="en">MotoGP Rewind: Germany 2025</sub-title>
-    <desc lang="en">A look back at the best of the action from the 2025 MotoGP Grand Prix o"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"f Germany.</desc>
-    <category lang="en">Motorcycling</category>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/07e979d3-38c6-5349-b4bc-16c3f6e48261.jpg" />
-    <episode-num system="onscreen">S2025 E11</episode-num>
-  </programme>
-  <programme channel="TNT.Sports.2.HD.uk" start="20251024010000 +0000" stop="20251024034500 +0000">
+  <programme channel="TNT.Sports.2.HD.uk" start="20251024004500 +0000" stop="20251024034500 +0000">
     <title lang="en">Live MotoGP</title>
     <sub-title lang="en">Live MotoGP: Malaysia FP</sub-title>
     <desc lang="en">The Grand Prix of Malaysia MotoGP, Moto2 and Moto3 first free pract"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"ice sessions. Coverage from the 20th round of the season at Petronas Sepang International Circuit.</desc>
@@ -31631,211 +31418,165 @@
     <icon src="https://tv.assets.pressassociation.io/d590e64e-56c6-548c-adea-c27a34f470a3.jpg" />
     <episode-num system="onscreen">S2025 E231</episode-num>
   </programme>
-  <programme channel="TNT.Sports.3.HD.uk" start="20251022050000 +0000" stop="20251022060000 +0000">
-    <title lang="en">UEFA Champions League Highlights Show</title>
-    <sub-title lang="en">Matchday 3-Tuesday</sub-title>
-    <desc lang="en">A round-up of all the goals from Tuesday's fixtures, including Newcastle United v Benfica, Villarreal v Manchester City, and more.</desc>
-    <category lang="en">Football - Club</category>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/19795273-dca9-5be3-bf9a-72b8c5ff9bbc.jpg" />
-    <episode-num system="onscreen">S2025 E10</episode-num>
-  </programme>
-  <programme channel="TNT.Sports.3.HD.uk" start="20251022060000 +0000" stop="20251022063000 +0000">
-    <title lang="en">UEFA Champions League</title>
-    <sub-title lang="en">UCL: Villarreal v Manchester City</sub-title>
-    <desc lang="en">Villarreal v Manchester City.</desc>
-    <category lang="en">Football "])&lt;</category>
-    <category lang="en">script&gt;&lt;script&gt;self.__next_f.push([1,"- Club</category>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/63301cd7-39ff-5782-89d6-c26f5e6cc2ef.jpg" />
-    <episode-num system="onscreen">S2025 E58</episode-num>
-  </programme>
-  <programme channel="TNT.Sports.3.HD.uk" start="20251022063000 +0000" stop="20251022070000 +0000">
-    <title lang="en">UEFA Champions League</title>
-    <sub-title lang="en">UCL: Newcastle United v Benfica</sub-title>
-    <desc lang="en">Newcastle United v Benfica.</desc>
-    <category lang="en">Football - Cl"])&lt;</category>
-    <category lang="en">script&gt;&lt;script&gt;self.__next_f.push([1,"ub</category>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/61478d66-083f-583f-8208-f2ce56f33d8f.jpg" />
-    <episode-num system="onscreen">S2025 E55</episode-num>
-  </programme>
-  <programme channel="TNT.Sports.3.HD.uk" start="20251022070000 +0000" stop="20251022073000 +0000">
-    <title lang="en">UEFA Champions League</title>
-    <sub-title lang="en">Bayer Leverkusen v Paris Saint-Germain</sub-title>
-    <desc lang="en">Bayer Leverkusen v Paris Saint-Germain"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,".</desc>
-    <category lang="en">Football - Club</category>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/3ebe76fc-976f-526f-93d7-f66c23f61608.jpg" />
-    <episode-num system="onscreen">S2025 E53</episode-num>
-  </programme>
-  <programme channel="TNT.Sports.3.HD.uk" start="20251022073000 +0000" stop="20251022080000 +0000">
-    <title lang="en">UEFA Champions League</title>
-    <sub-title lang="en">UCL: Barcelona v Olympiacos</sub-title>
-    <desc lang="en">Barcelona v Olympiacos.</desc>
-    <category lang="en">Football - Club</category>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/882c83ad-855b-529e-b79b-609815b9cffc.jpg" />
-    <episode-num system="onscreen">S2025 E51</episode-num>
-  </programme>
-  <programme channel="TNT.Sports.3.HD.uk" start="20251022080000 +0000" stop="20251022083000 +0000">
-    <title lang="en">UEFA Champions League</title>
-    <sub-title lang="en">UCL: Kairat Almaty v Pafos</sub-title>
-    <desc lang="en">Kairat Almaty v Pafos.</desc>
-    <category lang="en">Football - Club</category>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/3c556849-eb10-506e-89d8-d81851748d41.jpg" />
-    <episode-num system="onscreen">S2025 E52</episode-num>
-  </programme>
-  <programme channel="TNT.Sports.3.HD.uk" start="20251022083000 +0000" stop="20251022090000 +0000">
-    <title lang="en">UEFA Champions League</title>
-    <sub-title lang="en">PSV Eindhoven v Napoli</sub-title>
-    <desc lang="en">PSV Eindhoven v Napoli.</desc>
-    <category lang="en">Football - Club</category>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/aef81180-1b7e-5a39-b1c3-b158e0093b88.jpg" />
-    <episode-num system="onscreen">S2025 E56</episode-num>
-  </programme>
-  <programme channel="TNT.Sports.3.HD.uk" start="20251022090000 +0000" stop="20251022093000 +0000">
-    <title lang="en">UEFA Champions League</title>
-    <sub-title lang="en">UCL: Copenhagen v Dortmund</sub-title>
-    <desc lang="en">FC Copenhagen v Borussia Dortmund.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/2c52fd3e-f820-54bd-b490-39f2c452e93f.jpg" />
-    <episode-num system="onscreen">S2025 E54</episode-num>
-  </programme>
-  <programme channel="TNT.Sports.3.HD.uk" start="20251022093000 +0000" stop="20251022100000 +0000">
-    <title lang="en">UEFA Champions League</title>
-    <sub-title lang="en">Union Saint-Gilloise v Inter</sub-title>
-    <desc lang="en">Union Saint-Gilloise v Inter Milan.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/44b0de9f-1465-5a1c-9df1-6df5aeec8fa9.jpg" />
-    <episode-num system="onscreen">S2025 E57</episode-num>
-  </programme>
-  <programme channel="TNT.Sports.3.HD.uk" start="20251022100000 +0000" stop="20251022110000 +0000">
-    <title lang="en">WRC Review</title>
-    <sub-title lang="en">Central European Rally</sub-title>
-    <desc lang="en">Action from the 2025 Central European Rally.</desc>
-    <category lang="en">Rallying</category>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/f3b092c8-2cf0-588b-a674-74b484176038.jpg" />
-    <episode-num system="onscreen">S2025 E12</episode-num>
-  </programme>
-  <programme channel="TNT.Sports.3.HD.uk" start="20251022110000 +0000" stop="20251022120000 +0000">
-    <title lang="en">T100 Triathlon World Tour Highlights</title>
-    <sub-title lang="en">Wollongong</sub-title>
-    <desc lang="en">Action from the latest event in Wollongong, Australia.</desc>
-    <category lang="en">Triathlon</category>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/5dea5089-0396-5650-b351-07dcf5f3fd9c.jpg" />
-    <episode-num system="onscreen">S2025 E7</episode-num>
-  </programme>
-  <programme channel="TNT.Sports.3.HD.uk" start="20251022120000 +0000" stop="20251022140000 +0000">
-    <title lang="en">Live UEFA Youth League</title>
-    <sub-title lang="en">Live: Monaco U19 v Spurs U19</sub-title>
-    <desc lang="en">Monaco U19 v T"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"ottenham Hotspur U19 (Kick-off 1.00pm). Coverage of the league phase match from CMB Training Centre.</desc>
-    <category lang="en">Football - Club</category>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/3b87dac1-729c-5f8c-a859-f63a8c38e666.jpg" />
-    <episode-num system="onscreen">S2025 E11</episode-num>
-  </programme>
-  <programme channel="TNT.Sports.3.HD.uk" start="20251022140000 +0000" stop="20251022150000 +0000">
-    <title lang="en">UEFA Champions League Highlights Show</title>
-    <sub-title lang="en">Matchday 3-Tuesday</sub-title>
-    <desc lang="en">A round-up of all the goals from Tuesday's fixtures, including Newcastle United v Benfica, Villarreal v Manchester City, and more.</desc>
-    <category lang="en">Football - Club</category>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/19795273-dca9-5be3-bf9a-72b8c5ff9bbc.jpg" />
-    <episode-num system="onscreen">S2025 E10</episode-num>
-  </programme>
-  <programme channel="TNT.Sports.3.HD.uk" start="20251022150000 +0000" stop="20251022151500 +0000">
-    <title lang="en">Superbike Rewind</title>
-    <sub-title lang="en">Spanish Round</sub-title>
-    <desc lang="en">Action from the 12th round of the season in Spain.</desc>
-    <category lang="en">Motorcycling"])&lt;</category>
-    <category lang="en">script&gt;&lt;script&gt;self.__next_f.push([1,"</category>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/d0b8db3a-88ac-5df4-b0d8-460cf965e406.jpg" />
-    <episode-num system="onscreen">S2025 E12</episode-num>
-  </programme>
-  <programme channel="TNT.Sports.3.HD.uk" start="20251022151500 +0000" stop="20251022153000 +0000">
-    <title lang="en">British Superbikes Rewind</title>
-    <sub-title lang="en">Round 11 Brands Hatch</sub-title>
-    <desc lang="en">A look back at the best action from round 11 at Brands Hatch in Kent.</desc>
+  <programme channel="TNT.Sports.2.HD.uk" start="20251026050000 +0000" stop="20251026061500 +0000">
+    <title lang="en">Live MotoGP</title>
+    <sub-title lang="en">Live Moto2: Grand Prix of Malaysia</sub-title>
+    <desc lang="en">The Grand Prix of Malaysia Moto2 race (Start-time 5.15am). Coverage from the 20th round of"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1," the season at Petronas Sepang International Circuit.</desc>
     <category lang="en">Motorcycling</category>
     <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/ac0a9c69-622c-59ff-aec7-d1e98f89dd48.jpg" />
-    <episode-num system="onscreen">S2025 E11</episode-num>
+    <icon src="https://tv.assets.pressassociation.io/9d6c3001-672f-5148-8c5b-8bf9bf7e3a9e.jpg" />
+    <episode-num system="onscreen">S2025 E232</episode-num>
   </programme>
-  <programme channel="TNT.Sports.3.HD.uk" start="20251022153000 +0000" stop="20251022154500 +0000">
-    <title lang="en">MotoGP Rewind</title>
-    <sub-title lang="en">MotoGP Rewind: Australia 2025</sub-title>
-    <desc lang="en">A look back at the best of the action from the 2025 MotoGP Grand P"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"rix of Australia.</desc>
+  <programme channel="TNT.Sports.2.HD.uk" start="20251026061500 +0000" stop="20251026081500 +0000">
+    <title lang="en">Live MotoGP</title>
+    <sub-title lang="en">Live MotoGP: GP of Malaysia</sub-title>
+    <desc lang="en">The Grand Prix of Malaysia MotoGP race (Start-time 7.00am). Coverage from the 20th round"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1," of the season at Petronas Sepang International Circuit.</desc>
     <category lang="en">Motorcycling</category>
     <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/abac3634-672d-580e-b4ac-cd5d57c04b66.jpg" />
-    <episode-num system="onscreen">S2025 E19</episode-num>
+    <icon src="https://tv.assets.pressassociation.io/91795bc6-ed84-5c44-a9f2-34a859ad9214.jpg" />
+    <episode-num system="onscreen">S2025 E233</episode-num>
   </programme>
-  <programme channel="TNT.Sports.3.HD.uk" start="20251022154500 +0000" stop="20251022161500 +0000">
-    <title lang="en">World E-Bike Series Review</title>
-    <sub-title lang="en">Massa Marittima-Final Review</sub-title>
-    <desc lang="en">A review of the best action and stories from in Massa Marittima, Italy.</desc>
-    <category lang="en">Extreme</category>
+  <programme channel="TNT.Sports.2.HD.uk" start="20251026081500 +0000" stop="20251026091500 +0000">
+    <title lang="en">MotoGP Chequered Flag</title>
+    <sub-title lang="en">Grand Prix of Malaysia</sub-title>
+    <desc lang="en">Post-race show featuring analysis, highlights and interviews with all the key riders).</desc>
+    <category lang="en">Motorcycling</category>
     <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/55956047-530d-582f-b7a6-d13bed3f8b22.jpg" />
-    <episode-num system="onscreen">S2025 E5</episode-num>
+    <icon src="https://tv.assets.pressassociation.io/9f7cf6e6-fbe5-5b14-8780-257b98fcf023.jpg" />
+    <episode-num system="onscreen">S2025 E20</episode-num>
   </programme>
-  <programme channel="TNT.Sports.3.HD.uk" start="20251022161500 +0000" stop="20251022164500 +0000">
-    <title lang="en">Premier League - The Big Interview</title>
-    <desc lang="en">With former Arsenal and Manchester City forward Emmanuel Adebayor.</desc>
+  <programme channel="TNT.Sports.2.HD.uk" start="20251026091500 +0000" stop="20251026094500 +0000">
+    <title lang="en">Michelin Le Mans Cup Highlights</title>
+    <sub-title lang="en">Portimao</sub-title>
+    <desc lang="en">Highlights of the final race in Portimao.</desc>
+    <category lang="en">Motor Sport</category>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/7a20c24f-5f34-5376-a26e-19d6a80013f7.jpg" />
+    <episode-num system="onscreen">S2025 E6</episode-num>
+  </programme>
+  <programme channel="TNT.Sports.2.HD.uk" start="20251026094500 +0000" stop="20251026104500 +0000">
+    <title lang="en">European Le Mans Series Highlights</title>
+    <sub-title lang="en">Portimao</sub-title>
+    <desc lang="en">Action from the final round in Portimao.</desc>
+    <category lang="en">Motor Sport</category>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/02eab658-f6e3-57c6-a8df-a6a57682ddce.jpg" />
+    <episode-num system="onscreen">S2025 E3</episode-num>
+  </programme>
+  <programme channel="TNT.Sports.2.HD.uk" start="20251026104500 +0000" stop="20251026124500 +0000">
+    <title lang="en">Northern Ireland Open Snooker</title>
+    <sub-title lang="en">Daily Highlights</sub-title>
+    <desc lang="en">Action from the semi-finals of the tournament.</desc>
+    <category lang="en">Snooker</category>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/f4e2b0c4-afa4-5f04-a5bf-ca6a76fd197f.jpg" />
+    <episode-num system="onscreen">S2025 E31</episode-num>
+  </programme>
+  <programme channel="TNT.Sports.2.HD.uk" start="20251026124500 +0000" stop="20251026160000 +0000">
+    <title lang="en">Live: Northern Ireland Open Snooker</title>
+    <sub-title lang="en">Final-Session 1</sub-title>
+    <desc lang="en">Coverage of the first session from the final of the tournament, which takes place at Waterfront Hall in Belfast.</desc>
+    <category lang="en">Snooker</category>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/9f589b03-d427-5d43-a205-bfdedaeb052e.jpg" />
+    <episode-num system="onscreen">S2025 E39</episode-num>
+  </programme>
+  <programme channel="TNT.Sports.2.HD.uk" start="20251026160000 +0000" stop="20251026170000 +0000">
+    <title lang="en">MotoGP</title>
+    <sub-title lang="en">MotoGP: GP of Malaysia</sub-title>
+    <desc lang="en">Action from the 2025 MotoGP Grand Prix of Malaysia.</desc>
+    <category lang="en">Motorcycling</category>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/780d0179-787b-520e-838e-14c61aa5b86c.jpg" />
+    <episode-num system="onscreen">S2025 E233</episode-num>
+  </programme>
+  <programme channel="TNT.Sports.2.HD.uk" start="20251026170000 +0000" stop="20251026180000 +0000">
+    <title lang="en">MotoGP Chequered Flag</title>
+    <sub-title lang="en">Grand Prix of Malaysia</sub-title>
+    <desc lang="en">Post-race show featuring analysis, highlights and interviews with all the key riders).</desc>
+    <category lang="en">Motorcycling</category>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/9f7cf6e6-fbe5-5b14-8780-257b98fcf023.jpg" />
+    <episode-num system="onscreen">S2025 E20</episode-num>
+  </programme>
+  <programme channel="TNT.Sports.2.HD.uk" start="20251026180000 +0000" stop="20251026181500 +0000">
+    <title lang="en">UEFA Champions League Goals Reload</title>
+    <desc lang="en">The pick of the goals from the third round of fixtures, including Arsenal v Atletico Madrid, Eintracht Frankfurt v Liverpool, Villarreal v Manchester City, and Chelsea v Ajax.</desc>
     <category lang="en">Football - Club</category>
     <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/8ac0297f-fdad-5581-a9c2-038b210006c9.jpg" />
-    <episode-num system="onscreen">S2025 E10</episode-num>
+    <icon src="https://tv.assets.pressassociation.io/f9a034e6-f448-56d5-9071-0a61f2b6b36a.jpg" />
+    <episode-num system="onscreen">S2025 E3</episode-num>
   </programme>
-  <programme channel="TNT.Sports.3.HD.uk" start="20251022164500 +0000" stop="20251022171500 +0000">
-    <title lang="en">Premier League Stories</title>
-    <sub-title lang="en">Sandro Tonali</sub-title>
-    <desc lang="en">A look at the rise of one of Italy's most gifted midfielders, Sandro Tonali).</desc>
+  <programme channel="TNT.Sports.2.HD.uk" start="20251026181500 +0000" stop="20251026183000 +0000">
+    <title lang="en">UEFA Conference League Goals Reload</title>
+    <sub-title lang="en">Matchday 2</sub-title>
+    <desc lang="en">A look at the best goals from matchday one of the UEFA Conference League, including Crystal Palace v AEK Larnaca, AEK Athens v Aberdeen, and Shkendija v Shelbourne.</desc>
     <category lang="en">Football - Club</category>
     <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/fb66cc01-e9eb-50ec-9511-71fbafc43928.jpg" />
-    <episode-num system="onscreen">S2025 E12</episode-num>
-  </programme>
-  <programme channel="TNT.Sports.3.HD.uk" start="20251022171500 +0000" stop="20251022180000 +0000">
-    <title lang="en">Sign Up - Into Football</title>
-    <desc lang="en">Highlights and analysis in a groundbreaking series that uses British Sign Language and subtitles to make our coverage accessible to deaf and hearing audiences alike.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/40b78300-0448-5c06-b49c-f3e09e779e09.jpg" />
+    <icon src="https://tv.assets.pressassociation.io/9826168e-c711-5977-b2c1-a7a240d5d85e.jpg" />
     <episode-num system="onscreen">S2025 E2</episode-num>
   </programme>
-  <programme channel="TNT.Sports.3.HD.uk" start="20251022180000 +0000" stop="20251022213000 +0000">
-    <title lang="en">Live UEFA Champions League</title>
-    <sub-title lang="en">Live UCL: Monaco v Spurs</sub-title>
-    <desc lang="en">Monaco v Tottenham Hotspur (Kick-off 8.00pm)).</desc>
+  <programme channel="TNT.Sports.2.HD.uk" start="20251026183000 +0000" stop="20251026184500 +0000">
+    <title lang="en">UEFA Europa League Goals Reload</title>
+    <desc lang="en">The pick of the goals from the second round of fixtures, including Brann v Rangers, Go Ahead Eagles v Aston Villa, and Nottingham Forest v FC Porto.</desc>
     <category lang="en">Football - Club</category>
     <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/a28f8729-003b-5dc4-a449-23a7e9e907c0.jpg" />
-    <episode-num system="onscreen">S2025 E61</episode-num>
+    <icon src="https://tv.assets.pressassociation.io/e83272c3-32c5-5b0d-9372-3f3c5525c7b9.jpg" />
+    <episode-num system="onscreen">S2025 E3</episode-num>
   </programme>
-  <programme channel="TNT.Sports.3.HD.uk" start="20251022213000 +0000" stop="20251022220000 +0000">
-    <title lang="en">Live: UEFA Champions League Goals Show Xtra</title>
-    <desc lang="en">Coverage of all the goals from the latest fixtures, including Chelsea v Ajax, Monaco v Tottenham Hotspur, and Eintracht Frankfurt v Liverpool.</desc>
-    <category lang="en">Football - Club</category>
+  <programme channel="TNT.Sports.2.HD.uk" start="20251026184500 +0000" stop="20251026220000 +0000">
+    <title lang="en">Live: Northern Ireland Open Snooker</title>
+    <sub-title lang="en">Final-Session 2</sub-title>
+    <desc lang="en">Coverage of the second session from the final of the tournament, which takes place at Waterfront Hall in Belfast.</desc>
+    <category lang="en">Snooker</category>
     <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/e37f798f-f57f-5765-9b27-818eba81215f.jpg" />
-    <episode-num system="onscreen">S2025 E7</episode-num>
+    <icon src="https://tv.assets.pressassociation.io/6a889d76-4610-5839-ac33-6be3d0234cab.jpg" />
+    <episode-num system="onscreen">S2025 E40</episode-num>
   </programme>
-  <programme channel="TNT.Sports.3.HD.uk" start="20251022220000 +0000" stop="20251022230000 +0000">
-    <title lang="en">Premier League Review</title>
-    <sub-title lang="en">Matchday 8</sub-title>
-    <desc lang="en">A look"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1," back at the best action from matchday eight of the top flight, including Nottingham Forest v Chelsea, Liverpool v Manchester United and Tottenham Hotspur v Aston Villa.</desc>
-    <category lang="en">Football - Club</category>
+  <programme channel="TNT.Sports.2.HD.uk" start="20251026220000 +0000" stop="20251026230000 +0000">
+    <title lang="en">British Superbikes Highlights</title>
+    <sub-title lang="en">Round 11 Brands Hatch</sub-title>
+    <desc lang="en">Action from the 11th round of the season at Brands Hatch in Kent.</desc>
+    <category lang="en">Motorcycling</category>
     <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/c5a4025d-9331-524b-aeb1-d68538256a9b.jpg" />
-    <episode-num system="onscreen">S2025 E8</episode-num>
+    <icon src="https://tv.assets.pressassociation.io/5c53c15e-b294-5534-9014-48d3b1100ab7.jpg" />
+    <episode-num system="onscreen">S2025 E11</episode-num>
   </programme>
-  <programme channel="TNT.Sports.3.HD.uk" start="20251022230000 +0000" stop="20251023003000 +0000">
+  <programme channel="TNT.Sports.2.HD.uk" start="20251026230000 +0000" stop="20251027000000 +0000">
+    <title lang="en">Superbike World Championship Highlights</title>
+    <sub-title lang="en">Spanish Round</sub-title>
+    <desc lang="en">Action from the 12th round of the season in Spain.</desc>
+    <category lang="en">Motorcycling</category>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/3130d924-933f-5631-b6f9-9f20b2cb14d3.jpg" />
+    <episode-num system="onscreen">S2025 E12</episode-num>
+  </programme>
+  <programme channel="TNT.Sports.2.HD.uk" start="20251027000000 +0000" stop="20251027003000 +0000">
+    <title lang="en">UFC Fight Flashback</title>
+    <sub-title lang="en">UFC Fight Flashback - 241</sub-title>
+    <desc lang="en">A look back at UFC 241 as heavyweights Daniel Cormier a"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"nd Stipe Miocic met in the Octagon for the second time back in 2019 in California.</desc>
+    <category lang="en">Martial Sports</category>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/48d96941-5e3d-5084-8c75-79988048f5df.jpg" />
+    <episode-num system="onscreen">S2015 E18</episode-num>
+  </programme>
+  <programme channel="TNT.Sports.2.HD.uk" start="20251027003000 +0000" stop="20251027010000 +0000">
+    <title lang="en">UFC Fight Flashback</title>
+    <sub-title lang="en">UFC 248 - Zhang v Joanna</sub-title>
+    <desc lang="en">Welli Zhang v Joanna Jedrzejczyk from UFC 248.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/29a508b8-bb4c-5cac-a1aa-6446b76734d6.jpg" />
+    <episode-num system="onscreen">S2015 E19</episode-num>
+  </programme>
+  <programme channel="TNT.Sports.2.HD.uk" start="20251027010000 +0000" stop="20251027013000 +0000">
+    <title lang="en">UFC Fight Flashback</title>
+    <desc lang="en">UFC Fight Flashback looks back at UFC 256 as Deive"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"son Figueiredo and Brandon Moredo met in the Octagon.</desc>
+    <category lang="en">Martial Sports</category>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/d5a7ef42-74f2-57a4-b9f7-89dcf133336c.jpg" />
+    <episode-num system="onscreen">S2015 E20</episode-num>
+  </programme>
+  <programme channel="TNT.Sports.2.HD.uk" start="20251027013000 +0000" stop="20251027030000 +0000">
     <title lang="en">Ultimate Pool</title>
     <sub-title lang="en">Group D Last 16</sub-title>
     <desc lang="en">Action from Group D of the last 16 of the competition.</desc>
@@ -31844,23 +31585,14 @@
     <icon src="https://tv.assets.pressassociation.io/4362b305-73c5-5e66-a43a-b5995e9882d9.jpg" />
     <episode-num system="onscreen">S2025 E42</episode-num>
   </programme>
-  <programme channel="TNT.Sports.3.HD.uk" start="20251023003000 +0000" stop="20251023023000 +0000">
+  <programme channel="TNT.Sports.2.HD.uk" start="20251027030000 +0000" stop="20251027050000 +0000">
     <title lang="en">Northern Ireland Open Snooker</title>
-    <sub-title lang="en">Daily Highlights</sub-title>
-    <desc lang="en">Action from the fourth day of the tournament.</desc>
+    <sub-title lang="en">Final Highlights</sub-title>
+    <desc lang="en">Action from the final of the tournament.</desc>
     <category lang="en">Snooker</category>
     <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/d35687b7-f95b-5673-a353-432f81d43037.jpg" />
-    <episode-num system="onscreen">S2025 E28</episode-num>
-  </programme>
-  <programme channel="TNT.Sports.3.HD.uk" start="20251023023000 +0000" stop="20251023033000 +0000">
-    <title lang="en">One Day International Cricket</title>
-    <sub-title lang="en">Australia v India - 1st ODI</sub-title>
-    <desc lang="en">Australia v India).</desc>
-    <category lang="en">Cricket - International</category>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/43e77670-d4ae-5f4a-b8a1-e46cf2fc207e.jpg" />
-    <episode-num system="onscreen">S2025 E4</episode-num>
+    <icon src="https://tv.assets.pressassociation.io/2ad38819-7513-5303-b7e8-940fb11bdb76.jpg" />
+    <episode-num system="onscreen">S2025 E32</episode-num>
   </programme>
   <programme channel="TNT.Sports.3.HD.uk" start="20251023033000 +0000" stop="20251023120000 +0000">
     <title lang="en">Live: One Day International Cricket</title>
@@ -32264,7 +31996,7 @@
   </programme>
   <programme channel="TNT.Sports.3.HD.uk" start="20251025093000 +0000" stop="20251025100000 +0000">
     <title lang="en">UEFA Champions League Magazine</title>
-    <desc lang="en">The latest news and updates from Europe's premier club football competition.</desc>
+    <desc lang="en">Kariat's Ofri Arad and Pafos' David Luiz discuss the challenges their teams have faced. Plus, Aleksandar Pavlovic shares insights on his Bayern Munich teammates.</desc>
     <category lang="en">Football - Club</category>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/1811b17b-f2fb-5a7e-88e4-cb2c82feb96c.jpg" />
@@ -32325,7 +32057,7 @@
     <icon src="https://tv.assets.pressassociation.io/04b5a48a-3c5b-5c87-a887-f76a802706c5.jpg" />
     <episode-num system="onscreen">S2025 E24</episode-num>
   </programme>
-  <programme channel="TNT.Sports.3.HD.uk" start="20251025161500 +0000" stop="20251025184500 +0000">
+  <programme channel="TNT.Sports.3.HD.uk" start="20251025161500 +0000" stop="20251025184300 +0000">
     <title lang="en">Live: The Gallagher PREM</title>
     <sub-title lang="en">Live: Leicester Tigers v Sale</sub-title>
     <desc lang="en">Leiceste"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"r Tigers v Sale Sharks (Kick-off 5.30pm). Coverage of the match from Mattioli Woods Welford Road Stadium.</desc>
@@ -32334,7 +32066,7 @@
     <icon src="https://tv.assets.pressassociation.io/ad8a0466-b324-5bab-9040-6162cac7940b.jpg" />
     <episode-num system="onscreen">S2025 E25</episode-num>
   </programme>
-  <programme channel="TNT.Sports.3.HD.uk" start="20251025184500 +0000" stop="20251025190000 +0000">
+  <programme channel="TNT.Sports.3.HD.uk" start="20251025184300 +0000" stop="20251025190000 +0000">
     <title lang="en">TNT Sports Reload</title>
     <desc lang="en">The best bits from TNT Sports over the last week, including exclu"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"sive interviews, the best action and so much more.</desc>
     <category lang="en">Sports</category>
@@ -32386,300 +32118,269 @@
     <icon src="https://tv.assets.pressassociation.io/6f22da08-1e62-5b8b-bcbb-2d9f167c178e.jpg" />
     <episode-num system="onscreen">S2025 E25</episode-num>
   </programme>
-  <programme channel="TNT.Sports.3.HD.uk" start="20251025233000 +0000" stop="20251026033000 +0000">
-    <title lang="en">Live MLB</title>
-    <sub-title lang="en">World Series Game 2</sub-title>
-    <desc lang="en">Toronto Blue Jays v Los Angeles Dodgers (Start-time 1.00am). Coverage of game two of the World Series from Rogers Centre.</desc>
-    <category lang="en">Base"])&lt;</category>
-    <category lang="en">script&gt;&lt;script&gt;self.__next_f.push([1,"ball</category>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/af890966-44cf-51bd-b6b6-4e6626ff14e9.jpg" />
-    <episode-num system="onscreen">S2025 E48</episode-num>
-  </programme>
-  <programme channel="TNT.Sports.3.HD.uk" start="20251026033000 +0000" stop="20251026040000 +0000">
+  <programme channel="TNT.Sports.3.HD.uk" start="20251025233000 +0000" stop="20251026000000 +0000">
     <title lang="en">MLB: Off the Bat</title>
     <desc lang="en">All the latest action from Major League Baseball wrapped up.</desc>
-    <category lang="en">Ba"])&lt;</category>
-    <category lang="en">script&gt;&lt;script&gt;self.__next_f.push([1,"seball</category>
+    <category lang="en">B"])&lt;</category>
+    <category lang="en">script&gt;&lt;script&gt;self.__next_f.push([1,"aseball</category>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/882ccb3e-60be-5eef-9d13-5c29533afb89.jpg" />
     <episode-num system="onscreen">S2025 E31</episode-num>
   </programme>
+  <programme channel="TNT.Sports.3.HD.uk" start="20251026000000 +0000" stop="20251026040000 +0000">
+    <title lang="en">Live MLB</title>
+    <sub-title lang="en">World Series Game 2</sub-title>
+    <desc lang="en">Toronto Blue Jays v Los Angeles Dodgers (Start-time 1.00am). Coverage of game two of the World Series from Rogers Centre.</desc>
+    <category lang="en">Baseb"])&lt;</category>
+    <category lang="en">script&gt;&lt;script&gt;self.__next_f.push([1,"all</category>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/af890966-44cf-51bd-b6b6-4e6626ff14e9.jpg" />
+    <episode-num system="onscreen">S2025 E48</episode-num>
+  </programme>
   <programme channel="TNT.Sports.3.HD.uk" start="20251026040000 +0000" stop="20251026050000 +0000">
-    <title lang="en">Serie A</title>
-    <sub-title lang="en">Napoli v Inter</sub-title>
-    <desc lang="en">Napoli v Inter Milan.</desc>
+    <title lang="en">Longines FEI Jumping World Cup</title>
+    <sub-title lang="en">Oslo</sub-title>
+    <desc lang="en">Action from the qualifying event in Oslo, Norway.</desc>
+    <category lang="en">Equestrian</category>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/a7cf944e-f7b9-569c-9375-12c05af9cac3.jpg" />
+    <episode-num system="onscreen">S2025</episode-num>
+  </programme>
+  <programme channel="TNT.Sports.3.HD.uk" start="20251026050000 +0000" stop="20251026070000 +0000">
+    <title lang="en">Live: AFLW</title>
+    <sub-title lang="en">Live AFLW: GC Suns v Collingwood</sub-title>
+    <desc lang="en">Gold Coast Suns Women v Collingwood Women (Bounce-up 5.05am). Coverage of the match from Bond University in Queensland.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/ed09d8b0-9759-5ac6-b1dc-657ae406a806.jpg" />
+    <episode-num system="onscreen">S2025 E99</episode-num>
+  </programme>
+  <programme channel="TNT.Sports.3.HD.uk" start="20251026070000 +0000" stop="20251026073000 +0000">
+    <title lang="en">UEFA Champions League Magazine</title>
+    <desc lang="en">Kariat's Ofri Arad and Pafos' David Luiz discuss the challenges their teams have faced. Plus, Aleksandar Pavlovic shares insights on his Bayern Munich teammates.</desc>
     <category lang="en">Football - Club</category>
     <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/c19d2525-251d-562f-b90b-b732ac313679.jpg" />
-    <episode-num system="onscreen">S2025 E15</episode-num>
+    <icon src="https://tv.assets.pressassociation.io/1811b17b-f2fb-5a7e-88e4-cb2c82feb96c.jpg" />
+    <episode-num system="onscreen">S2025 E8</episode-num>
   </programme>
-  <programme channel="TNT.Sports.4.HD.uk" start="20251022050000 +0000" stop="20251022051500 +0000">
-    <title lang="en">Training Day</title>
-    <sub-title lang="en">Grenfell</sub-title>
-    <desc lang="en">Peter Crouch, Steve Sidwell and Wayne Bridge head to west London to find out more abo"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"ut how Grenfell Athletic FC have been helping the community and bringing people together.</desc>
-    <category lang="en">Football - Club</category>
+  <programme channel="TNT.Sports.3.HD.uk" start="20251026073000 +0000" stop="20251026080000 +0000">
+    <title lang="en">Women's Alpine Skiing World Cup</title>
+    <sub-title lang="en">Solden-Giant Slalom-Run 1</sub-title>
+    <desc lang="en">Action from run one of the giant slalom, which takes place in Solden, Austria.</desc>
+    <category lang="en">Skiing</category>
     <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/622c3741-3d50-5917-976d-073c3dd46461.jpg" />
-    <episode-num system="onscreen">S2024 E10</episode-num>
-  </programme>
-  <programme channel="TNT.Sports.4.HD.uk" start="20251022051500 +0000" stop="20251022060000 +0000">
-    <title lang="en">Quilter Nations Series</title>
-    <sub-title lang="en">Story of the Autumn Nations</sub-title>
-    <desc lang="en">A look back at the 202"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"4 Autumn Nations series.</desc>
-    <category lang="en">Rugby Union - International</category>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/11addfdf-351d-51ac-8af9-27326eb78130.jpg" />
-    <episode-num system="onscreen">S2024 E23</episode-num>
-  </programme>
-  <programme channel="TNT.Sports.4.HD.uk" start="20251022060000 +0000" stop="20251022070000 +0000">
-    <title lang="en">Isuzu UTE A-League</title>
-    <sub-title lang="en">Adelaide United v Sydney FC</sub-title>
-    <desc lang="en">Adelaide United v Sydney FC.</desc>
-    <category lang="en">Football - Club</category>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/061ef26b-c656-5145-88fb-3d1179004963.jpg" />
+    <icon src="https://tv.assets.pressassociation.io/54258f5d-1c5c-50f6-b4f1-a9aad8315e72.jpg" />
     <episode-num system="onscreen">S2025 E1</episode-num>
   </programme>
-  <programme channel="TNT.Sports.4.HD.uk" start="20251022070000 +0000" stop="20251022080000 +0000">
-    <title lang="en">Isuzu UTE A-League</title>
-    <sub-title lang="en">Brisbane Roar v Macarthur FC</sub-title>
-    <desc lang="en">Brisbane Roar v Macarthur FC.</desc>
-    <category lang="en">Football - Club</category>
+  <programme channel="TNT.Sports.3.HD.uk" start="20251026080000 +0000" stop="20251026083000 +0000">
+    <title lang="en">Women's Alpine Skiing World Cup</title>
+    <sub-title lang="en">Solden-Giant Slalom-Run 2</sub-title>
+    <desc lang="en">Action from run two of the giant slalom, which takes place in Solden, Austria.</desc>
+    <category lang="en">Skiing</category>
     <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/c16f118a-9715-5ab0-9352-0584f462b066.jpg" />
+    <icon src="https://tv.assets.pressassociation.io/38b52a4d-3633-5561-a682-4bee56991337.jpg" />
     <episode-num system="onscreen">S2025 E2</episode-num>
   </programme>
-  <programme channel="TNT.Sports.4.HD.uk" start="20251022080000 +0000" stop="20251022090000 +0000">
-    <title lang="en">Isuzu UTE A-League</title>
-    <sub-title lang="en">Western Sydney v Melbourne City</sub-title>
-    <desc lang="en">Western Sydney Wanderers v Melbourne City.</desc>
-    <category lang="en">Football "])&lt;</category>
-    <category lang="en">script&gt;&lt;script&gt;self.__next_f.push([1,"- Club</category>
+  <programme channel="TNT.Sports.3.HD.uk" start="20251026083000 +0000" stop="20251026103000 +0000">
+    <title lang="en">Live: Men's Alpine Skiing World Cup</title>
+    <sub-title lang="en">Solden-Giant Slalom-Run 1</sub-title>
+    <desc lang="en">Coverage of run one of the giant slalom, which takes place in Solden, Austria.</desc>
+    <category lang="en">Skiing</category>
     <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/f5e7f0be-9b73-5d96-b1a1-535dc3996e54.jpg" />
-    <episode-num system="onscreen">S2025 E3</episode-num>
+    <icon src="https://tv.assets.pressassociation.io/8a0997ea-03d4-547a-8b18-677cd2c780bf.jpg" />
+    <episode-num system="onscreen">S2025 E1</episode-num>
   </programme>
-  <programme channel="TNT.Sports.4.HD.uk" start="20251022090000 +0000" stop="20251022100000 +0000">
-    <title lang="en">Isuzu UTE A-League</title>
-    <sub-title lang="en">Melbourne Victory v Auckland FC</sub-title>
-    <desc lang="en">Melbourne Victory v Auckland FC.</desc>
-    <category lang="en">Football - Club</category>
+  <programme channel="TNT.Sports.3.HD.uk" start="20251026103000 +0000" stop="20251026113000 +0000">
+    <title lang="en">T100 Triathlon World Tour Highlights</title>
+    <sub-title lang="en">Wollongong</sub-title>
+    <desc lang="en">Action from the latest event in Wollongong, Australia.</desc>
+    <category lang="en">Triathlon</category>
     <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/38c8d6eb-c83d-58a5-b656-0bd60499e08d.jpg" />
-    <episode-num system="onscreen">S2025 E4</episode-num>
-  </programme>
-  <programme channel="TNT.Sports.4.HD.uk" start="20251022100000 +0000" stop="20251022110000 +0000">
-    <title lang="en">Isuzu UTE A-League</title>
-    <sub-title lang="en">Perth Glory v Wellington Phoenix</sub-title>
-    <desc lang="en">Perth Glory v Wellington Phoenix.</desc>
-    <category lang="en">Football - Club</category>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/914f3803-32fe-5f73-b96d-91347d03c184.jpg" />
-    <episode-num system="onscreen">S2025 E5</episode-num>
-  </programme>
-  <programme channel="TNT.Sports.4.HD.uk" start="20251022110000 +0000" stop="20251022120000 +0000">
-    <title lang="en">Isuzu UTE A-League</title>
-    <sub-title lang="en">CC Mariners v Newcastle Jets</sub-title>
-    <desc lang="en">Central Coast Mariners v Newcastle Jets.</desc>
-    <category lang="en">Football - Cl"])&lt;</category>
-    <category lang="en">script&gt;&lt;script&gt;self.__next_f.push([1,"ub</category>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/9ce38faf-03ff-59a3-aabd-2fa1f01e9bc7.jpg" />
-    <episode-num system="onscreen">S2025 E6</episode-num>
-  </programme>
-  <programme channel="TNT.Sports.4.HD.uk" start="20251022120000 +0000" stop="20251022123000 +0000">
-    <title lang="en">Ally's Social Club</title>
-    <sub-title lang="en">Arne Slot</sub-title>
-    <desc lang="en">Liverpool manager Arne Slot talks to football"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1," legend Ally McCoist.</desc>
-    <category lang="en">Football - Club</category>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/47d09699-7fbd-5bab-8260-8bb3f78fb59c.jpg" />
-    <episode-num system="onscreen">S2024 E6</episode-num>
-  </programme>
-  <programme channel="TNT.Sports.4.HD.uk" start="20251022123000 +0000" stop="20251022130000 +0000">
-    <title lang="en">MLB: Off the Bat</title>
-    <desc lang="en">All the latest action from Major League Baseball wrapped up.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/5294316c-6aac-5172-b076-42451798e588.jpg" />
-    <episode-num system="onscreen">S2025 E30</episode-num>
-  </programme>
-  <programme channel="TNT.Sports.4.HD.uk" start="20251022130000 +0000" stop="20251022140000 +0000">
-    <title lang="en">NWSL</title>
-    <sub-title lang="en">Washington Spirit v Orlando Pride</sub-title>
-    <desc lang="en">Washington Spirit v Orlando Pride.</desc>
-    <category lang="en">Football - Club</category>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/c83c8433-fea6-55e8-93f3-8d0753cfb5f9.jpg" />
-    <episode-num system="onscreen">S2025 E49</episode-num>
-  </programme>
-  <programme channel="TNT.Sports.4.HD.uk" start="20251022140000 +0000" stop="20251022150000 +0000">
-    <title lang="en">NWSL</title>
-    <sub-title lang="en">Angel City FC v Portland Thorns</sub-title>
-    <desc lang="en">Angel City FC v Portland Thorns.</desc>
-    <category lang="en">Football - Club</category>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/f7fd60f4-01fd-5916-a19c-25ea58a966f5.jpg" />
-    <episode-num system="onscreen">S2025 E50</episode-num>
-  </programme>
-  <programme channel="TNT.Sports.4.HD.uk" start="20251022150000 +0000" stop="20251022154500 +0000">
-    <title lang="en">Quilter Nations Series</title>
-    <sub-title lang="en">Story of the Autumn Nations</sub-title>
-    <desc lang="en">A look back at the 202"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"4 Autumn Nations series.</desc>
-    <category lang="en">Rugby Union - International</category>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/11addfdf-351d-51ac-8af9-27326eb78130.jpg" />
-    <episode-num system="onscreen">S2024 E23</episode-num>
-  </programme>
-  <programme channel="TNT.Sports.4.HD.uk" start="20251022154500 +0000" stop="20251022164500 +0000">
-    <title lang="en">UEFA Champions League Highlights Show</title>
-    <sub-title lang="en">Matchday 3-Tuesday</sub-title>
-    <desc lang="en">A round-up of all the goals from Tuesday's fixtures, including Newcastle United v Benfica, Villarreal v Manchester City, and more.</desc>
-    <category lang="en">Football - Club</category>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/19795273-dca9-5be3-bf9a-72b8c5ff9bbc.jpg" />
-    <episode-num system="onscreen">S2025 E10</episode-num>
-  </programme>
-  <programme channel="TNT.Sports.4.HD.uk" start="20251022164500 +0000" stop="20251022184500 +0000">
-    <title lang="en">Live UEFA Champions League</title>
-    <sub-title lang="en">Live UCL: Athletic v Qarabag</sub-title>
-    <desc lang="en">Athletic Bilbao v Qarabag (Kick-off 5.45pm). Coverage of the league phase match from San Mames.</desc>
-    <category lang="en">Football - Club</category>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/6f6e4a94-78e3-5d4f-996a-6ea5dbdbf772.jpg" />
-    <episode-num system="onscreen">S2025 E59</episode-num>
-  </programme>
-  <programme channel="TNT.Sports.4.HD.uk" start="20251022184500 +0000" stop="20251022220000 +0000">
-    <title lang="en">Live: UEFA Champions League Goals Show Xtra</title>
-    <desc lang="en">Coverage of all the goals from the latest fixtures, including Chelsea v Ajax, Monaco v Tottenham Hotspur, and Eintracht Frankfurt v Liverpool.</desc>
-    <category lang="en">Football - Club</category>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/e37f798f-f57f-5765-9b27-818eba81215f.jpg" />
+    <icon src="https://tv.assets.pressassociation.io/5dea5089-0396-5650-b351-07dcf5f3fd9c.jpg" />
     <episode-num system="onscreen">S2025 E7</episode-num>
   </programme>
-  <programme channel="TNT.Sports.4.HD.uk" start="20251022220000 +0000" stop="20251022230000 +0000">
-    <title lang="en">MotoGP Highlights</title>
-    <sub-title lang="en">MotoGP Highlights: Australia 2025</sub-title>
-    <desc lang="en">Action from 2025 MotoGP Grand Prix of Australia.</desc>
-    <category lang="en">Motor"])&lt;</category>
-    <category lang="en">script&gt;&lt;script&gt;self.__next_f.push([1," Sport</category>
+  <programme channel="TNT.Sports.3.HD.uk" start="20251026113000 +0000" stop="20251026114500 +0000">
+    <title lang="en">TNT Sports Reload</title>
+    <desc lang="en">The best bits from TNT Sports over the last week, including exclu"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"sive interviews, the best action and so much more.</desc>
     <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/40da560e-a88c-540d-9823-ac833e92a874.jpg" />
-    <episode-num system="onscreen">S2025 E19</episode-num>
+    <icon src="https://tv.assets.pressassociation.io/b37a5dc2-fa7f-53cc-85ac-f39853392a4c.jpg" />
+    <episode-num system="onscreen">S2025 E43</episode-num>
   </programme>
-  <programme channel="TNT.Sports.4.HD.uk" start="20251022230000 +0000" stop="20251022231500 +0000">
-    <title lang="en">British Superbikes Rewind</title>
-    <sub-title lang="en">Round 11 Brands Hatch</sub-title>
-    <desc lang="en">A look back at the best action from round 11 at Brands Hatch in Kent.</desc>
-    <category lang="en">Motorcycling</category>
+  <programme channel="TNT.Sports.3.HD.uk" start="20251026114500 +0000" stop="20251026133000 +0000">
+    <title lang="en">Live: Men's Alpine Skiing World Cup</title>
+    <sub-title lang="en">Solden-Giant Slalom-Run 2</sub-title>
+    <desc lang="en">Coverage of run two of the giant slalom, which takes place in Solden, Austria.</desc>
+    <category lang="en">Skiing</category>
     <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/ac0a9c69-622c-59ff-aec7-d1e98f89dd48.jpg" />
-    <episode-num system="onscreen">S2025 E11</episode-num>
+    <icon src="https://tv.assets.pressassociation.io/ca5b924b-e015-53c9-8bdb-83a5d87a4cf8.jpg" />
+    <episode-num system="onscreen">S2025 E2</episode-num>
   </programme>
-  <programme channel="TNT.Sports.4.HD.uk" start="20251022231500 +0000" stop="20251022233000 +0000">
-    <title lang="en">Superbike Rewind</title>
-    <sub-title lang="en">Spanish Round</sub-title>
-    <desc lang="en">Action from the 12th round of the season in Spain.</desc>
-    <category lang="en">Motorcyclin"])&lt;</category>
-    <category lang="en">script&gt;&lt;script&gt;self.__next_f.push([1,"g</category>
+  <programme channel="TNT.Sports.3.HD.uk" start="20251026133000 +0000" stop="20251026134500 +0000">
+    <title lang="en">Playing for Our Future - Cycling</title>
+    <desc lang="en">Asking what the future holds for cycling in the battle against global warming. Reshmin Chowdhury meets people at all levels to discuss how it can be a positive force for change.</desc>
     <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/d0b8db3a-88ac-5df4-b0d8-460cf965e406.jpg" />
-    <episode-num system="onscreen">S2025 E12</episode-num>
+    <icon src="https://tv.assets.pressassociation.io/d4676588-9bbc-5938-a9a5-18e2398258ea.jpg" />
+    <episode-num system="onscreen">S2023 E58</episode-num>
   </programme>
-  <programme channel="TNT.Sports.4.HD.uk" start="20251022233000 +0000" stop="20251023000000 +0000">
-    <title lang="en">UEFA Champions League</title>
-    <sub-title lang="en">UCL: Athletic Bilbao v Qarabag</sub-title>
-    <desc lang="en">Athletic Bilbao v Qarabag.</desc>
-    <category lang="en">Football - Club"])&lt;</category>
-    <category lang="en">script&gt;&lt;script&gt;self.__next_f.push([1,"</category>
+  <programme channel="TNT.Sports.3.HD.uk" start="20251026134500 +0000" stop="20251026151500 +0000">
+    <title lang="en">Live: UCI Track Cycling World Championship</title>
+    <sub-title lang="en">Day 5-Morning session</sub-title>
+    <desc lang="en">Coverage from the morning session on day five of the event, which takes place in Santiago, Chile.</desc>
+    <category lang="en">Cycling</category>
     <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/9537ed0c-1174-506a-94a4-1ea9f11c34eb.jpg" />
-    <episode-num system="onscreen">S2025 E59</episode-num>
+    <icon src="https://tv.assets.pressassociation.io/22dd3ab7-53a7-5002-8366-7e2731ca91cd.jpg" />
+    <episode-num system="onscreen">S2025 E6</episode-num>
   </programme>
-  <programme channel="TNT.Sports.4.HD.uk" start="20251023000000 +0000" stop="20251023003000 +0000">
-    <title lang="en">UEFA Champions League</title>
-    <sub-title lang="en">UCL: Galatasaray v Bodo/Glimt</sub-title>
-    <desc lang="en">Galatasaray v Bodo/Glimt.</desc>
+  <programme channel="TNT.Sports.3.HD.uk" start="20251026151500 +0000" stop="20251026161500 +0000">
+    <title lang="en">The Gallagher PREM</title>
+    <sub-title lang="en">Leicester Tigers v Sale Sharks</sub-title>
+    <desc lang="en">Leicester Tigers v Sale Sharks.</desc>
+    <category lang="en">Rugby Union - Domestic</category>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/6f22da08-1e62-5b8b-bcbb-2d9f167c178e.jpg" />
+    <episode-num system="onscreen">S2025 E25</episode-num>
+  </programme>
+  <programme channel="TNT.Sports.3.HD.uk" start="20251026161500 +0000" stop="20251026203000 +0000">
+    <title lang="en">Live: UCI Track Cycling World Championship</title>
+    <sub-title lang="en">Day 5</sub-title>
+    <desc lang="en">Coverage from day five of the event, which takes place in Santiago, Chile.</desc>
+    <category lang="en">Cycling</category>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/22dd3ab7-53a7-5002-8366-7e2731ca91cd.jpg" />
+    <episode-num system="onscreen">S2025 E5</episode-num>
+  </programme>
+  <programme channel="TNT.Sports.3.HD.uk" start="20251026203000 +0000" stop="20251026213000 +0000">
+    <title lang="en">UEFA Europa League &amp; Conference League Highlights Show</title>
+    <sub-title lang="en">UEL Matchday 3 &amp; UCoL Matchday 2</sub-title>
+    <desc lang="en">Action from the latest round of fixtures.</desc>
     <category lang="en">Football - Club</category>
     <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/9a125d8f-f67d-5c04-98e4-10f9cb42de10.jpg" />
-    <episode-num system="onscreen">S2025 E60</episode-num>
+    <icon src="https://tv.assets.pressassociation.io/423f7df5-477b-5293-80a3-34f13e7f1c1c.jpg" />
+    <episode-num system="onscreen">S2025 E4</episode-num>
   </programme>
-  <programme channel="TNT.Sports.4.HD.uk" start="20251023003000 +0000" stop="20251023010000 +0000">
-    <title lang="en">UEFA Champions League</title>
-    <sub-title lang="en">UCL: Frankfurt v Liverpool</sub-title>
-    <desc lang="en">Eintracht Frankfurt v Liverpool.</desc>
-    <category lang="en">Foot"])&lt;</category>
-    <category lang="en">script&gt;&lt;script&gt;self.__next_f.push([1,"ball - Club</category>
+  <programme channel="TNT.Sports.3.HD.uk" start="20251026213000 +0000" stop="20251026220000 +0000">
+    <title lang="en">Men's Alpine Skiing World Cup</title>
+    <sub-title lang="en">Solden-Giant Slalom-Run 1</sub-title>
+    <desc lang="en">Action from run one of the giant slalom in Solden, Austria.</desc>
+    <category lang="en">Skiing</category>
     <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/8e76b3cf-8a9b-53ed-8199-9bb77b6d5160.jpg" />
-    <episode-num system="onscreen">S2025 E64</episode-num>
+    <icon src="https://tv.assets.pressassociation.io/ccad8db2-c80a-5952-8b2b-14b7a5f977c4.jpg" />
+    <episode-num system="onscreen">S2025 E1</episode-num>
   </programme>
-  <programme channel="TNT.Sports.4.HD.uk" start="20251023010000 +0000" stop="20251023013000 +0000">
-    <title lang="en">UEFA Champions League</title>
-    <sub-title lang="en">UCL: Chelsea v Ajax</sub-title>
-    <desc lang="en">Chelsea v Ajax.</desc>
+  <programme channel="TNT.Sports.3.HD.uk" start="20251026220000 +0000" stop="20251026223000 +0000">
+    <title lang="en">Men's Alpine Skiing World Cup</title>
+    <sub-title lang="en">Solden-Giant Slalom-Run 2</sub-title>
+    <desc lang="en">Action from run two of the giant slalom in Solden, Austria.</desc>
+    <category lang="en">Skiing</category>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/6a75968e-9818-5984-9ebe-3195263c5923.jpg" />
+    <episode-num system="onscreen">S2025 E2</episode-num>
+  </programme>
+  <programme channel="TNT.Sports.3.HD.uk" start="20251026223000 +0000" stop="20251026230000 +0000">
+    <title lang="en">Cyclocross</title>
+    <sub-title lang="en">Superprestige-Overijse-Women</sub-title>
+    <desc lang="en">Action from the women's superprestige in Overijse, Belgium.</desc>
+    <category lang="en">Cycling</category>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/0f2c6009-fda9-59b7-bd1b-1ed8e248b0f7.jpg" />
+    <episode-num system="onscreen">S2025 E9</episode-num>
+  </programme>
+  <programme channel="TNT.Sports.3.HD.uk" start="20251026230000 +0000" stop="20251026233000 +0000">
+    <title lang="en">Cyclocross</title>
+    <sub-title lang="en">Superprestige-Overijse-Men</sub-title>
+    <desc lang="en">Action from the men's superprestige in Overijse, Belgium.</desc>
+    <category lang="en">Cycling</category>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/9ae9575f-f9e0-55ca-9dae-2c426712709d.jpg" />
+    <episode-num system="onscreen">S2025 E10</episode-num>
+  </programme>
+  <programme channel="TNT.Sports.3.HD.uk" start="20251026233000 +0000" stop="20251027000000 +0000">
+    <title lang="en">World E-Bike Series Review</title>
+    <sub-title lang="en">Massa Marittima-Final Review</sub-title>
+    <desc lang="en">A review of the best action and stories from in Massa Marittima, Italy.</desc>
+    <category lang="en">Extreme</category>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/55956047-530d-582f-b7a6-d13bed3f8b22.jpg" />
+    <episode-num system="onscreen">S2025 E5</episode-num>
+  </programme>
+  <programme channel="TNT.Sports.3.HD.uk" start="20251027000000 +0000" stop="20251027010000 +0000">
+    <title lang="en">Fishing: On the Bank</title>
+    <desc lang="en">Angling magazine show presented by "])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"Rob Hughes and Andy Ford.</desc>
+    <category lang="en">Fishing</category>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/ff1b27a3-df63-5537-a536-bf8415b2e686.jpg" />
+    <episode-num system="onscreen">S2019 E11</episode-num>
+  </programme>
+  <programme channel="TNT.Sports.3.HD.uk" start="20251027010000 +0000" stop="20251027020000 +0000">
+    <title lang="en">Serie A</title>
+    <sub-title lang="en">Lazio v Juventus</sub-title>
+    <desc lang="en">Lazio v Juventus.</desc>
     <category lang="en">Football - Club</category>
     <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/9793fda8-e3df-50d0-acdb-9afef72e7f87.jpg" />
-    <episode-num system="onscreen">S2025 E63</episode-num>
+    <icon src="https://tv.assets.pressassociation.io/9db99f40-f050-5e1c-bc7c-715833da8896.jpg" />
+    <episode-num system="onscreen">S2025 E16</episode-num>
   </programme>
-  <programme channel="TNT.Sports.4.HD.uk" start="20251023013000 +0000" stop="20251023020000 +0000">
-    <title lang="en">UEFA Champions League</title>
-    <sub-title lang="en">UCL: Monaco v Spurs</sub-title>
-    <desc lang="en">Monaco v Tottenham Hotspur.</desc>
-    <category lang="en">Football - Clu"])&lt;</category>
-    <category lang="en">script&gt;&lt;script&gt;self.__next_f.push([1,"b</category>
+  <programme channel="TNT.Sports.3.HD.uk" start="20251027020000 +0000" stop="20251027023000 +0000">
+    <title lang="en">Men's Alpine Skiing World Cup</title>
+    <sub-title lang="en">Solden-Giant Slalom-Run 1</sub-title>
+    <desc lang="en">Action from run one of the giant slalom in Solden, Austria.</desc>
+    <category lang="en">Skiing</category>
     <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/217b9ce1-de4d-592a-ad1c-3887e1db0d89.jpg" />
-    <episode-num system="onscreen">S2025 E61</episode-num>
+    <icon src="https://tv.assets.pressassociation.io/ccad8db2-c80a-5952-8b2b-14b7a5f977c4.jpg" />
+    <episode-num system="onscreen">S2025 E1</episode-num>
   </programme>
-  <programme channel="TNT.Sports.4.HD.uk" start="20251023020000 +0000" stop="20251023023000 +0000">
-    <title lang="en">UEFA Champions League</title>
-    <sub-title lang="en">UCL: Real Madrid v Juventus</sub-title>
-    <desc lang="en">Real Madrid v Juventus.</desc>
-    <category lang="en">Football - Club</category>
+  <programme channel="TNT.Sports.3.HD.uk" start="20251027023000 +0000" stop="20251027030000 +0000">
+    <title lang="en">Men's Alpine Skiing World Cup</title>
+    <sub-title lang="en">Solden-Giant Slalom-Run 2</sub-title>
+    <desc lang="en">Action from run two of the giant slalom in Solden, Austria.</desc>
+    <category lang="en">Skiing</category>
     <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/80232cbc-a201-526e-8c3d-a8514ac9d5f2.jpg" />
-    <episode-num system="onscreen">S2025 E66</episode-num>
+    <icon src="https://tv.assets.pressassociation.io/6a75968e-9818-5984-9ebe-3195263c5923.jpg" />
+    <episode-num system="onscreen">S2025 E2</episode-num>
   </programme>
-  <programme channel="TNT.Sports.4.HD.uk" start="20251023023000 +0000" stop="20251023030000 +0000">
-    <title lang="en">UEFA Champions League</title>
-    <sub-title lang="en">UCL: Bayern Munich v Club Brugge</sub-title>
-    <desc lang="en">Bayern Munich v Club Brugge.</desc>
-    <category lang="en">Football - C"])&lt;</category>
-    <category lang="en">script&gt;&lt;script&gt;self.__next_f.push([1,"lub</category>
+  <programme channel="TNT.Sports.3.HD.uk" start="20251027030000 +0000" stop="20251027033000 +0000">
+    <title lang="en">Cyclocross</title>
+    <sub-title lang="en">Superprestige-Overijse-Women</sub-title>
+    <desc lang="en">Action from the women's superprestige in Overijse, Belgium.</desc>
+    <category lang="en">Cycling</category>
     <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/9b12fe23-8329-5ef3-bf24-63a9749bfa51.jpg" />
-    <episode-num system="onscreen">S2025 E65</episode-num>
+    <icon src="https://tv.assets.pressassociation.io/0f2c6009-fda9-59b7-bd1b-1ed8e248b0f7.jpg" />
+    <episode-num system="onscreen">S2025 E9</episode-num>
   </programme>
-  <programme channel="TNT.Sports.4.HD.uk" start="20251023030000 +0000" stop="20251023033000 +0000">
-    <title lang="en">UEFA Champions League</title>
-    <sub-title lang="en">UCL: Sporting CP v Marseille</sub-title>
-    <desc lang="en">Sporting Lisbon v Marseille.</desc>
-    <category lang="en">Football - C"])&lt;</category>
-    <category lang="en">script&gt;&lt;script&gt;self.__next_f.push([1,"lub</category>
+  <programme channel="TNT.Sports.3.HD.uk" start="20251027033000 +0000" stop="20251027040000 +0000">
+    <title lang="en">Cyclocross</title>
+    <sub-title lang="en">Superprestige-Overijse-Men</sub-title>
+    <desc lang="en">Action from the men's superprestige in Overijse, Belgium.</desc>
+    <category lang="en">Cycling</category>
     <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/1b7938ac-08d4-51c2-8673-3f016f214ca2.jpg" />
-    <episode-num system="onscreen">S2025 E67</episode-num>
+    <icon src="https://tv.assets.pressassociation.io/9ae9575f-f9e0-55ca-9dae-2c426712709d.jpg" />
+    <episode-num system="onscreen">S2025 E10</episode-num>
   </programme>
-  <programme channel="TNT.Sports.4.HD.uk" start="20251023033000 +0000" stop="20251023040000 +0000">
-    <title lang="en">UEFA Champions League</title>
-    <sub-title lang="en">UCL: Atalanta v Slavia Prague</sub-title>
-    <desc lang="en">Atalanta v Slavia Prague.</desc>
-    <category lang="en">Football - Club</category>
+  <programme channel="TNT.Sports.3.HD.uk" start="20251027040000 +0000" stop="20251027043000 +0000">
+    <title lang="en">Formula E Unplugged</title>
+    <sub-title lang="en">The American Dream</sub-title>
+    <desc lang="en">A look at the Andretti Global team.</desc>
+    <category lang="en">Motor Sport</category>
     <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/629795f1-081a-5778-945b-777d9e454a8e.jpg" />
-    <episode-num system="onscreen">S2025 E62</episode-num>
+    <icon src="https://tv.assets.pressassociation.io/410d724e-b914-58e0-b54a-818f19def327.jpg" />
+    <episode-num system="onscreen">S2024 E1</episode-num>
   </programme>
-  <programme channel="TNT.Sports.4.HD.uk" start="20251023040000 +0000" stop="20251023050000 +0000">
-    <title lang="en">Marathons</title>
-    <sub-title lang="en">2025 Amsterdam Marathon</sub-title>
-    <desc lang="en">Action from the 2025 Amsterdam Marathon.</desc>
-    <category lang="en">Athletics</category>
+  <programme channel="TNT.Sports.3.HD.uk" start="20251027043000 +0000" stop="20251027050000 +0000">
+    <title lang="en">Formula E Unplugged</title>
+    <sub-title lang="en">Fight or Flight</sub-title>
+    <desc lang="en">A look at the performances of Sam Bird i"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"n the 2023 season.</desc>
+    <category lang="en">Motor Sport</category>
     <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/7f46d2d1-c8d1-501f-a8ff-cf9f5bd8abca.jpg" />
-    <episode-num system="onscreen">S2025 E8</episode-num>
+    <icon src="https://tv.assets.pressassociation.io/f1b8071a-0625-5a8e-a86d-8fb1182a8a22.jpg" />
+    <episode-num system="onscreen">S2024 E6</episode-num>
+  </programme>
+  <programme channel="TNT.Sports.3.HD.uk" start="20251027050000 +0000" stop="20251027053000 +0000">
+    <title lang="en">Formula E Unplugged</title>
+    <sub-title lang="en">The Customers</sub-title>
+    <desc lang="en">A look at how fans root for different team"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"s and drivers.</desc>
+    <category lang="en">Motor Sport</category>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/f63d58a8-f528-5f4f-918a-713b6b16441d.jpg" />
+    <episode-num system="onscreen">S2024 E7</episode-num>
   </programme>
   <programme channel="TNT.Sports.4.HD.uk" start="20251023050000 +0000" stop="20251023060000 +0000">
     <title lang="en">MotoGP Highlights</title>
@@ -32762,8 +32463,7 @@
   <programme channel="TNT.Sports.4.HD.uk" start="20251023163000 +0000" stop="20251023170000 +0000">
     <title lang="en">MLB: Off the Bat</title>
     <desc lang="en">All the latest action from Major League Baseball wrapped up.</desc>
-    <category lang="en">"])&lt;</category>
-    <category lang="en">script&gt;&lt;script&gt;self.__next_f.push([1,"Baseball</category>
+    <category lang="en">Baseball</category>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/882ccb3e-60be-5eef-9d13-5c29533afb89.jpg" />
     <episode-num system="onscreen">S2025 E31</episode-num>
@@ -32853,8 +32553,7 @@
     <title lang="en">UEFA Conference League</title>
     <sub-title lang="en">Crystal Palace v AEK Larnaca</sub-title>
     <desc lang="en">Crystal Palace v AEK Larnaca.</desc>
-    <category lang="en">Foo"])&lt;</category>
-    <category lang="en">script&gt;&lt;script&gt;self.__next_f.push([1,"tball - Club</category>
+    <category lang="en">Football - Club</category>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/fba3fff4-0305-5e5c-b8de-59935d0b51f2.jpg" />
     <episode-num system="onscreen">S2025 E35</episode-num>
@@ -32872,8 +32571,7 @@
     <title lang="en">UEFA Conference League</title>
     <sub-title lang="en">Shamrock Rovers v Celje</sub-title>
     <desc lang="en">Shamrock Rovers v Celje.</desc>
-    <category lang="en">Football - Cl"])&lt;</category>
-    <category lang="en">script&gt;&lt;script&gt;self.__next_f.push([1,"ub</category>
+    <category lang="en">Football - Club</category>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/ab212c84-d45d-507c-b888-b7cdd45a156d.jpg" />
     <episode-num system="onscreen">S2025 E39</episode-num>
@@ -33232,7 +32930,7 @@
   </programme>
   <programme channel="TNT.Sports.4.HD.uk" start="20251025010000 +0000" stop="20251025013000 +0000">
     <title lang="en">UEFA Champions League Magazine</title>
-    <desc lang="en">The latest news and updates from Europe's premier club football competition.</desc>
+    <desc lang="en">Kariat's Ofri Arad and Pafos' David Luiz discuss the challenges their teams have faced. Plus, Aleksandar Pavlovic shares insights on his Bayern Munich teammates.</desc>
     <category lang="en">Football - Club</category>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/1811b17b-f2fb-5a7e-88e4-cb2c82feb96c.jpg" />
@@ -33382,6 +33080,210 @@
     <category lang="en">Football - Club</category>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/267b07f3-4b47-577c-b98a-8b31356f4ad2.jpg" />
+    <episode-num system="onscreen">S2025 E11</episode-num>
+  </programme>
+  <programme channel="TNT.Sports.4.HD.uk" start="20251026040000 +0000" stop="20251026063000 +0000">
+    <title lang="en">Live: V8 Supercars Championship</title>
+    <sub-title lang="en">Race 29-Gold Coast</sub-title>
+    <desc lang="en">The Boost Mobile Gold Coast 500. Coverage of race 29 from the 11th round of the season at Surfers Paradise in Queensland.</desc>
+    <category lang="en">Motor Sport</category>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/c092e539-cb8d-52c6-a222-b78820dba8f1.jpg" />
+    <episode-num system="onscreen">S2025 E25</episode-num>
+  </programme>
+  <programme channel="TNT.Sports.4.HD.uk" start="20251026063000 +0000" stop="20251026080000 +0000">
+    <title lang="en">Premier League</title>
+    <sub-title lang="en">PL: Brentford v Liverpool</sub-title>
+    <desc lang="en">Brentford v Liverpool.</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://tv.assets.pressassociation.io/1ffc65e2-d87d-571d-bd0d-774271b8f7f4.jpg" />
+    <episode-num system="onscreen">S2025 E9</episode-num>
+  </programme>
+  <programme channel="TNT.Sports.4.HD.uk" start="20251026080000 +0000" stop="20251026090000 +0000">
+    <title lang="en">The Gallagher PREM</title>
+    <sub-title lang="en">Harlequins v Newcastle Red Bulls</sub-title>
+    <desc lang="en">Harlequins v Newcastle Red Bulls.</desc>
+    <category lang="en">Rugby Union - Domestic</category>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/922e9db7-dbe7-5986-b956-dfc20b894a68.jpg" />
+    <episode-num system="onscreen">S2025 E22</episode-num>
+  </programme>
+  <programme channel="TNT.Sports.4.HD.uk" start="20251026090000 +0000" stop="20251026100000 +0000">
+    <title lang="en">The Gallagher PREM</title>
+    <sub-title lang="en">Exeter Chiefs v Gloucester Rugby</sub-title>
+    <desc lang="en">Exeter Chiefs v Gloucester Rugby.</desc>
+    <category lang="en">Rugby Union - Domestic</category>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/c6e97362-2208-555d-8ca6-2438b4f6905a.jpg" />
+    <episode-num system="onscreen">S2025 E23</episode-num>
+  </programme>
+  <programme channel="TNT.Sports.4.HD.uk" start="20251026100000 +0000" stop="20251026110000 +0000">
+    <title lang="en">The Gallagher PREM</title>
+    <sub-title lang="en">Bath Rugby v Bristol Bears</sub-title>
+    <desc lang="en">Bath Rugby v Bristol Bears.</desc>
+    <category lang="en">Rugby Union - Domestic</category>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/c554892e-3060-58bf-98ec-2ee41469987d.jpg" />
+    <episode-num system="onscreen">S2025 E24</episode-num>
+  </programme>
+  <programme channel="TNT.Sports.4.HD.uk" start="20251026110000 +0000" stop="20251026120000 +0000">
+    <title lang="en">The Gallagher PREM</title>
+    <sub-title lang="en">Leicester Tigers v Sale Sharks</sub-title>
+    <desc lang="en">Leicester Tigers v Sale Sharks.</desc>
+    <category lang="en">Rugby Union - Domestic</category>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/6f22da08-1e62-5b8b-bcbb-2d9f167c178e.jpg" />
+    <episode-num system="onscreen">S2025 E25</episode-num>
+  </programme>
+  <programme channel="TNT.Sports.4.HD.uk" start="20251026120000 +0000" stop="20251026123000 +0000">
+    <title lang="en">Ally's Social Club</title>
+    <sub-title lang="en">Mikel Arteta</sub-title>
+    <desc lang="en">Football legend Ally McCoist"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1," sits down for a chat with Arsenal manager Mikel Arteta.</desc>
+    <category lang="en">Football - Club</category>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/c4bb207f-c915-5b5d-9207-1ee672592043.jpg" />
+    <episode-num system="onscreen">S2024 E5</episode-num>
+  </programme>
+  <programme channel="TNT.Sports.4.HD.uk" start="20251026123000 +0000" stop="20251026134500 +0000">
+    <title lang="en">Live: Cyclocross</title>
+    <sub-title lang="en">Superprestige-Overijse-Women</sub-title>
+    <desc lang="en">Coverage from the women's superprestige race, which takes place in Overijse, Belgium\","])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"\"genre\":\"Cycling.</desc>
+    <category lang="en">Cycling</category>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/9ba24979-af6f-536b-9479-6025b8e8d673.jpg" />
+    <episode-num system="onscreen">S2025 E9</episode-num>
+  </programme>
+  <programme channel="TNT.Sports.4.HD.uk" start="20251026134500 +0000" stop="20251026140000 +0000">
+    <title lang="en">UEFA Champions League Goals Reload</title>
+    <desc lang="en">The pick of the goals from the third round of fixtures, including Arsenal v Atletico Madrid, Eintracht Frankfurt v Liverpool, Villarreal v Manchester City, and Chelsea v Ajax.</desc>
+    <category lang="en">Football - Club</category>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/f9a034e6-f448-56d5-9071-0a61f2b6b36a.jpg" />
+    <episode-num system="onscreen">S2025 E3</episode-num>
+  </programme>
+  <programme channel="TNT.Sports.4.HD.uk" start="20251026140000 +0000" stop="20251026153000 +0000">
+    <title lang="en">Live: Cyclocross</title>
+    <sub-title lang="en">Superprestige-Overijse-Men</sub-title>
+    <desc lang="en">Coverage from the men's superprestige race, which takes place in Overijse, Belgium.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/e6f4aaf3-6bb2-597a-82a6-52a194307b2e.jpg" />
+    <episode-num system="onscreen">S2025 E10</episode-num>
+  </programme>
+  <programme channel="TNT.Sports.4.HD.uk" start="20251026153000 +0000" stop="20251026160000 +0000">
+    <title lang="en">MLB: Off the Bat</title>
+    <desc lang="en">All the latest action from Major League Baseball wrapped up.</desc>
+    <category lang="en">Ba"])&lt;</category>
+    <category lang="en">script&gt;&lt;script&gt;self.__next_f.push([1,"seball</category>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/882ccb3e-60be-5eef-9d13-5c29533afb89.jpg" />
+    <episode-num system="onscreen">S2025 E31</episode-num>
+  </programme>
+  <programme channel="TNT.Sports.4.HD.uk" start="20251026160000 +0000" stop="20251026183000 +0000">
+    <title lang="en">MLB</title>
+    <sub-title lang="en">World Series Game 2</sub-title>
+    <desc lang="en">Toronto Blue Jays v Los Angeles Dodgers. Action from game two of the World Series at Rogers Centre.</desc>
+    <category lang="en">Baseball</category>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/638c1dcb-71e0-5a22-bd7c-afe1aaf94121.jpg" />
+    <episode-num system="onscreen">S2025 E48</episode-num>
+  </programme>
+  <programme channel="TNT.Sports.4.HD.uk" start="20251026183000 +0000" stop="20251026193000 +0000">
+    <title lang="en">Isuzu UTE A-League</title>
+    <sub-title lang="en">Wellington Phoenix v Brisbane Roar</sub-title>
+    <desc lang="en">Wellington Phoenix v Brisbane Roar.</desc>
+    <category lang="en">Football - Club</category>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/c1da4996-eb98-5d41-bd4c-e4c85911a6e1.jpg" />
+    <episode-num system="onscreen">S2025 E11</episode-num>
+  </programme>
+  <programme channel="TNT.Sports.4.HD.uk" start="20251026193000 +0000" stop="20251026203000 +0000">
+    <title lang="en">The Gallagher PREM</title>
+    <sub-title lang="en">Leicester Tigers v Sale Sharks</sub-title>
+    <desc lang="en">Leicester Tigers v Sale Sharks.</desc>
+    <category lang="en">Rugby Union - Domestic</category>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/6f22da08-1e62-5b8b-bcbb-2d9f167c178e.jpg" />
+    <episode-num system="onscreen">S2025 E25</episode-num>
+  </programme>
+  <programme channel="TNT.Sports.4.HD.uk" start="20251026203000 +0000" stop="20251026213000 +0000">
+    <title lang="en">T100 Triathlon World Tour Highlights</title>
+    <sub-title lang="en">Wollongong</sub-title>
+    <desc lang="en">Action from the latest event in Wollongong, Australia.</desc>
+    <category lang="en">Triathlon</category>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/5dea5089-0396-5650-b351-07dcf5f3fd9c.jpg" />
+    <episode-num system="onscreen">S2025 E7</episode-num>
+  </programme>
+  <programme channel="TNT.Sports.4.HD.uk" start="20251026213000 +0000" stop="20251026230000 +0000">
+    <title lang="en">Ultimate Pool</title>
+    <sub-title lang="en">Group D Last 16</sub-title>
+    <desc lang="en">Action from Group D of the last 16 of the competition.</desc>
+    <category lang="en">Pool</category>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/4362b305-73c5-5e66-a43a-b5995e9882d9.jpg" />
+    <episode-num system="onscreen">S2025 E42</episode-num>
+  </programme>
+  <programme channel="TNT.Sports.4.HD.uk" start="20251026230000 +0000" stop="20251027000000 +0000">
+    <title lang="en">One Day International Cricket</title>
+    <sub-title lang="en">Australia v India - 3rd ODI</sub-title>
+    <desc lang="en">Australia v India).</desc>
+    <category lang="en">Cricket - International</category>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/5579c67a-13d6-54e7-bf1a-2116c2b5a80b.jpg" />
+    <episode-num system="onscreen">S2025 E6</episode-num>
+  </programme>
+  <programme channel="TNT.Sports.4.HD.uk" start="20251027000000 +0000" stop="20251027010000 +0000">
+    <title lang="en">One Day International Cricket</title>
+    <sub-title lang="en">New Zealand v England - 1st ODI</sub-title>
+    <desc lang="en">New Zealand v England).</desc>
+    <category lang="en">Cricket - International</category>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/2e4a999d-bcf7-57ad-9a2c-96fb7290895f.jpg" />
+    <episode-num system="onscreen">S2026 E1</episode-num>
+  </programme>
+  <programme channel="TNT.Sports.4.HD.uk" start="20251027010000 +0000" stop="20251027020000 +0000">
+    <title lang="en">WRC Review</title>
+    <sub-title lang="en">Central European Rally</sub-title>
+    <desc lang="en">Action from the 2025 Central European Rally.</desc>
+    <category lang="en">Rallying</category>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/f3b092c8-2cf0-588b-a674-74b484176038.jpg" />
+    <episode-num system="onscreen">S2025 E12</episode-num>
+  </programme>
+  <programme channel="TNT.Sports.4.HD.uk" start="20251027020000 +0000" stop="20251027030000 +0000">
+    <title lang="en">T100 Triathlon World Tour Highlights</title>
+    <sub-title lang="en">Wollongong</sub-title>
+    <desc lang="en">Action from the latest event in Wollongong, Australia.</desc>
+    <category lang="en">Triathlon</category>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/5dea5089-0396-5650-b351-07dcf5f3fd9c.jpg" />
+    <episode-num system="onscreen">S2025 E7</episode-num>
+  </programme>
+  <programme channel="TNT.Sports.4.HD.uk" start="20251027030000 +0000" stop="20251027033000 +0000">
+    <title lang="en">Mass Participation World</title>
+    <sub-title lang="en">Cardiff Half Marathon</sub-title>
+    <desc lang="en">Action fro"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"m the 2025 Cardiff Half Marathon.</desc>
+    <category lang="en">Extreme</category>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/4bfe1587-b523-5362-b862-ea5cc7dd92e1.jpg" />
+    <episode-num system="onscreen">S2025 E9</episode-num>
+  </programme>
+  <programme channel="TNT.Sports.4.HD.uk" start="20251027033000 +0000" stop="20251027043000 +0000">
+    <title lang="en">Superbike World Championship Highlights</title>
+    <sub-title lang="en">Spanish Round</sub-title>
+    <desc lang="en">Action from the 12th round of the season in Spain.</desc>
+    <category lang="en">Motorcycling</category>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/3130d924-933f-5631-b6f9-9f20b2cb14d3.jpg" />
+    <episode-num system="onscreen">S2025 E12</episode-num>
+  </programme>
+  <programme channel="TNT.Sports.4.HD.uk" start="20251027043000 +0000" stop="20251027053000 +0000">
+    <title lang="en">British Superbikes Highlights</title>
+    <sub-title lang="en">Round 11 Brands Hatch</sub-title>
+    <desc lang="en">Action from the 11th round of the season at Brands Hatch in Kent.</desc>
+    <category lang="en">Motorcycling</category>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/5c53c15e-b294-5534-9014-48d3b1100ab7.jpg" />
     <episode-num system="onscreen">S2025 E11</episode-num>
   </programme>
   <channel id="A2z.ph">
@@ -47304,91 +47206,6 @@
     <icon src="https://www.a1.hr/rasporedhttps://ssc.a1.hr/ITV/pictures/logos/arena_sport_10.png" />
     <url>http://www.a1.hr</url>
   </channel>
-  <programme start="20251022000000 +0100" stop="20251022020000 +0100" channel="Arena.Sport.1.HD.hr">
-    <title lang="hr">Nogomet – Liga Prvaka: Villarreal – Manchester City</title>
-    <desc lang="hr">Villarreal u trećem kolu Lige prvaka na svom terenu dočekuje Manchester City. Španjolska momčad zasad je osvojila samo jedan bod, dok City nakon iznenađujućeg remija s Monacom ima četiri.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/96fa2f3702633e583ff67f81b93032b41c079a02_thumb.jpg" />
-  </programme>
-  <programme start="20251022020000 +0100" stop="20251022023000 +0100" channel="Arena.Sport.1.HD.hr">
-    <title lang="hr">Ekstremni Sportovi: The Clip Show</title>
-    <desc lang="hr">Einmal um Großbritannien und den Globus. Emisija namijenjena svim ljubiteljima ekstremnih sportova. Uživajte u snimkama nevjerojatnih poteza i adrenalinskih borbi koje će vas ostaviti bez daha!</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/1fca70bd3b15b70bed434b5059efe3c9dc22f502_thumb.jpg" />
-  </programme>
-  <programme start="20251022023000 +0100" stop="20251022043000 +0100" channel="Arena.Sport.1.HD.hr">
-    <title lang="hr">Nogomet – Copa Sudamericana: Independiente – Atletico Mg</title>
-    <desc lang="hr">Independiente del Valle i Atlético Mineiro odmjerit će snage 22. listopada 2025. u prvom dvomeču polufinala Sudamericane. Tko će slaviti na stadionu Banco Guayaquil? Susret počinje u 02:30.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/7b553e144892bd0a94186a5d6f9ba1be67507c5e_thumb.jpg" />
-  </programme>
-  <programme start="20251022043000 +0100" stop="20251022050000 +0100" channel="Arena.Sport.1.HD.hr">
-    <title lang="hr">Ekstremni Sportovi: The Clip Show</title>
-    <desc lang="hr">Emisija namijenjena svim ljubiteljima ekstremnih sportova. Uživajte u snimkama nevjerojatnih poteza i adrenalinskih borbi koje će vas ostaviti bez daha!</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/01c4c550108767dfad17a5c998d532d808d97025_thumb.jpg" />
-  </programme>
-  <programme start="20251022050000 +0100" stop="20251022070000 +0100" channel="Arena.Sport.1.HD.hr">
-    <title lang="hr">Nogomet – Liga Prvaka: Arsenal – Atletico Madrid</title>
-    <desc lang="hr">U trećem kolu Lige prvaka Arsenal će ugostiti Atletico Madrid. Londonska momčad nakon prva dva kola ima maksimalnih šest bodova i pritom još nije primila pogodak.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/f3da3e74d0045cc365193c3378540722227ae2fe_thumb.jpg" />
-  </programme>
-  <programme start="20251022070000 +0100" stop="20251022083000 +0100" channel="Arena.Sport.1.HD.hr">
-    <title lang="hr">Košarka – Liga Prvaka: Igokea – Trieste</title>
-    <desc lang="hr">Igokea i Pallacanestro Trieste odmjerit će snage 21. listopada 2025. u dvorani Laktaši, u sklopu trećeg kola košarkaške Lige prvaka. Oba tima žele upisati prvu ligašku pobjedu.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/fb20659a1ba64782255641ec99d6f6c81c696b5e_thumb.jpg" />
-  </programme>
-  <programme start="20251022083000 +0100" stop="20251022100000 +0100" channel="Arena.Sport.1.HD.hr">
-    <title lang="hr">Rukomet – Europska Liga: Sesvete – Kristianstadt</title>
-    <desc lang="hr">MRK Sesvete i IFK Kristianstad odmjerit će snage 21. listopada 2025. u sklopu drugog kola EHF Europske lige. Tko će upisati pobjedu? Dvoboj počinje u 18:45.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/142c61baa76e439dbf39388237d7767428ab586b_thumb.jpg" />
-  </programme>
-  <programme start="20251022100000 +0100" stop="20251022120000 +0100" channel="Arena.Sport.1.HD.hr">
-    <title lang="hr">Nogomet – Francuska Liga: Marseille – Le Havre</title>
-    <desc lang="hr">Momčad Roberta De Zerbija dočekuje na Vélodromeu ekipu Didiera Digarda, koja se trenutno nalazi na rubu zone ispadanja privremene ljestvice.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/243fb92b06fe68e587598b774bd80feacee934d3_thumb.jpg" />
-  </programme>
-  <programme start="20251022120000 +0100" stop="20251022140000 +0100" channel="Arena.Sport.1.HD.hr">
-    <title lang="hr">Nogomet – Premier League: Fulham – Arsenal</title>
-    <desc lang="hr">Fulham i Arsenal odmjerit će snage 18. listopada 2025. u osmom kolu Premier lige. Tko će slaviti na stadionu Craven Cottage? Susret počinje u 18:30.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/283aacd3cfb8dea8e94ec6dfbb90bbea6428b8f6_thumb.jpg" />
-  </programme>
-  <programme start="20251022140000 +0100" stop="20251022160000 +0100" channel="Arena.Sport.1.HD.hr">
-    <title lang="hr">Nogomet – Talijanska Liga: Torino – Napoli</title>
-    <desc lang="hr">Torino i Napoli igraju 18. listopada 2025., u sklopu sedmog kola Serie A. Tko će slaviti na Olimpijskom stadionu u Torinu? Početak je u 18:00.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/e150b95af4262b8b7a19fd88f87a1d2414fec6a2_thumb.jpg" />
-  </programme>
-  <programme start="20251022160000 +0100" stop="20251022180000 +0100" channel="Arena.Sport.1.HD.hr">
-    <title lang="hr">Nogomet – Liga Prvaka: Bayer Leverkusen – Psg</title>
-    <desc lang="hr">U trećem kolu Lige prvaka Bayer Leverkusen će ugostiti PSG. Njemačka momčad još traži prvu pobjedu, nakon što je u prva dva kola osvojila samo dva boda.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/85a2bcd783c5c98a9bba562e67beab64109e732c_thumb.jpg" />
-  </programme>
-  <programme start="20251022180000 +0100" stop="20251022190000 +0100" channel="Arena.Sport.1.HD.hr">
-    <title lang="hr">Emisija: Liga Prvaka</title>
-    <desc lang="hr">HL 21.10.. Pogledajte najzanimljivije trenutke i vrhunce sezone iz Lige prvaka, godišnjeg klupskog nogometnog natjecanja koje organizira UEFA.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/a804cac5dd3097242a7b142a4ab62700d2b0c22a_thumb.jpg" />
-  </programme>
-  <programme start="20251022190000 +0100" stop="20251022193000 +0100" channel="Arena.Sport.1.HD.hr">
-    <title lang="hr">Mi Živimo Za Košarku</title>
-    <desc lang="hr">ŽKK Brod Na Savi. Sportska emisija koja donosi priče, vijesti i zanimljivosti iz svijeta košarke.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/81608b604d57b1b1df4d57f19cd4380d291680f2_thumb.jpg" />
-  </programme>
-  <programme start="20251022193000 +0100" stop="20251022200000 +0100" channel="Arena.Sport.1.HD.hr">
-    <title lang="hr">Ligue 1 Show</title>
-    <desc lang="hr">Pratite prestižnu francusku nogometnu ligu i gledajte fantastične klubove koji se bore za bitnu titulu. Liga postoji još od 1932. godine i okuplja neke od najboljih nogometaša iz cijeloga svijeta.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/aedd2ef5dfa1840e2875c115bff38cac27644759_thumb.jpg" />
-  </programme>
-  <programme start="20251022200000 +0100" stop="20251022210000 +0100" channel="Arena.Sport.1.HD.hr">
-    <title lang="hr">Emisija Lige Prvaka</title>
-    <desc lang="hr">Sportska emisija donosi novosti vezane uz utakmice Lige prvaka, rezultate i nogometaše, kao i njihove karijere.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/ba7dd605e215c2d1c235c82e9bd0ef54d1155df8_thumb.jpg" />
-  </programme>
-  <programme start="20251022210000 +0100" stop="20251022230000 +0100" channel="Arena.Sport.1.HD.hr">
-    <title lang="hr">Nogomet – Liga Prvaka: Real Madrid – Juventus</title>
-    <desc lang="hr">U jednom od derbija trećeg kola Lige prvaka Real Madrid na domaćem terenu dočekuje Juventus.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/6cd3ca6fb0b03c30e2735c911d7af4bc99a57f44_thumb.jpg" />
-  </programme>
-  <programme start="20251022230000 +0100" stop="20251023000000 +0100" channel="Arena.Sport.1.HD.hr">
-    <title lang="hr">Emisija Lige Prvaka</title>
-    <desc lang="hr">Sportska emisija donosi novosti vezane uz utakmice Lige prvaka, rezultate i nogometaše, kao i njihove karijere.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/ba7dd605e215c2d1c235c82e9bd0ef54d1155df8_thumb.jpg" />
-  </programme>
   <programme start="20251023000000 +0100" stop="20251023020000 +0100" channel="Arena.Sport.1.HD.hr">
     <title lang="hr">Nogomet – Liga Prvaka: Chelsea – Ajax</title>
     <desc lang="hr">Chelsea i Ajax sastaju se 22. listopada 2025. u trećem kolu Lige prvaka na Stamford Bridgeu. Obje momčadi traže važne bodove u borbi za prolazak skupine, a očekuje se uzbudljiv i neizvjestan susret.</desc>
@@ -47623,65 +47440,6 @@
     <title lang="hr">Baseball – World Series: G2</title>
     <desc lang="hr">Pratite Svjetsku seriju u bejzbolu koja okuplja najbolje klubove Sjeverne Amerike! Takozvani "Jesenjski klasik" donosi utakmice prepune adrenalina koje se igraju od davne 1903. godine.</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/2a7a985ce1baca0f03a18419f02f1184fd9bb98d_thumb.jpg" />
-  </programme>
-  <programme start="20251022000000 +0200" stop="20251022030000 +0200" channel="Arena.Sport.2.HD.hr">
-    <title lang="hr">Baseball – Mlb: Nlcs G4</title>
-    <desc lang="hr">Sezona 2025. počinje s velikim očekivanjima: mogu li Houston Astrosi vratiti titulu? Hoće li Shohei Ohtani ponovno dominirati na oba kraja terena?</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/537440d4f5302ea82fb28cf8e36dfa3cfdb580d6_thumb.jpg" />
-  </programme>
-  <programme start="20251022030000 +0200" stop="20251022050000 +0200" channel="Arena.Sport.2.HD.hr">
-    <title lang="hr">Triatlon: Hamburg (ž)</title>
-    <desc lang="hr">Najbolje svjetske triatlonke stižu u Hamburg spremne za sprint obračun koji bi mogao značajno utjecati na ukupni poredak Svjetske serije.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/cdf2680d73a489fdfc42532c85e6f7a905bf1226_thumb.jpg" />
-  </programme>
-  <programme start="20251022050000 +0200" stop="20251022070000 +0200" channel="Arena.Sport.2.HD.hr">
-    <title lang="hr">Odbojka – Cev Liga Prvakinja Kvalifikacije: Rumunjska – Hrvatska</title>
-    <desc lang="hr">Rumunjska i Hrvatska sučelit će se 6. kolovoza 2025. godine u utakmici petog kola kvalifikacija za Europsko prvenstvo u odbojci. Koja će ekipa odnijeti pobjedu? Susret započinje u 17:00 sati.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/95491b13e73ffde404c56b27a5d7294bbed6f13e_thumb.jpg" />
-  </programme>
-  <programme start="20251022070000 +0200" stop="20251022090000 +0200" channel="Arena.Sport.2.HD.hr">
-    <title lang="hr">Hokej Na Ledu – Nhl: Ottawa – Nashville</title>
-    <desc lang="hr">Ottawa Senators i Nashville Predators odmjerit će snage 13. listopada 2025. u prvom kolu NHL-a. Tko će slaviti na ledu Canadian Tire centra? Susret počinje u 19:00.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/fd98b0405a72c4edb774cc3e248362988dd5e15c_thumb.jpg" />
-  </programme>
-  <programme start="20251022090000 +0200" stop="20251022110000 +0200" channel="Arena.Sport.2.HD.hr">
-    <title lang="hr">Baseball – Mlb: Tbd</title>
-    <desc lang="hr">Sezona 2025. počinje s velikim očekivanjima: mogu li Houston Astrosi vratiti titulu? Hoće li Shohei Ohtani ponovno dominirati na oba kraja terena?</desc>
-  </programme>
-  <programme start="20251022110000 +0200" stop="20251022130000 +0200" channel="Arena.Sport.2.HD.hr">
-    <title lang="hr">Atletika: Dijamantna Liga – Rabat</title>
-    <desc lang="hr">U nedjelju, 25. svibnja 2025., Rabat će biti domaćin četvrtog ovogodišnjeg susreta prestižne serije Diamond League – jedne od najvažnijih i najuzbudljivijih atletskih liga na svijetu.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/10d3f7e5d527d8d3ab003819adbcbb106e0977be_thumb.jpg" />
-  </programme>
-  <programme start="20251022130000 +0200" stop="20251022160000 +0200" channel="Arena.Sport.2.HD.hr">
-    <title lang="hr">Nfl: Detroit – Tampa Bay</title>
-    <desc lang="hr">Detroit Lions odmjerit će snage s Tampa Bay Buccaneersima u sedmom kolu NFL-a. Tko će slaviti na stadionu Ford Field? Susret počinje u 01:00.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/6ee71dd2b5583e51f4e11f006729fa4d480a8918_thumb.jpg" />
-  </programme>
-  <programme start="20251022160000 +0200" stop="20251022180000 +0200" channel="Arena.Sport.2.HD.hr">
-    <title lang="hr">Nogomet – Liga Prvaka: Arsenal – Atletico Madrid</title>
-    <desc lang="hr">U trećem kolu Lige prvaka Arsenal će ugostiti Atletico Madrid. Londonska momčad nakon prva dva kola ima maksimalnih šest bodova i pritom još nije primila pogodak.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/f3da3e74d0045cc365193c3378540722227ae2fe_thumb.jpg" />
-  </programme>
-  <programme start="20251022180000 +0200" stop="20251022184500 +0200" channel="Arena.Sport.2.HD.hr">
-    <title lang="hr">Francuska Liga: Pregled</title>
-    <desc lang="hr">Uživajte u zabavnim minutama ovog sportskog magazina i saznajte sve novosti vezane uz nogomet francuske lige!</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/78e95aef8a0a62dd986dc00093773b17b3aea444_thumb.jpg" />
-  </programme>
-  <programme start="20251022184500 +0200" stop="20251022204500 +0200" channel="Arena.Sport.2.HD.hr">
-    <title lang="hr">Rukomet – Ehf Lp: Zagreb – Szeged</title>
-    <desc lang="hr">Zagreb i Szeged odmjerit će snage 22. listopada 2025. u sklopu šestog kola EHF Lige prvaka. Tko će ostvariti pobjedu u Areni Zagreb? Susret počinje u 18:45.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/7332942737b116954bd444eab1d131c7003b1605_thumb.jpg" />
-  </programme>
-  <programme start="20251022204500 +0200" stop="20251022230000 +0200" channel="Arena.Sport.2.HD.hr">
-    <title lang="hr">Rukomet – Ehf Lp: Nantes – Aalborg</title>
-    <desc lang="hr">U šestom kolu rukometne Lige prvaka HBC Nantes vraća se u svoju H Arenu, gdje će ugostiti Aalborg, jednog od glavnih favorita skupine A. Očekuje se uzbudljiv dvoboj u kojem će Francuzi tražiti...</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/73718dc81cc89d0060a056f261ea3866449df424_thumb.jpg" />
-  </programme>
-  <programme start="20251022230000 +0200" stop="20251023000000 +0200" channel="Arena.Sport.2.HD.hr">
-    <title lang="hr">Nogomet – Premier League: Fulham – Arsenal</title>
-    <desc lang="hr">Fulham i Arsenal odmjerit će snage 18. listopada 2025. u osmom kolu Premier lige. Tko će slaviti na stadionu Craven Cottage? Susret počinje u 18:30.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/283aacd3cfb8dea8e94ec6dfbb90bbea6428b8f6_thumb.jpg" />
   </programme>
   <programme start="20251023000000 +0200" stop="20251023030000 +0200" channel="Arena.Sport.2.HD.hr">
     <title lang="hr">Baseball – Mlb: Tbd</title>
@@ -47918,81 +47676,6 @@
     <title lang="hr">Triatlon – Svjetski Kup: Weihai: Weihai Men's Race</title>
     <desc lang="hr">Prije velikog finala u Wollongongu održava se još jedan natjecateljski susret u triatlonu, Svjetski kup u Weihaiju.</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/0968d098e7d3f0d847ed054fa3b9d3156c2a987b_thumb.jpg" />
-  </programme>
-  <programme start="20251022000000 +0100" stop="20251022020000 +0100" channel="Arena.Sport.3.HD.hr">
-    <title lang="hr">Nogomet – Španjolska Liga: Getafe – Real Madrid</title>
-    <desc lang="hr">Getafe i Real Madrid odmjerit će snage 19. listopada 2025. u sklopu devetog kola La Lige. Mogu li domaćini pred svojom publikom kreirati senzaciju na stadionu Coliseum? Susret počinje u 21:00.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/def86d83dadad445537b19f4e3cef6d84395002f_thumb.jpg" />
-  </programme>
-  <programme start="20251022020000 +0100" stop="20251022030000 +0100" channel="Arena.Sport.3.HD.hr">
-    <title lang="hr">Nogomet: Premier League – Pregled Kola</title>
-    <desc lang="hr">U ovom sportskom magazinu, donosimo vam pregled Premier League, kao i najnovije rezultate, tablice, statistiku i detalje svih utakmica!</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/6020c47a90d266a313254b65da9660b33a53f777_thumb.jpg" />
-  </programme>
-  <programme start="20251022030000 +0100" stop="20251022050000 +0100" channel="Arena.Sport.3.HD.hr">
-    <title lang="hr">Nogomet – Francuska Liga: Nantes – Lille</title>
-    <desc lang="hr">Nantes i Lille odmjerit će snage 19. listopada 2025. u sklopu osmog kola Ligue 1. Tko će izaći kao pobjednik sa stadiona Beaujoire? Susret počinje u 20:45.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/30b3f1437d7a7f37e575028c70e4e64e5c63e3bc_thumb.jpg" />
-  </programme>
-  <programme start="20251022050000 +0100" stop="20251022070000 +0100" channel="Arena.Sport.3.HD.hr">
-    <title lang="hr">Nogomet – Premier League: Tottenham – Aston Villa</title>
-    <desc lang="hr">Mogu li Ollie Watkins i Aston Villa nadmašiti očekivanja i izboriti pozitivan rezultat na terenu stadiona Tottenham Hotspur?</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/812622997fe0a3505e2b852dd6a868d894304b11_thumb.jpg" />
-  </programme>
-  <programme start="20251022070000 +0100" stop="20251022090000 +0100" channel="Arena.Sport.3.HD.hr">
-    <title lang="hr">Nogomet – Talijanska Liga: Torino – Napoli</title>
-    <desc lang="hr">Torino i Napoli igraju 18. listopada 2025., u sklopu sedmog kola Serie A. Tko će slaviti na Olimpijskom stadionu u Torinu? Početak je u 18:00.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/e150b95af4262b8b7a19fd88f87a1d2414fec6a2_thumb.jpg" />
-  </programme>
-  <programme start="20251022090000 +0100" stop="20251022093000 +0100" channel="Arena.Sport.3.HD.hr">
-    <title lang="hr">Shortlist</title>
-    <desc lang="hr">Magazin koji se bavi prikazivanjem legendarnih i nezaboravnih trenutaka u svijetu sporta, kao i individualnim karijerama sportaša kroz povijest.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/2a8cdca59a9788b447b84910a7f8eb5f166817fc_thumb.jpg" />
-  </programme>
-  <programme start="20251022093000 +0100" stop="20251022100000 +0100" channel="Arena.Sport.3.HD.hr">
-    <title lang="hr">Shortlist</title>
-    <desc lang="hr">Magazin koji se bavi prikazivanjem legendarnih i nezaboravnih trenutaka u svijetu sporta, kao i individualnim karijerama sportaša kroz povijest.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/2a8cdca59a9788b447b84910a7f8eb5f166817fc_thumb.jpg" />
-  </programme>
-  <programme start="20251022100000 +0100" stop="20251022120000 +0100" channel="Arena.Sport.3.HD.hr">
-    <title lang="hr">Nogomet – Ruska Premier Liga: Spartak M – Rostov</title>
-    <desc lang="hr">Spartak iz Moskve i FC Rostov odmjerit će snage 18. listopada 2025. u sklopu 12. kola Premier lige Rusije. Tko će slaviti na travnjaku Lukoil Arene? Susret počinje u 14:15.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/1a05a3d2ca3502b3665575f341d54e83cc481334_thumb.jpg" />
-  </programme>
-  <programme start="20251022120000 +0100" stop="20251022140000 +0100" channel="Arena.Sport.3.HD.hr">
-    <title lang="hr">Nogomet – Španjolska Liga: Getafe – Real Madrid</title>
-    <desc lang="hr">Getafe i Real Madrid odmjerit će snage 19. listopada 2025. u sklopu devetog kola La Lige. Mogu li domaćini pred svojom publikom kreirati senzaciju na stadionu Coliseum? Susret počinje u 21:00.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/def86d83dadad445537b19f4e3cef6d84395002f_thumb.jpg" />
-  </programme>
-  <programme start="20251022140000 +0100" stop="20251022150000 +0100" channel="Arena.Sport.3.HD.hr">
-    <title lang="hr">Nogomet: Liga Prvaka</title>
-    <desc lang="hr">Sažetak 18.09.. Pogledajte najzanimljivije trenutke utakmica svih faza najvećeg klupskog nogometnog natjecanja u Europi.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/a804cac5dd3097242a7b142a4ab62700d2b0c22a_thumb.jpg" />
-  </programme>
-  <programme start="20251022150000 +0100" stop="20251022170000 +0100" channel="Arena.Sport.3.HD.hr">
-    <title lang="hr">Nogomet – Premier League: Tottenham – Aston Villa</title>
-    <desc lang="hr">Mogu li Ollie Watkins i Aston Villa nadmašiti očekivanja i izboriti pozitivan rezultat na terenu stadiona Tottenham Hotspur?</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/812622997fe0a3505e2b852dd6a868d894304b11_thumb.jpg" />
-  </programme>
-  <programme start="20251022170000 +0100" stop="20251022184500 +0100" channel="Arena.Sport.3.HD.hr">
-    <title lang="hr">Nogomet – Francuska Liga: Nantes – Lille</title>
-    <desc lang="hr">Nantes i Lille odmjerit će snage 19. listopada 2025. u sklopu osmog kola Ligue 1. Tko će izaći kao pobjednik sa stadiona Beaujoire? Susret počinje u 20:45.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/30b3f1437d7a7f37e575028c70e4e64e5c63e3bc_thumb.jpg" />
-  </programme>
-  <programme start="20251022184500 +0100" stop="20251022210000 +0100" channel="Arena.Sport.3.HD.hr">
-    <title lang="hr">Nogomet – Liga Prvaka: A. Bilbao – Qarabag</title>
-    <desc lang="hr">U trećem kolu Lige prvaka Athletic Bilbao na svom stadionu dočekuje Qarabag, iznenađenje dosadašnjeg dijela natjecanja.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/e64558c67c492488cd29395e3365e30c03881bd7_thumb.jpg" />
-  </programme>
-  <programme start="20251022210000 +0100" stop="20251022230000 +0100" channel="Arena.Sport.3.HD.hr">
-    <title lang="hr">Nogomet – Liga Prvaka: Chelsea – Ajax</title>
-    <desc lang="hr">Chelsea i Ajax sastaju se 22. listopada 2025. u trećem kolu Lige prvaka na Stamford Bridgeu. Obje momčadi traže važne bodove u borbi za prolazak skupine, a očekuje se uzbudljiv i neizvjestan susret.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/1ec23b6300d4b28cf5f2277ad7ebff817623119f_thumb.jpg" />
-  </programme>
-  <programme start="20251022230000 +0100" stop="20251023000000 +0100" channel="Arena.Sport.3.HD.hr">
-    <title lang="hr">Wrc Pregled</title>
-    <desc lang="hr">Finska. Donosimo isječke najboljih trenutaka s FIA Svjetskog prvenstva u reliju, preglede utrka i razgovore s natjecateljima.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/26480442ac3d2c956159a8a79cb6edd3e3bda45f_thumb.jpg" />
   </programme>
   <programme start="20251023000000 +0100" stop="20251023020000 +0100" channel="Arena.Sport.3.HD.hr">
     <title lang="hr">Nogomet – Španjolska Liga: Atletico Madrid – Osasuna</title>
@@ -48238,84 +47921,6 @@
     <title lang="hr">Nogomet – Francuska Liga: Lens – O. Marseille</title>
     <desc lang="hr">Od 15. kolovoza 2025. do svibnja 2026. godine traje Ligue 1, najbolja francuska nogometna liga. Zadnje tri sezone pobjedu je odnio kultni Paris Saint-Germain.</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/aeecb21b8ed4865b2f7e8a4b44442fb7b815f6ae_thumb.jpg" />
-  </programme>
-  <programme start="20251022000000 +0200" stop="20251022020000 +0200" channel="Arena.Sport.4.HD.hr">
-    <title lang="hr">Košarka – Liga Prvaka: Trieste – Galatasaray</title>
-    <desc lang="hr">Pallacanestro Trieste i Galatasaray odmjerit će snage 15. listopada 2025. u sklopu drugog kola košarkaške Lige prvaka. Tko će slaviti u dvorani PalaTrieste? Početak susreta zakazan je za 21:00.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/bef12c29c765ef5861948559e67029a58964cdbb_thumb.jpg" />
-  </programme>
-  <programme start="20251022020000 +0200" stop="20251022040000 +0200" channel="Arena.Sport.4.HD.hr">
-    <title lang="hr">Nogomet – Njemački Kup: Hemelingen – Wolfsburg</title>
-    <desc lang="hr">SV Hemelingen i Wolfsburg odmjerit će snage 16. kolovoza 2025. u prvom kolu Njemačkog kupa. Koji će tim biti uvjerljiviji na stadionu Weserstadion? Utakmica započinje u 15:30.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/ad19c93f98ea40d0c402053bc8da621980eb1ea5_thumb.jpg" />
-  </programme>
-  <programme start="20251022040000 +0200" stop="20251022060000 +0200" channel="Arena.Sport.4.HD.hr">
-    <title lang="hr">Nogomet – Poljska Liga: Wisla – Termalica</title>
-    <desc lang="hr">Wisła Płock i Bruk-Bet Termalica Nieciecza odmjerit će snage 20. listopada 2025. u sklopu 12. kola Ekstraklase. Tko će slaviti na stadionu Kazimierza Gorskiego? Susret počinje u 19:00.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/3f3c36f851d3ffec2cfe97cb851a2bc096fc9f85_thumb.jpg" />
-  </programme>
-  <programme start="20251022060000 +0200" stop="20251022070000 +0200" channel="Arena.Sport.4.HD.hr">
-    <title lang="hr">30 Za 30</title>
-    <desc lang="hr">Angry Sky. "30 for 30" serija je kritički priznatih sportskih dokumentaraca ESPN-a, koji su prvi zaživjeli kao proslava 30. godišnjice mreže.</desc>
-    <credits>
-      <director>Jeff Tremaine</director>
-    </credits>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/984a1cc2472bf6f9ad2a6422d16911f37d93a6c4_thumb.jpg" />
-  </programme>
-  <programme start="20251022070000 +0200" stop="20251022080000 +0200" channel="Arena.Sport.4.HD.hr">
-    <title lang="hr">Međunarodna Nogometna Rivalstva</title>
-    <desc lang="hr">Češka – Slovačka. Emisija o najvećim međunarodnim nogometnim rivalstvima.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/f80748cbaa778206acec5e53905c3422e00ffb74_thumb.jpg" />
-  </programme>
-  <programme start="20251022080000 +0200" stop="20251022100000 +0200" channel="Arena.Sport.4.HD.hr">
-    <title lang="hr">Hrvanje – Svjetsko Prvenstvo: Zagreb Dan 4</title>
-    <desc lang="hr">Svjetsko prvenstvo u hrvanju je međunarodno natjecanje koje organizira međunarodna hrvačka federacija FILA.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/cf6bfe20f0dc92934f0c326a2e760c4c1fc1670c_thumb.jpg" />
-  </programme>
-  <programme start="20251022100000 +0200" stop="20251022120000 +0200" channel="Arena.Sport.4.HD.hr">
-    <title lang="hr">Nogomet – Premier League: Nottingham – Chelsea</title>
-    <desc lang="hr">Chelsea gostuje kod Nottingham Foresta na istoku Engleske i nada se pobjedi koja bi ih približila među pet najboljih momčadi na ljestvici.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/deac0cad90eb9085d525db68737a437dae74e8be_thumb.jpg" />
-  </programme>
-  <programme start="20251022120000 +0200" stop="20251022140000 +0200" channel="Arena.Sport.4.HD.hr">
-    <title lang="hr">Nogomet – Liga Prvaka: Union – Inter</title>
-    <desc lang="hr">Nakon pobjede protiv PSV-a i teškog poraza od Newcastlea, Union Saint-Gilloise u trećem kolu Lige prvaka dočekuje prošlogodišnjeg finalista Inter.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/8cae01c90cfbe13fd9a1d5d9defb6bee5e3dbf57_thumb.jpg" />
-  </programme>
-  <programme start="20251022140000 +0200" stop="20251022143000 +0200" channel="Arena.Sport.4.HD.hr">
-    <title lang="hr">Ultimate Rush</title>
-    <desc lang="hr">Pogledajte spektakularne snimke vrhunskih sportaša i uživajte u njihovim vratolomijama.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/c7ae6a036fbd9d8e265420bd061f7e96e043ef3c_thumb.jpg" />
-  </programme>
-  <programme start="20251022143000 +0200" stop="20251022160000 +0200" channel="Arena.Sport.4.HD.hr">
-    <title lang="hr">Rukomet – Europska Liga: Sesvete – Kristianstadt</title>
-    <desc lang="hr">MRK Sesvete i IFK Kristianstad odmjerit će snage 21. listopada 2025. u sklopu drugog kola EHF Europske lige. Tko će upisati pobjedu? Dvoboj počinje u 18:45.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/142c61baa76e439dbf39388237d7767428ab586b_thumb.jpg" />
-  </programme>
-  <programme start="20251022160000 +0200" stop="20251022180000 +0200" channel="Arena.Sport.4.HD.hr">
-    <title lang="hr">Nogomet – Poljska Liga: Wisla – Termalica</title>
-    <desc lang="hr">Wisła Płock i Bruk-Bet Termalica Nieciecza odmjerit će snage 20. listopada 2025. u sklopu 12. kola Ekstraklase. Tko će slaviti na stadionu Kazimierza Gorskiego? Susret počinje u 19:00.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/3f3c36f851d3ffec2cfe97cb851a2bc096fc9f85_thumb.jpg" />
-  </programme>
-  <programme start="20251022180000 +0200" stop="20251022184500 +0200" channel="Arena.Sport.4.HD.hr">
-    <title lang="hr">Arena Specijal</title>
-    <desc lang="hr">Emisija "Arena specijal" donosi ekskluzivne intervjue s uspješnim i istaknutim sportašima, trenerima i drugim sportskim stručnjacima.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/174b698ca35b5fbf915870fd8d3140d833677969_thumb.jpg" />
-  </programme>
-  <programme start="20251022184500 +0200" stop="20251022210000 +0200" channel="Arena.Sport.4.HD.hr">
-    <title lang="hr">Nogomet – Liga Prvaka: Galatasaray – Bodo/glimt</title>
-    <desc lang="hr">Galatasaray nakon iznenađujuće pobjede nad Liverpoolom u trećem kolu Lige prvaka dočekuje Bodo/Glimt. Norvežani su i dalje neporaženi, no s dva remija imaju samo dva osvojena boda.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/722c65ff059a53509843e8f4b18642eb35dca2e8_thumb.jpg" />
-  </programme>
-  <programme start="20251022210000 +0200" stop="20251022230000 +0200" channel="Arena.Sport.4.HD.hr">
-    <title lang="hr">Nogomet – Liga Prvaka: Eintracht F. – Liverpool</title>
-    <desc lang="hr">Liverpool u trećem kolu Lige prvaka gostuje kod Eintrachta i traži iskupljenje nakon poraza od Galatasaraya.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/b7b80ce73c42dc0b7dc81942be78c1fed677f5f3_thumb.jpg" />
-  </programme>
-  <programme start="20251022230000 +0200" stop="20251023000000 +0200" channel="Arena.Sport.4.HD.hr">
-    <title lang="hr">Vaterpolo – Liga Prvaka: Novi Beograd – Pro Recco</title>
-    <desc lang="hr">Momčad Novog Beograda suprotstavit će se Pro Reccu u sklopu prvog kola LEN Lige prvaka. Tko će slaviti na bazenu SRC-a April 11? Početak susreta je u 20:30.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/c1ea20e0de9374bb4f84661ad686c2bbbb50ba19_thumb.jpg" />
   </programme>
   <programme start="20251023000000 +0200" stop="20251023020000 +0200" channel="Arena.Sport.4.HD.hr">
     <title lang="hr">Košarka – Talijanska Liga: Venezia – Trieste</title>
@@ -48590,56 +48195,6 @@
     <desc lang="hr">Njemački kup pod imenom DFB pokal vam jamči uzbudljive nastupe čak 64 momčadi iz jedne od najjačih liga Europe. Hoće li pobijediti favoriti ili će ovo biti sezona iznenađenja? Nemojte propustiti!</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/4e7c02664c587a3bbddb4273e7b5b7056889950c_thumb.jpg" />
   </programme>
-  <programme start="20251022000000 +0100" stop="20251022040000 +0100" channel="Arena.Sport.5.HD.hr">
-    <title lang="hr">Najava Programa</title>
-    <desc lang="hr">Pogledajte što vas sve očekuje u našem programu.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/174b698ca35b5fbf915870fd8d3140d833677969_thumb.jpg" />
-  </programme>
-  <programme start="20251022040000 +0100" stop="20251022080000 +0100" channel="Arena.Sport.5.HD.hr">
-    <title lang="hr">Najava Programa</title>
-    <desc lang="hr">Pogledajte što vas sve očekuje u našem programu.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/174b698ca35b5fbf915870fd8d3140d833677969_thumb.jpg" />
-  </programme>
-  <programme start="20251022080000 +0100" stop="20251022120000 +0100" channel="Arena.Sport.5.HD.hr">
-    <title lang="hr">Najava Programa</title>
-    <desc lang="hr">Pogledajte što vas sve očekuje u našem programu.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/174b698ca35b5fbf915870fd8d3140d833677969_thumb.jpg" />
-  </programme>
-  <programme start="20251022120000 +0100" stop="20251022140000 +0100" channel="Arena.Sport.5.HD.hr">
-    <title lang="hr">Najava Programa</title>
-    <desc lang="hr">Pogledajte što vas sve očekuje u našem programu.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/174b698ca35b5fbf915870fd8d3140d833677969_thumb.jpg" />
-  </programme>
-  <programme start="20251022140000 +0100" stop="20251022160000 +0100" channel="Arena.Sport.5.HD.hr">
-    <title lang="hr">Hokej Na Ledu – Liga Prvaka: Ilves – Zurich</title>
-    <desc lang="hr">Ilves Tampere i ZSC Lions odmjerit će snage 14. listopada 2025. u šesto kolu hokejaške Lige prvaka. Tko će slaviti na ledu Nokia Arene? Susret počinje u 17:30.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/f5bb97ffd2921bb1d29a9f3c33926278b54edd90_thumb.jpg" />
-  </programme>
-  <programme start="20251022160000 +0100" stop="20251022180000 +0100" channel="Arena.Sport.5.HD.hr">
-    <title lang="hr">Atletika: Dijamantna Liga – London</title>
-    <desc lang="hr">19. srpnja 2025. godine održava 11. natjecanje u Diamond League seriji, Londonski miting.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/f9a489d79072549acb90cb3245dc1d7bcd151b96_thumb.jpg" />
-  </programme>
-  <programme start="20251022180000 +0100" stop="20251022200000 +0100" channel="Arena.Sport.5.HD.hr">
-    <title lang="hr">Košarka – Aba 2. Liga: Borac – Helios</title>
-    <desc lang="hr">KK Borac Banja Luka i Helios Domžale odmjerit će snage 22. listopada 2025. u sklopu drugog kola druge ABA lige. Tko će iz dvorane Borik izaći kao pobjednik? Početak je zakazan za 18:00.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/bf38e425f4229c73b6a15952f7c48c93686dc95d_thumb.jpg" />
-  </programme>
-  <programme start="20251022200000 +0100" stop="20251022210000 +0100" channel="Arena.Sport.5.HD.hr">
-    <title lang="hr">Međunarodna Nogometna Rivalstva</title>
-    <desc lang="hr">Češka – Slovačka. Emisija o najvećim međunarodnim nogometnim rivalstvima.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/f80748cbaa778206acec5e53905c3422e00ffb74_thumb.jpg" />
-  </programme>
-  <programme start="20251022210000 +0100" stop="20251022230000 +0100" channel="Arena.Sport.5.HD.hr">
-    <title lang="hr">Nogomet – Liga Prvaka: Monaco – Tottenham</title>
-    <desc lang="hr">Na začelju skupine, Maghnes Akliouche i Monaco moraju ostvariti prvu pobjedu u Ligi prvaka, dočekujući na svom terenu Tottenham.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/6b3ae31a4e2fc5515488fea17df7422e7677d628_thumb.jpg" />
-  </programme>
-  <programme start="20251022230000 +0100" stop="20251023000000 +0100" channel="Arena.Sport.5.HD.hr">
-    <title lang="hr">Boks – Ibo Super Flyweight World Championship: Malajika – Mama</title>
-    <desc lang="hr">Novi uzbudljivi borilački događaj je pred nama. Ricardo Malajika i Jayson Mama će se sučeliti u ringu 9. kolovoza 2025. Tko će izaći kao pobjednik? Borba započinje u 20:30.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/61f21c0c6601b4a6d0c3c41ceed532cc46336695_thumb.jpg" />
-  </programme>
   <programme start="20251023000000 +0100" stop="20251023040000 +0100" channel="Arena.Sport.5.HD.hr">
     <title lang="hr">Najava Programa</title>
     <desc lang="hr">Pogledajte što vas sve očekuje u našem programu.</desc>
@@ -48800,50 +48355,6 @@
     <desc lang="hr">Pogledajte što vas sve očekuje u našem programu.</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/174b698ca35b5fbf915870fd8d3140d833677969_thumb.jpg" />
   </programme>
-  <programme start="20251022010000 +0200" stop="20251022040000 +0200" channel="Arena.Sport.6.HD.hr">
-    <title lang="hr">Najava Programa</title>
-    <desc lang="hr">Pogledajte što vas sve očekuje u našem programu.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/174b698ca35b5fbf915870fd8d3140d833677969_thumb.jpg" />
-  </programme>
-  <programme start="20251022040000 +0200" stop="20251022080000 +0200" channel="Arena.Sport.6.HD.hr">
-    <title lang="hr">Najava Programa</title>
-    <desc lang="hr">Pogledajte što vas sve očekuje u našem programu.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/174b698ca35b5fbf915870fd8d3140d833677969_thumb.jpg" />
-  </programme>
-  <programme start="20251022080000 +0200" stop="20251022120000 +0200" channel="Arena.Sport.6.HD.hr">
-    <title lang="hr">Najava Programa</title>
-    <desc lang="hr">Pogledajte što vas sve očekuje u našem programu.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/174b698ca35b5fbf915870fd8d3140d833677969_thumb.jpg" />
-  </programme>
-  <programme start="20251022120000 +0200" stop="20251022150000 +0200" channel="Arena.Sport.6.HD.hr">
-    <title lang="hr">Najava Programa</title>
-    <desc lang="hr">Pogledajte što vas sve očekuje u našem programu.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/174b698ca35b5fbf915870fd8d3140d833677969_thumb.jpg" />
-  </programme>
-  <programme start="20251022150000 +0200" stop="20251022170000 +0200" channel="Arena.Sport.6.HD.hr">
-    <title lang="hr">Nogomet – Francuska Liga: Angers – Monaco</title>
-    <desc lang="hr">Angers i AS Monaco odmjerit će snage 18. listopada 2025., u sklopu osmog kola Ligue 1. Tko će slaviti na stadionu Raymond Kopa? Utakmica počinje u 19:00.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/5d0cf273e153dbec6ca32bac1e7c1d682bcbf202_thumb.jpg" />
-  </programme>
-  <programme start="20251022170000 +0200" stop="20251022190000 +0200" channel="Arena.Sport.6.HD.hr">
-    <title lang="hr">Nogomet – Talijanska Liga: Milan – Fiorentina</title>
-    <desc lang="hr">Stefano Pioli donedavno je nizao uspjehe na klupi Milana, no danas vodi Fiorentinu, s kojom je ušao u sezonu ispod svih očekivanja.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/11269c18d8be9f908ac29e6f92a31b9c4141fffc_thumb.jpg" />
-  </programme>
-  <programme start="20251022190000 +0200" stop="20251022210000 +0200" channel="Arena.Sport.6.HD.hr">
-    <title lang="hr">Hokej Na Ledu – Nhl: Buffalo – Florida</title>
-    <desc lang="hr">Buffalo Sabres i Florida Panthers odmjerit će snage 18. listopada 2025. u susretu NHL-a. Tko će odnijeti pobjedu na ledu KeyBank centra? Susret počinje u 19:00.</desc>
-  </programme>
-  <programme start="20251022210000 +0200" stop="20251022230000 +0200" channel="Arena.Sport.6.HD.hr">
-    <title lang="hr">Nogomet – Liga Prvaka: Multiprijenos</title>
-    <desc lang="hr">71. sezona Lige prvaka počinje kvalifikacijama u srpnju 2025. godine i završava spektakularnim finalom koje će se održati 30. svibnja 2026. u Budimpešti.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/a0009c27f5477e3995c703ec9995bd073bbf4ba9_thumb.jpg" />
-  </programme>
-  <programme start="20251022230000 +0200" stop="20251023010000 +0200" channel="Arena.Sport.6.HD.hr">
-    <title lang="hr">Nogomet – Ruska Premier Liga: Spartak M – Rostov</title>
-    <desc lang="hr">Spartak iz Moskve i FC Rostov odmjerit će snage 18. listopada 2025. u sklopu 12. kola Premier lige Rusije. Tko će slaviti na travnjaku Lukoil Arene? Susret počinje u 14:15.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/1a05a3d2ca3502b3665575f341d54e83cc481334_thumb.jpg" />
-  </programme>
   <programme start="20251023010000 +0200" stop="20251023040000 +0200" channel="Arena.Sport.6.HD.hr">
     <title lang="hr">Najava Programa</title>
     <desc lang="hr">Pogledajte što vas sve očekuje u našem programu.</desc>
@@ -48987,79 +48498,6 @@
     <title lang="hr">Najava Programa</title>
     <desc lang="hr">Pogledajte što vas sve očekuje u našem programu.</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/174b698ca35b5fbf915870fd8d3140d833677969_thumb.jpg" />
-  </programme>
-  <programme start="20251022010000 +0100" stop="20251022030000 +0100" channel="Arena.Sport.7.HD.hr">
-    <title lang="hr">Nogomet – Europa Liga: Maccabi Tel Aviv – Dinamo</title>
-    <desc lang="hr">Maccabi Tel Aviv i NK Dinamo sastaju se 2. listopada 2025. na stadionu TSC Arena, u sklopu drugog kola Europske lige. Modri žele nastaviti pobjednički niz. Susret počinje u 21:00.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/fba91829232b3d448214dc82ac549d1cfad60584_thumb.jpg" />
-  </programme>
-  <programme start="20251022030000 +0100" stop="20251022050000 +0100" channel="Arena.Sport.7.HD.hr">
-    <title lang="hr">Nogomet – Liga Prvaka: Copenhagen – Dortmund</title>
-    <desc lang="hr">U trećem kolu Lige prvaka FC Kopenhagen na domaćem terenu dočekuje Borussiju Dortmund.</desc>
-  </programme>
-  <programme start="20251022050000 +0100" stop="20251022070000 +0100" channel="Arena.Sport.7.HD.hr">
-    <title lang="hr">Nogomet – Konferencijska Liga: Aberdeen – Shakhtar</title>
-    <desc lang="hr">Aberdeen i Shakhtar Donetsk sastat će se 2. listopada 2025. na stadionu Pittodrie, u sklopu prvog kola Konferencijske lige. Oba žele dobro ući u natjecanje. Početak je u 21:00.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/612d773d6261b5af823ad282584ffbffcd52d45f_thumb.jpg" />
-  </programme>
-  <programme start="20251022070000 +0100" stop="20251022080000 +0100" channel="Arena.Sport.7.HD.hr">
-    <title lang="hr">Nogomet: Liga Prvaka</title>
-    <desc lang="hr">Sažetak 16.09.. Pogledajte najzanimljivije trenutke utakmica svih faza najvećeg klupskog nogometnog natjecanja u Europi.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/a804cac5dd3097242a7b142a4ab62700d2b0c22a_thumb.jpg" />
-  </programme>
-  <programme start="20251022080000 +0100" stop="20251022100000 +0100" channel="Arena.Sport.7.HD.hr">
-    <title lang="hr">Nogomet – Europa Liga: Fenerbahce – Nice</title>
-    <desc lang="hr">Aigloni iz OGC Nicea trebaju iskoristiti trenutnu nesigurnost u Fenerbahçeu, sada kada je José Mourinho smijenjen s mjesta glavnog trenera turskog kluba.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/ed426cd645e222eb4a695abd177cf83d56afbc45_thumb.jpg" />
-  </programme>
-  <programme start="20251022100000 +0100" stop="20251022103000 +0100" channel="Arena.Sport.7.HD.hr">
-    <title lang="hr">Magazin Lige Prvaka</title>
-    <desc lang="hr">Pregled vijesti vezanih uz zbivanja na nogometnom travnjaku, za sve ljubitelje nogometa.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/a804cac5dd3097242a7b142a4ab62700d2b0c22a_thumb.jpg" />
-  </programme>
-  <programme start="20251022103000 +0100" stop="20251022110000 +0100" channel="Arena.Sport.7.HD.hr">
-    <title lang="hr">Greatest Club</title>
-    <desc lang="hr">Ajax. Nikako nemojte propustiti emisiju o najboljim nogometnim momčadima koje su obilježile svjetsku nogometnu povijest. Njihove uspone i padove pogledajte u ovoj dokumentarnoj emisiji na vašim tv ekranima!</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/85cfbc49c986b1157a34bd40017c5b430581b065_thumb.jpg" />
-  </programme>
-  <programme start="20251022110000 +0100" stop="20251022120000 +0100" channel="Arena.Sport.7.HD.hr">
-    <title lang="hr">Nogomet – Europa Liga: 1.kolo</title>
-    <desc lang="hr">Nova sezona Europa lige 2025/26 donosi novi ligaški format i 36 klubova u borbi za trofej!</desc>
-  </programme>
-  <programme start="20251022120000 +0100" stop="20251022140000 +0100" channel="Arena.Sport.7.HD.hr">
-    <title lang="hr">Nogomet – Europa Liga: Bologna – Freiburg</title>
-    <desc lang="hr">Bologna i Freiburg susrest će se 2. listopada 2025. u drugom kolu drugog najprestižnijeg klupskog nogometnog natjecanja u Europi. Koja će ekipa osigurati pobjedu na stadionu Renato Dall'Ara?</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/fe38b1e57a02fcb43a07e0090af77ee03b3fef8e_thumb.jpg" />
-  </programme>
-  <programme start="20251022140000 +0100" stop="20251022150000 +0100" channel="Arena.Sport.7.HD.hr">
-    <title lang="hr">Nogomet – Europa Liga</title>
-    <desc lang="hr">Sažetak 2.kolo. Drugo najprestižnije klupsko nogometno natjecanje u Europi je službeno pod okriljem UEFA-e od 1971. godine.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/7f60ac403bc4cb4933b672ebe071fd9366780a0a_thumb.jpg" />
-  </programme>
-  <programme start="20251022150000 +0100" stop="20251022170000 +0100" channel="Arena.Sport.7.HD.hr">
-    <title lang="hr">Nogomet – Konferencijska Liga: Zrinjski – Lincoln</title>
-    <desc lang="hr">Zrinjski Mostar i Lincoln Red Imps odmjerit će snage 2. listopada 2025. u prvom kolu Konferencijske lige. Koji će tim ostvariti pobjedu na stadionu Bijeli Brijeg? Susret započinje u 18:45.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/046037c971d5e828321712c44549b8ce94305bbb_thumb.jpg" />
-  </programme>
-  <programme start="20251022170000 +0100" stop="20251022190000 +0100" channel="Arena.Sport.7.HD.hr">
-    <title lang="hr">Nogomet – Liga Prvaka: Newcastle – Benfica</title>
-    <desc lang="hr">U trećem kolu Lige prvaka Newcastle na svom terenu dočekuje Benficu. Portugalski sastav ne briljira – nakon dva kola bez bodova, uz iznenađujući poraz od Qarabaga.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/e750da765f8060060cda4a98c5167299e43f9554_thumb.jpg" />
-  </programme>
-  <programme start="20251022190000 +0100" stop="20251022210000 +0100" channel="Arena.Sport.7.HD.hr">
-    <title lang="hr">Nogomet – Europa Liga: Fenerbahce – Nice</title>
-    <desc lang="hr">Aigloni iz OGC Nicea trebaju iskoristiti trenutnu nesigurnost u Fenerbahçeu, sada kada je José Mourinho smijenjen s mjesta glavnog trenera turskog kluba.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/ed426cd645e222eb4a695abd177cf83d56afbc45_thumb.jpg" />
-  </programme>
-  <programme start="20251022210000 +0100" stop="20251022230000 +0100" channel="Arena.Sport.7.HD.hr">
-    <title lang="hr">Nogomet – Liga Prvaka: Sporting – Marseille</title>
-    <desc lang="hr">Nakon uvjerljive pobjede 4:0 protiv Ajaxa u drugom kolu, Olympique Marseille se u velikom stilu vraća na europsku scenu, potvrđujući svoju snagu i ambicije u ovom izdanju Lige prvaka.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/6fd6459e8ec81cea80d8995821da139ce4416612_thumb.jpg" />
-  </programme>
-  <programme start="20251022230000 +0100" stop="20251023010000 +0100" channel="Arena.Sport.7.HD.hr">
-    <title lang="hr">Nogomet – Liga Prvaka: Real Madrid – Juventus</title>
-    <desc lang="hr">U jednom od derbija trećeg kola Lige prvaka Real Madrid na domaćem terenu dočekuje Juventus.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/6cd3ca6fb0b03c30e2735c911d7af4bc99a57f44_thumb.jpg" />
   </programme>
   <programme start="20251023010000 +0100" stop="20251023030000 +0100" channel="Arena.Sport.7.HD.hr">
     <title lang="hr">Nogomet – Europa Liga: Porto – Crvena Zvezda</title>
@@ -49311,71 +48749,6 @@
     <desc lang="hr">71. sezona Lige prvaka počinje kvalifikacijama u srpnju 2025. godine i završava spektakularnim finalom koje će se održati 30. svibnja 2026. u Budimpešti.</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/a0009c27f5477e3995c703ec9995bd073bbf4ba9_thumb.jpg" />
   </programme>
-  <programme start="20251022000000 +0200" stop="20251022020000 +0200" channel="Arena.Sport.8.HD.hr">
-    <title lang="hr">Hokej Na Ledu – Nhl: Winnipeg – La Kings</title>
-    <desc lang="hr">Winnipeg Jets i Los Angeles Kings odmjerit će snage 11. listopada 2025. u prvom kolu NHL-a. Tko će slaviti u ledenoj dvorani Canada Life? Susret počinje u 19:30.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/013e4ce3589b5823d5dda51ed5162e81d428ee29_thumb.jpg" />
-  </programme>
-  <programme start="20251022020000 +0200" stop="20251022040000 +0200" channel="Arena.Sport.8.HD.hr">
-    <title lang="hr">Nogomet – Copa Sudamericana: Ind Del Valle – Once Caldas</title>
-    <desc lang="hr">24. izdanje CONMEBOL Sudamericana okupit će najbolje momčadi Južne Amerike u borbi za prestižnu titulu.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/a0322370c643661ea7350726f65e03bc888dcc53_thumb.jpg" />
-  </programme>
-  <programme start="20251022040000 +0200" stop="20251022060000 +0200" channel="Arena.Sport.8.HD.hr">
-    <title lang="hr">Baseball – Mlb: Milwaukee – Philadelphia</title>
-    <desc lang="hr">Milwaukee Brewers suočit će se s Philadelphia Phillies u MLB dvoboju. Koji će tim slaviti na stadionu American Family Field?</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/6920f7f1bb2b54c09da9a9ebacfbabc80af6e39a_thumb.jpg" />
-  </programme>
-  <programme start="20251022060000 +0200" stop="20251022090000 +0200" channel="Arena.Sport.8.HD.hr">
-    <title lang="hr">Nfl: Ny Giants – Philadelphia</title>
-    <desc lang="hr">New York Giants sučelit će se s Philadelphia Eagles u sklopu šestog kola NFL-a. Tko će slaviti na stadionu MetLife? Susret počinje u 02:15.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/8177c610a370123537459bdbb54bcd6193667305_thumb.jpg" />
-  </programme>
-  <programme start="20251022090000 +0200" stop="20251022093000 +0200" channel="Arena.Sport.8.HD.hr">
-    <title lang="hr">Arena Specijal</title>
-    <desc lang="hr">Emisija "Arena specijal" donosi ekskluzivne intervjue s uspješnim i istaknutim sportašima, trenerima i drugim sportskim stručnjacima.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/174b698ca35b5fbf915870fd8d3140d833677969_thumb.jpg" />
-  </programme>
-  <programme start="20251022093000 +0200" stop="20251022100000 +0200" channel="Arena.Sport.8.HD.hr">
-    <title lang="hr">Sport Bez Granica</title>
-    <desc lang="hr">Uđite u svijet sporta uz našu emisiju i saznajte najnovije vijesti i zanimljivosti!</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/46100e269599f53bed83e625c45bcab8c438cec5_thumb.jpg" />
-  </programme>
-  <programme start="20251022100000 +0200" stop="20251022120000 +0200" channel="Arena.Sport.8.HD.hr">
-    <title lang="hr">Ibo Super Middleweight World Championship: Inoue – Fulton</title>
-    <desc lang="hr">Pratite IBO Svjetsko boksačko prvenstvo. Osnovano 1988. u SAD-u, ovo je prvenstvo podijeljeno u težinske kategorije i svaka od njih imat će svog pobjednika.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/61f21c0c6601b4a6d0c3c41ceed532cc46336695_thumb.jpg" />
-  </programme>
-  <programme start="20251022120000 +0200" stop="20251022140000 +0200" channel="Arena.Sport.8.HD.hr">
-    <title lang="hr">Hokej Na Ledu – Nhl: Calgary – St Louis</title>
-    <desc lang="hr">Calgary Flames i St. Louis Blues odmjerit će snage 11. listopada 2025. u sklopu susreta NHL-a. Tko će slaviti na ledu Scotiabank Saddledome dvorane? Susret počinje u 22:00.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/51eaab8a913c1b7993fd724666180e549eea99a6_thumb.jpg" />
-  </programme>
-  <programme start="20251022140000 +0200" stop="20251022160000 +0200" channel="Arena.Sport.8.HD.hr">
-    <title lang="hr">Baseball – Mlb: Toronto – Houston</title>
-    <desc lang="hr">Toronto Blue Jays suočit će se s Houston Astros u sklopu MLB susreta. Koja će momčad odnijeti pobjedu na stadionu Rogers Centre?</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/b8b0d0ed781b157e60ca189d974eb5ffb4f2af12_thumb.jpg" />
-  </programme>
-  <programme start="20251022160000 +0200" stop="20251022183000 +0200" channel="Arena.Sport.8.HD.hr">
-    <title lang="hr">Hrvanje – Svjetsko Prvenstvo: Zagreb Dan 3</title>
-    <desc lang="hr">Svjetsko prvenstvo u hrvanju je međunarodno natjecanje koje organizira međunarodna hrvačka federacija FILA.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/cf6bfe20f0dc92934f0c326a2e760c4c1fc1670c_thumb.jpg" />
-  </programme>
-  <programme start="20251022183000 +0200" stop="20251022203000 +0200" channel="Arena.Sport.8.HD.hr">
-    <title lang="hr">Košarka – Liga Prvaka: Rytas – Promiteas</title>
-    <desc lang="hr">Rytas i Promiteas odmjerit će snage 22. listopada 2025. u sklopu trećeg kola košarkaške Lige prvaka. Tko će slaviti u Active Vilnius Areni? Susret počinje u 18:30.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/81b59bde2e22940d63bb8b56866bcf52150bb832_thumb.jpg" />
-  </programme>
-  <programme start="20251022203000 +0200" stop="20251022220000 +0200" channel="Arena.Sport.8.HD.hr">
-    <title lang="hr">Košarka – Liga Prvaka: Juventut – Bursaspor</title>
-    <desc lang="hr">Joventut i Bursaspor odmjerit će snage 22. listopada 2025. u sklopu trećeg kola košarkaške Lige prvaka. Tko će biti uspješniji? Susret počinje u 20:30.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/f18dd7c89eebe0541807db3f9bd7d4b0973ec5c9_thumb.jpg" />
-  </programme>
-  <programme start="20251022220000 +0200" stop="20251023000000 +0200" channel="Arena.Sport.8.HD.hr">
-    <title lang="hr">Nogomet – Copa Sudamericana: Independiente – Atletico Mg</title>
-    <desc lang="hr">Independiente del Valle i Atlético Mineiro odmjerit će snage 22. listopada 2025. u prvom dvomeču polufinala Sudamericane. Tko će slaviti na stadionu Banco Guayaquil? Susret počinje u 02:30.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/7b553e144892bd0a94186a5d6f9ba1be67507c5e_thumb.jpg" />
-  </programme>
   <programme start="20251023000000 +0200" stop="20251023020000 +0200" channel="Arena.Sport.8.HD.hr">
     <title lang="hr">Hokej Na Ledu – Nhl: Toronto – Detroit</title>
     <desc lang="hr">Toronto Maple Leafsi i Detroit Red Wingsi odmjerit će snage 13. listopada 2025. na otvaranju NHL sezone. Tko će odnijeti pobjedu na ledu Scotiabank Arene? Dvoboj počinje u 22:00.</desc>
@@ -49608,46 +48981,6 @@
     <desc lang="hr">24. izdanje CONMEBOL Sudamericana okupit će najbolje momčadi Južne Amerike u borbi za prestižnu titulu.</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/a0322370c643661ea7350726f65e03bc888dcc53_thumb.jpg" />
   </programme>
-  <programme start="20251022000000 +0100" stop="20251022040000 +0100" channel="Arena.Sport.9.HD.hr">
-    <title lang="hr">Najava Programa</title>
-    <desc lang="hr">Pogledajte što vas sve očekuje u našem programu.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/174b698ca35b5fbf915870fd8d3140d833677969_thumb.jpg" />
-  </programme>
-  <programme start="20251022040000 +0100" stop="20251022080000 +0100" channel="Arena.Sport.9.HD.hr">
-    <title lang="hr">Najava Programa</title>
-    <desc lang="hr">Pogledajte što vas sve očekuje u našem programu.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/174b698ca35b5fbf915870fd8d3140d833677969_thumb.jpg" />
-  </programme>
-  <programme start="20251022080000 +0100" stop="20251022120000 +0100" channel="Arena.Sport.9.HD.hr">
-    <title lang="hr">Najava Programa</title>
-    <desc lang="hr">Pogledajte što vas sve očekuje u našem programu.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/174b698ca35b5fbf915870fd8d3140d833677969_thumb.jpg" />
-  </programme>
-  <programme start="20251022120000 +0100" stop="20251022160000 +0100" channel="Arena.Sport.9.HD.hr">
-    <title lang="hr">Najava Programa</title>
-    <desc lang="hr">Pogledajte što vas sve očekuje u našem programu.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/174b698ca35b5fbf915870fd8d3140d833677969_thumb.jpg" />
-  </programme>
-  <programme start="20251022160000 +0100" stop="20251022200000 +0100" channel="Arena.Sport.9.HD.hr">
-    <title lang="hr">Najava Programa</title>
-    <desc lang="hr">Pogledajte što vas sve očekuje u našem programu.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/174b698ca35b5fbf915870fd8d3140d833677969_thumb.jpg" />
-  </programme>
-  <programme start="20251022200000 +0100" stop="20251022210000 +0100" channel="Arena.Sport.9.HD.hr">
-    <title lang="hr">Najava Programa</title>
-    <desc lang="hr">Pogledajte što vas sve očekuje u našem programu.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/174b698ca35b5fbf915870fd8d3140d833677969_thumb.jpg" />
-  </programme>
-  <programme start="20251022210000 +0100" stop="20251022230000 +0100" channel="Arena.Sport.9.HD.hr">
-    <title lang="hr">Nogomet – Liga Prvaka: Bayern Munich – Club Brugge</title>
-    <desc lang="hr">Club Brugge, koji je dobro otvorio Ligu prvaka pobjedom nad Monacom, u trećem kolu gostuje kod Bayerna. Nakon poraza od Atalante, traže novu pobjedu, no Bayern je ipak favorit na domaćem terenu.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/d81e9f6c2f5ff011b3584eecefbe308dbc3b3549_thumb.jpg" />
-  </programme>
-  <programme start="20251022230000 +0100" stop="20251023000000 +0100" channel="Arena.Sport.9.HD.hr">
-    <title lang="hr">Najava Programa</title>
-    <desc lang="hr">Pogledajte što vas sve očekuje u našem programu.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/174b698ca35b5fbf915870fd8d3140d833677969_thumb.jpg" />
-  </programme>
   <programme start="20251023000000 +0100" stop="20251023040000 +0100" channel="Arena.Sport.9.HD.hr">
     <title lang="hr">Najava Programa</title>
     <desc lang="hr">Pogledajte što vas sve očekuje u našem programu.</desc>
@@ -49774,46 +49107,6 @@
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/174b698ca35b5fbf915870fd8d3140d833677969_thumb.jpg" />
   </programme>
   <programme start="20251026000000 +0100" stop="20251026040000 +0100" channel="Arena.Sport.9.HD.hr">
-    <title lang="hr">Najava Programa</title>
-    <desc lang="hr">Pogledajte što vas sve očekuje u našem programu.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/174b698ca35b5fbf915870fd8d3140d833677969_thumb.jpg" />
-  </programme>
-  <programme start="20251022000000 +0200" stop="20251022040000 +0200" channel="Arena.Sport.10.HD.hr">
-    <title lang="hr">Najava Programa</title>
-    <desc lang="hr">Pogledajte što vas sve očekuje u našem programu.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/174b698ca35b5fbf915870fd8d3140d833677969_thumb.jpg" />
-  </programme>
-  <programme start="20251022040000 +0200" stop="20251022080000 +0200" channel="Arena.Sport.10.HD.hr">
-    <title lang="hr">Najava Programa</title>
-    <desc lang="hr">Pogledajte što vas sve očekuje u našem programu.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/174b698ca35b5fbf915870fd8d3140d833677969_thumb.jpg" />
-  </programme>
-  <programme start="20251022080000 +0200" stop="20251022120000 +0200" channel="Arena.Sport.10.HD.hr">
-    <title lang="hr">Najava Programa</title>
-    <desc lang="hr">Pogledajte što vas sve očekuje u našem programu.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/174b698ca35b5fbf915870fd8d3140d833677969_thumb.jpg" />
-  </programme>
-  <programme start="20251022120000 +0200" stop="20251022160000 +0200" channel="Arena.Sport.10.HD.hr">
-    <title lang="hr">Najava Programa</title>
-    <desc lang="hr">Pogledajte što vas sve očekuje u našem programu.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/174b698ca35b5fbf915870fd8d3140d833677969_thumb.jpg" />
-  </programme>
-  <programme start="20251022160000 +0200" stop="20251022200000 +0200" channel="Arena.Sport.10.HD.hr">
-    <title lang="hr">Najava Programa</title>
-    <desc lang="hr">Pogledajte što vas sve očekuje u našem programu.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/174b698ca35b5fbf915870fd8d3140d833677969_thumb.jpg" />
-  </programme>
-  <programme start="20251022200000 +0200" stop="20251022210000 +0200" channel="Arena.Sport.10.HD.hr">
-    <title lang="hr">Najava Programa</title>
-    <desc lang="hr">Pogledajte što vas sve očekuje u našem programu.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/174b698ca35b5fbf915870fd8d3140d833677969_thumb.jpg" />
-  </programme>
-  <programme start="20251022210000 +0200" stop="20251022230000 +0200" channel="Arena.Sport.10.HD.hr">
-    <title lang="hr">Nogomet – Liga Prvaka: Atalanta – Slavia Prag</title>
-    <desc lang="hr">Atalanta i Slavia Prag sastaju se 22. listopada 2025. u trećem kolu Lige prvaka na stadionu Gewiss u Bergamu.</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/9c4859b81132178df33b356401fabe4b5a680907_thumb.jpg" />
-  </programme>
-  <programme start="20251022230000 +0200" stop="20251023000000 +0200" channel="Arena.Sport.10.HD.hr">
     <title lang="hr">Najava Programa</title>
     <desc lang="hr">Pogledajte što vas sve očekuje u našem programu.</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/174b698ca35b5fbf915870fd8d3140d833677969_thumb.jpg" />
@@ -98040,116 +97333,6 @@
     <display-name lang="Russian Federation">beIN Sports Xtra [US]</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/02/23/20250223020606068934_27.png" />
   </channel>
-  <programme channel="413152" start="20251023000000 +0000" stop="20251023003000 +0000">
-    <title lang="zh">90 in 30: Ligue 1 2025-26: Angers vs. AS Monaco</title>
-    <desc />
-    <date>2025-10-23</date>
-  </programme>
-  <programme channel="413152" start="20251023003000 +0000" stop="20251023010000 +0000">
-    <title lang="zh">90 in 30: Ligue 1 2025-26: Nice vs. Lyon</title>
-    <desc />
-    <date>2025-10-23</date>
-  </programme>
-  <programme channel="413152" start="20251023010000 +0000" stop="20251023013000 +0000">
-    <title lang="zh">FIBA 3x3 Basketball World Tour: Shenzen, Toulouse vs. UB</title>
-    <desc />
-    <date>2025-10-23</date>
-  </programme>
-  <programme channel="413152" start="20251023013000 +0000" stop="20251023020000 +0000">
-    <title lang="zh">FIBA 3x3 Basketball World Tour: Shenzen, Raudondvaris Hoptrans vs.Samobor</title>
-    <desc />
-    <date>2025-10-23</date>
-  </programme>
-  <programme channel="413152" start="20251023020000 +0000" stop="20251023023000 +0000">
-    <title lang="zh">The Knockout Room</title>
-    <desc />
-    <date>2025-10-23</date>
-  </programme>
-  <programme channel="413152" start="20251023023000 +0000" stop="20251023030000 +0000">
-    <title lang="zh">Canoeing: ICF Sprint World Championships, Szeged Highlights</title>
-    <desc />
-    <date>2025-10-23</date>
-  </programme>
-  <programme channel="413152" start="20251023030000 +0000" stop="20251023050000 +0000">
-    <title lang="zh">Modern Pentathlon: UIPM World Cup: Lithuania, Men's Final</title>
-    <desc />
-    <date>2025-10-23</date>
-  </programme>
-  <programme channel="413152" start="20251023050000 +0000" stop="20251023070000 +0000">
-    <title lang="zh">Ekstraklasa Soccer: Lech Poznan vs. Pogon Szczecin. Ekstraklasa Soccer (Enea Stadion, Poznan, POL)</title>
-    <desc />
-    <date>2025-10-23</date>
-  </programme>
-  <programme channel="413152" start="20251023070000 +0000" stop="20251023073000 +0000">
-    <title lang="zh">90 in 30: Ligue 1 2025-26: Angers vs. AS Monaco</title>
-    <desc />
-    <date>2025-10-23</date>
-  </programme>
-  <programme channel="413152" start="20251023073000 +0000" stop="20251023080000 +0000">
-    <title lang="zh">The Knockout Room</title>
-    <desc />
-    <date>2025-10-23</date>
-  </programme>
-  <programme channel="413152" start="20251023080000 +0000" stop="20251023100000 +0000">
-    <title lang="zh">BRAVE CF: Banger Alert, Part 1</title>
-    <desc />
-    <date>2025-10-23</date>
-  </programme>
-  <programme channel="413152" start="20251023100000 +0000" stop="20251023120000 +0000">
-    <title lang="zh">Bare Knuckle Boxing: BKB 46: Empire State Brawl</title>
-    <desc />
-    <date>2025-10-23</date>
-  </programme>
-  <programme channel="413152" start="20251023120000 +0000" stop="20251023140000 +0000">
-    <title lang="zh">Premier Padel Tennis: Qatar Major, Men's final (Khalifa International Tennis and Squash Complex, Doh</title>
-    <desc />
-    <date>2025-10-23</date>
-  </programme>
-  <programme channel="413152" start="20251023140000 +0000" stop="20251023160000 +0000">
-    <title lang="zh">Modern Pentathlon: UIPM World Cup: Lithuania, Men's Final</title>
-    <desc />
-    <date>2025-10-23</date>
-  </programme>
-  <programme channel="413152" start="20251023160000 +0000" stop="20251023170000 +0000">
-    <title lang="zh">Footvolley: Pro Tour: Winter Series from Hollywood Beach, Fla</title>
-    <desc />
-    <date>2025-10-23</date>
-  </programme>
-  <programme channel="413152" start="20251023170000 +0000" stop="20251023173000 +0000">
-    <title lang="zh">World Downhill Skateboarding Championships</title>
-    <desc />
-    <date>2025-10-23</date>
-  </programme>
-  <programme channel="413152" start="20251023173000 +0000" stop="20251023180000 +0000">
-    <title lang="zh">GWA Wing Foil World Tour</title>
-    <desc />
-    <date>2025-10-23</date>
-  </programme>
-  <programme channel="413152" start="20251023180000 +0000" stop="20251023200000 +0000">
-    <title lang="zh">Premier Padel Tennis: Qatar, Women's Final</title>
-    <desc />
-    <date>2025-10-23</date>
-  </programme>
-  <programme channel="413152" start="20251023200000 +0000" stop="20251023210000 +0000">
-    <title lang="zh">Monterey Motorsports Festival 2025</title>
-    <desc />
-    <date>2025-10-23</date>
-  </programme>
-  <programme channel="413152" start="20251023210000 +0000" stop="20251023213000 +0000">
-    <title lang="zh">Equestrian: Longines Global Champions Tour – Valkenswaard – Grand Prix</title>
-    <desc />
-    <date>2025-10-23</date>
-  </programme>
-  <programme channel="413152" start="20251023213000 +0000" stop="20251023220000 +0000">
-    <title lang="zh">Equestrian: Longines Global Champions League: Riesenbeck</title>
-    <desc />
-    <date>2025-10-23</date>
-  </programme>
-  <programme channel="413152" start="20251023220000 +0000" stop="20251024000000 +0000">
-    <title lang="zh">Taça de Portugal: GD Chaves vs. Benfica (Estádio Municipal Eng. Manuel Branco Teixeira, PRT)</title>
-    <desc />
-    <date>2025-10-23</date>
-  </programme>
   <programme channel="413152" start="20251024000000 +0000" stop="20251024003000 +0000">
     <title lang="zh">Ligue 1 – Highlight Show: Match Day 8</title>
     <desc />
@@ -98260,9 +97443,139 @@
     <desc />
     <date>2025-10-24</date>
   </programme>
-  <programme channel="413152" start="20251025000000 +0000" stop="20251026000000 +0000">
+  <programme channel="413152" start="20251025000000 +0000" stop="20251025023000 +0000">
     <title lang="zh">500 Great Goals</title>
     <desc />
     <date>2025-10-25</date>
+  </programme>
+  <programme channel="413152" start="20251025023000 +0000" stop="20251025030000 +0000">
+    <title lang="zh">World Downhill Skateboarding Championships</title>
+    <desc />
+    <date>2025-10-25</date>
+  </programme>
+  <programme channel="413152" start="20251025030000 +0000" stop="20251025033000 +0000">
+    <title lang="zh">FIBA 3x3 Basketball World Tour: Shenzen, Toulouse vs. UB</title>
+    <desc />
+    <date>2025-10-25</date>
+  </programme>
+  <programme channel="413152" start="20251025033000 +0000" stop="20251025040000 +0000">
+    <title lang="zh">FIBA 3x3 Basketball World Tour: Shenzen, Raudondvaris Hoptrans vs.Samobor</title>
+    <desc />
+    <date>2025-10-25</date>
+  </programme>
+  <programme channel="413152" start="20251025040000 +0000" stop="20251025043000 +0000">
+    <title lang="zh">FIBA 3x3 Basketball World Tour: Shenzen, Riffa vs. UB</title>
+    <desc />
+    <date>2025-10-25</date>
+  </programme>
+  <programme channel="413152" start="20251025043000 +0000" stop="20251025050000 +0000">
+    <title lang="zh">FIBA 3x3 Basketball World Tour: Shenzen, Raudondvaris Hoptrans vs. UB</title>
+    <desc />
+    <date>2025-10-25</date>
+  </programme>
+  <programme channel="413152" start="20251025050000 +0000" stop="20251025070000 +0000">
+    <title lang="zh">Copa Sudamericana Soccer: Independiente del Valle vs. Atlético Mineiro (Estadio Banco de Guayaquil, </title>
+    <desc />
+    <date>2025-10-25</date>
+  </programme>
+  <programme channel="413152" start="20251025070000 +0000" stop="20251025073000 +0000">
+    <title lang="zh">Ligue 1 Show</title>
+    <desc />
+    <date>2025-10-25</date>
+  </programme>
+  <programme channel="413152" start="20251025073000 +0000" stop="20251025080000 +0000">
+    <title lang="zh">The Knockout Room</title>
+    <desc />
+    <date>2025-10-25</date>
+  </programme>
+  <programme channel="413152" start="20251025080000 +0000" stop="20251025100000 +0000">
+    <title lang="zh">BRAVE – MMA: Origin of UFC Warriors</title>
+    <desc />
+    <date>2025-10-25</date>
+  </programme>
+  <programme channel="413152" start="20251025100000 +0000" stop="20251025110000 +0000">
+    <title lang="zh">BRAVE CF: Rise of The Punisher (Part 1)</title>
+    <desc />
+    <date>2025-10-25</date>
+  </programme>
+  <programme channel="413152" start="20251025110000 +0000" stop="20251025120000 +0000">
+    <title lang="zh">BRAVE CF: Rise of The Punisher (Part 2)</title>
+    <desc />
+    <date>2025-10-25</date>
+  </programme>
+  <programme channel="413152" start="20251025120000 +0000" stop="20251025140000 +0000">
+    <title lang="zh">Premier Padel Tennis</title>
+    <desc />
+    <date>2025-10-25</date>
+  </programme>
+  <programme channel="413152" start="20251025140000 +0000" stop="20251025143000 +0000">
+    <title lang="zh">FIBA 3x3 Basketball World Tour: Shenzen, Toulouse vs. UB</title>
+    <desc />
+    <date>2025-10-25</date>
+  </programme>
+  <programme channel="413152" start="20251025143000 +0000" stop="20251025150000 +0000">
+    <title lang="zh">FIBA 3x3 Basketball World Tour: Shenzen, Raudondvaris Hoptrans vs.Samobor</title>
+    <desc />
+    <date>2025-10-25</date>
+  </programme>
+  <programme channel="413152" start="20251025150000 +0000" stop="20251025153000 +0000">
+    <title lang="zh">FIBA 3x3 Basketball World Tour: Shenzen, Riffa vs. UB</title>
+    <desc />
+    <date>2025-10-25</date>
+  </programme>
+  <programme channel="413152" start="20251025153000 +0000" stop="20251025160000 +0000">
+    <title lang="zh">FIBA 3x3 Basketball World Tour: Shenzen, Raudondvaris Hoptrans vs. UB</title>
+    <desc />
+    <date>2025-10-25</date>
+  </programme>
+  <programme channel="413152" start="20251025160000 +0000" stop="20251025170000 +0000">
+    <title lang="zh">Footvolley: Pro Tour: Winter Series, The Arrival of a Dream Team</title>
+    <desc />
+    <date>2025-10-25</date>
+  </programme>
+  <programme channel="413152" start="20251025170000 +0000" stop="20251025173000 +0000">
+    <title lang="zh">This is Paris</title>
+    <desc />
+    <date>2025-10-25</date>
+  </programme>
+  <programme channel="413152" start="20251025173000 +0000" stop="20251025200000 +0000">
+    <title lang="zh">500 Great Goals</title>
+    <desc />
+    <date>2025-10-25</date>
+  </programme>
+  <programme channel="413152" start="20251025200000 +0000" stop="20251025203000 +0000">
+    <title lang="zh">Ligue 1 – Highlight Show: Match Day 8</title>
+    <desc />
+    <date>2025-10-25</date>
+  </programme>
+  <programme channel="413152" start="20251025203000 +0000" stop="20251025210000 +0000">
+    <title lang="zh">5ASIDE: African Football Talk</title>
+    <desc />
+    <date>2025-10-25</date>
+  </programme>
+  <programme channel="413152" start="20251025210000 +0000" stop="20251025213000 +0000">
+    <title lang="zh">Mass Participation Series: UK Challenge</title>
+    <desc />
+    <date>2025-10-25</date>
+  </programme>
+  <programme channel="413152" start="20251025213000 +0000" stop="20251025230000 +0000">
+    <title lang="zh">Gearing Up</title>
+    <desc />
+    <date>2025-10-25</date>
+  </programme>
+  <programme channel="413152" start="20251025230000 +0000" stop="20251025233000 +0000">
+    <title lang="zh">This is Paris</title>
+    <desc />
+    <date>2025-10-25</date>
+  </programme>
+  <programme channel="413152" start="20251025233000 +0000" stop="20251026000000 +0000">
+    <title lang="zh">Ligue 1 Show</title>
+    <desc />
+    <date>2025-10-25</date>
+  </programme>
+  <programme channel="413152" start="20251026000000 +0000" stop="20251027000000 +0000">
+    <title lang="zh">500 Great Goals</title>
+    <desc />
+    <date>2025-10-26</date>
   </programme>
 </tv>
