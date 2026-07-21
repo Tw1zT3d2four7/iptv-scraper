@@ -1941,8 +1941,8 @@
     </programme>
     <channel id="plex.tv.Stadium.plex">
     <display-name lang="en">Stadium</display-name>
-    <icon src="http://www.tmsimg.com/assets/p32729110_i_s4_aa.jpg" />
-    <icon src="http://www.tmsimg.com/assets/p32729110_i_s4_aa.jpg" />
+    <icon src="http://www.tmsimg.com/assets/p32485883_b_s4_aa.jpg" />
+    <icon src="http://www.tmsimg.com/assets/p32485883_b_s4_aa.jpg" />
     <url>http://www.plex.tv</url>
   </channel>
   <channel id="plex.tv.Outside.plex">
@@ -1951,138 +1951,6 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/fd1cf9e2-3d98-4691-a0e4-a40f115a3352/Plex_keyart_2x3.jpg" />
     <url>http://www.plex.tv</url>
   </channel>
-  <programme start="20260720010000 +0000" stop="20260720050000 +0000" channel="plex.tv.Stadium.plex">
-    <title lang="en">BKFC 91 Naples: Hunt vs. Pugliesi</title>
-    <desc lang="en">Lorenzo Hunt (13-2) vs. Walter Pugliesi (2-0), ironweight title bout; Ernesto Papa (2-0) vs. Jindrich Byrtus (5-0), cruiserweight title bout; Tomas Melis (5-0) vs. Toni Estorer (5-2), light heavyweight title bout. From Naples, Italy.</desc>
-    <date>2026</date>
-    <category lang="en">Sports</category>
-    <icon src="http://www.tmsimg.com/assets/p33389417_st_h2_aa.jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260720050000 +0000" stop="20260720060000 +0000" channel="plex.tv.Stadium.plex">
-    <title lang="en">BKFC 36</title>
-    <desc lang="en">From Feb. 24, 2023. Features Alan Belcher vs. Arnold Adams for BKFC heavyweight championship, plus James Lilley vs. Bobby Taylor in bare-knuckle boxing action from Kenner, La.</desc>
-    <date>2023</date>
-    <category lang="en">Sports</category>
-    <icon src="http://www.tmsimg.com/assets/p24941662_b_h8_aa.jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260720060000 +0000" stop="20260720080000 +0000" channel="plex.tv.Stadium.plex">
-    <title lang="en">Extreme Fighting Championship 132</title>
-    <desc lang="en">From Sandton, South Africa.</desc>
-    <date>2026</date>
-    <category lang="en">Sports</category>
-    <icon src="http://www.tmsimg.com/assets/p32729110_i_h8_aa.jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260720080000 +0000" stop="20260720090000 +0000" channel="plex.tv.Stadium.plex">
-    <title lang="en">Combat FC 12 - Prelims</title>
-    <desc lang="en">From Shriner's Auditorium in Wilmington, Mass.</desc>
-    <date>2026</date>
-    <category lang="en">Sports</category>
-    <icon src="http://www.tmsimg.com/assets/p32338995_b_h8_aa.jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260720090000 +0000" stop="20260720100000 +0000" channel="plex.tv.Stadium.plex">
-    <title lang="en">Elite Fight Night</title>
-    <desc lang="en">Valanti Atsas vs. Rese Archer from Nov. 9, 2024.</desc>
-    <date>2026</date>
-    <category lang="en">Sports</category>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/5765274d-f97d-4881-b9e2-09dfbb72d0e9/stadium_horizontal_-_Janet_Feng.jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260720100000 +0000" stop="20260720110000 +0000" channel="plex.tv.Stadium.plex">
-    <title lang="en">Elite Fight Night</title>
-    <desc lang="en">Valanti Atsas vs. Reese Archer from Merrillville, IN.</desc>
-    <date>2026</date>
-    <category lang="en">Sports</category>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/5765274d-f97d-4881-b9e2-09dfbb72d0e9/stadium_horizontal_-_Janet_Feng.jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260720110000 +0000" stop="20260720120000 +0000" channel="plex.tv.Stadium.plex">
-    <title lang="en">Elite Fight Night</title>
-    <desc lang="en">Elite Fight Night.</desc>
-    <date>2025</date>
-    <category lang="en">Sports</category>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/5765274d-f97d-4881-b9e2-09dfbb72d0e9/stadium_horizontal_-_Janet_Feng.jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260720120000 +0000" stop="20260720170000 +0000" channel="plex.tv.Stadium.plex">
-    <title lang="en">BYB Xtreme Fighting Series</title>
-    <desc lang="en">Jozette Cotton vs. Miranda Barber, championship. From Oct. 16, 2022 at O2 Arena in London.</desc>
-    <date>2025</date>
-    <category lang="en">Sports</category>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/5765274d-f97d-4881-b9e2-09dfbb72d0e9/stadium_horizontal_-_Janet_Feng.jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>18+</value>
-    </rating>
-  </programme>
-  <programme start="20260720170000 +0000" stop="20260720173000 +0000" channel="plex.tv.Stadium.plex">
-    <title lang="en">Bare Knuckle Boxing</title>
-    <desc lang="en">Boxing in its purest form, with no gloves and hands are wrapped only.</desc>
-    <date>2026</date>
-    <category lang="en">Sports</category>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/5765274d-f97d-4881-b9e2-09dfbb72d0e9/stadium_horizontal_-_Janet_Feng.jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260720173000 +0000" stop="20260720180000 +0000" channel="plex.tv.Stadium.plex">
-    <title lang="en">Bare Knuckle Boxing</title>
-    <desc lang="en">Boxing in its purest form, with no gloves and hands are wrapped only.</desc>
-    <date>2026</date>
-    <category lang="en">Sports</category>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/5765274d-f97d-4881-b9e2-09dfbb72d0e9/stadium_horizontal_-_Janet_Feng.jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260720180000 +0000" stop="20260720210000 +0000" channel="plex.tv.Stadium.plex">
-    <title lang="en">Muay Thai for Life 17</title>
-    <desc lang="en">From Clarion Hotel Post in Gothenburg, Sweden.</desc>
-    <date>2026</date>
-    <category lang="en">Sports</category>
-    <icon src="http://www.tmsimg.com/assets/p32485883_i_h8_aa.jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260720210000 +0000" stop="20260721010000 +0000" channel="plex.tv.Stadium.plex">
-    <title lang="en">BKFC 61: Rivera vs. Straus</title>
-    <desc lang="en">Jimmie Rivera vs. Daniel Straus, featherweight; Mike Trizano vs. Derek Campos, lightweight; Ryan Reber vs. Anthony Foye, bantamweight. From Mohegan Sun Arena in Uncasville, Conn.</desc>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="http://www.tmsimg.com/assets/p27000087_i_h2_ab.jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
   <programme start="20260721010000 +0000" stop="20260721050000 +0000" channel="plex.tv.Stadium.plex">
     <title lang="en">BKFC 25: Adams vs. Cleckler</title>
     <desc lang="en">Arnold Adams and Dillon Cleckler square up in a full night of bare knuckle boxing action from Orlando, Fla.</desc>
@@ -2388,7 +2256,7 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/5765274d-f97d-4881-b9e2-09dfbb72d0e9/stadium_horizontal_-_Janet_Feng.jpg" />
     <episode-num system="onscreen">S1 E1</episode-num>
     <rating system="US">
-      <value>TV-14</value>
+      <value>14+</value>
     </rating>
   </programme>
   <programme start="20260723120000 +0000" stop="20260723130000 +0000" channel="plex.tv.Stadium.plex">
@@ -2399,7 +2267,7 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/5765274d-f97d-4881-b9e2-09dfbb72d0e9/stadium_horizontal_-_Janet_Feng.jpg" />
     <episode-num system="onscreen">S1 E1</episode-num>
     <rating system="US">
-      <value>TV-14</value>
+      <value>14+</value>
     </rating>
   </programme>
   <programme start="20260723130000 +0000" stop="20260723140000 +0000" channel="plex.tv.Stadium.plex">
@@ -2410,7 +2278,7 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/5765274d-f97d-4881-b9e2-09dfbb72d0e9/stadium_horizontal_-_Janet_Feng.jpg" />
     <episode-num system="onscreen">S1 E1</episode-num>
     <rating system="US">
-      <value>TV-14</value>
+      <value>14+</value>
     </rating>
   </programme>
   <programme start="20260723140000 +0000" stop="20260723160000 +0000" channel="plex.tv.Stadium.plex">
@@ -2446,393 +2314,156 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20260720000000 +0000" stop="20260720003000 +0000" channel="plex.tv.Outside.plex">
-    <title lang="en">The Road Less Eaten with Biju Thomas</title>
-    <sub-title lang="en">Maine: Local Cuisine and Coastal Adventures</sub-title>
-    <desc lang="en">Biju visits Maine to take in the outdoor adventures, exploring off-the-beaten-path dining experiences.</desc>
-    <date>2025</date>
-    <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/TRLE302_Episode_16x9.jpg" />
-    <episode-num system="onscreen">S3 E2</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260720003000 +0000" stop="20260720010000 +0000" channel="plex.tv.Outside.plex">
-    <title lang="en">The Road Less Eaten with Biju Thomas</title>
-    <sub-title lang="en">Nashville, TN: Hot Chicken and Gravel Biking</sub-title>
-    <desc lang="en">The Nashville gravel biking scene and the city's legendary hot chicken culture with Saint Motel's Greg Erwin.</desc>
-    <date>2023</date>
-    <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/TRLE302_Episode_16x9.jpg" />
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260720010000 +0000" stop="20260720030000 +0000" channel="plex.tv.Outside.plex">
-    <title lang="en">Hell or High Seas</title>
-    <desc lang="en">Hell or High Seas follows Taylor Grieger and Stephen O’Shea as they embark on the adventure of a lifetime.</desc>
-    <date>2023</date>
-    <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/HOHS101_Episode_16x9.jpg" />
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260720030000 +0000" stop="20260720040000 +0000" channel="plex.tv.Outside.plex">
-    <title lang="en">Over the Horizon</title>
-    <sub-title lang="en">Fiji &amp; The Lau Group</sub-title>
-    <desc lang="en">Ellis Emmett sets sail for the islands of Fiji.</desc>
-    <date>2020</date>
-    <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/OTH106_Episode_16x9.jpg" />
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260720040000 +0000" stop="20260720043000 +0000" channel="plex.tv.Outside.plex">
-    <title lang="en">Ultimate Mountain Athlete</title>
-    <sub-title lang="en">Cash Rules Avy Thing Around Me</sub-title>
-    <desc lang="en">Finding out who won the avy beacon search for the cash prize, we head to Durango’s Mesa Park for MTB.</desc>
+  <programme start="20260723210000 +0000" stop="20260724000000 +0000" channel="plex.tv.Stadium.plex">
+    <title lang="en">BKB: Bare Knuckle Boxing</title>
+    <desc lang="en">From Vale Arena in Cardiff, Wales.</desc>
     <date>2026</date>
     <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/UUMA205_Episode_16x9.jpg" />
-    <episode-num system="onscreen">S2 E5</episode-num>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/5765274d-f97d-4881-b9e2-09dfbb72d0e9/stadium_horizontal_-_Janet_Feng.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
     <rating system="US">
-      <value>TV-PG</value>
+      <value>14+</value>
     </rating>
   </programme>
-  <programme start="20260720043000 +0000" stop="20260720050000 +0000" channel="plex.tv.Outside.plex">
-    <title lang="en">Ultimate Mountain Athlete</title>
-    <sub-title lang="en">Flow &amp; Speed: Mountain Biking Begins</sub-title>
-    <desc lang="en">The athletes have completed their Flow and Downhill events. Next up: the Impossible Climb.</desc>
-    <date>2026</date>
+  <programme start="20260724000000 +0000" stop="20260724030000 +0000" channel="plex.tv.Stadium.plex">
+    <title lang="en">Bally's Fight Night</title>
+    <desc lang="en">Bally's Fight Night.</desc>
+    <date>2021</date>
     <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/UUMA205_Episode_16x9.jpg" />
-    <episode-num system="onscreen">S2 E6</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260720050000 +0000" stop="20260720053000 +0000" channel="plex.tv.Outside.plex">
-    <title lang="en">The Road Less Eaten with Biju Thomas</title>
-    <sub-title lang="en">Maine: Local Cuisine and Coastal Adventures</sub-title>
-    <desc lang="en">Biju visits Maine to take in the outdoor adventures, exploring off-the-beaten-path dining experiences.</desc>
-    <date>2025</date>
-    <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/TRLE302_Episode_16x9.jpg" />
-    <episode-num system="onscreen">S3 E2</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260720053000 +0000" stop="20260720060000 +0000" channel="plex.tv.Outside.plex">
-    <title lang="en">The Road Less Eaten with Biju Thomas</title>
-    <sub-title lang="en">Nashville, TN: Hot Chicken and Gravel Biking</sub-title>
-    <desc lang="en">The Nashville gravel biking scene and the city's legendary hot chicken culture with Saint Motel's Greg Erwin.</desc>
-    <date>2023</date>
-    <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/TRLE302_Episode_16x9.jpg" />
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260720060000 +0000" stop="20260720080000 +0000" channel="plex.tv.Outside.plex">
-    <title lang="en">Hell or High Seas</title>
-    <desc lang="en">Hell or High Seas follows Taylor Grieger and Stephen O’Shea as they embark on the adventure of a lifetime.</desc>
-    <date>2023</date>
-    <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/HOHS101_Episode_16x9.jpg" />
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260720080000 +0000" stop="20260720090000 +0000" channel="plex.tv.Outside.plex">
-    <title lang="en">Over the Horizon</title>
-    <sub-title lang="en">Fiji &amp; The Lau Group</sub-title>
-    <desc lang="en">Ellis Emmett sets sail for the islands of Fiji.</desc>
-    <date>2020</date>
-    <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/OTH106_Episode_16x9.jpg" />
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260720090000 +0000" stop="20260720100000 +0000" channel="plex.tv.Outside.plex">
-    <title lang="en">Crushed: The Kat Matthews Story</title>
-    <sub-title lang="en">Breaking Barriers</sub-title>
-    <desc lang="en">Kat Matthews's triathlon adventure from obscurity to history maker is remarkable, now the journey begins.</desc>
-    <date>2023</date>
-    <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/CTKM101_Episode_16x9.jpg" />
+    <icon src="http://www.tmsimg.com/assets/p20321073_b_h2_aa.jpg" />
     <episode-num system="onscreen">S1 E1</episode-num>
     <rating system="US">
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20260720100000 +0000" stop="20260720103000 +0000" channel="plex.tv.Outside.plex">
-    <title lang="en">Facing Waves</title>
-    <sub-title lang="en">Kayaking Ontario’s Highlands</sub-title>
-    <desc lang="en">Ken Whiting continues his adventures as he explores the remote lakes and rivers of Ontario’s Highlands.</desc>
-    <date>2023</date>
-    <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/FWS1009_Episode_16x9.jpg" />
-    <episode-num system="onscreen">S10 E9</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260720103000 +0000" stop="20260720110000 +0000" channel="plex.tv.Outside.plex">
-    <title lang="en">Facing Waves</title>
-    <sub-title lang="en">Paddling Creeks and Coves in the SouthEast</sub-title>
-    <desc lang="en">Ken Whiting tackles whitewater in North Carolina before heading to the renowned Guntersville Lake in Alabama.</desc>
-    <date>2022</date>
-    <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/FWS1009_Episode_16x9.jpg" />
-    <episode-num system="onscreen">S9 E5</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260720110000 +0000" stop="20260720113000 +0000" channel="plex.tv.Outside.plex">
-    <title lang="en">Sport Fishing TV: Vs.</title>
-    <sub-title lang="en">Tuna: Bluefin vs. Yellowfin</sub-title>
-    <desc lang="en">Will it be bluefin and the wicked autumnal seas of New England, or in Florida for yellowfin?</desc>
-    <date>2025</date>
-    <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/SFVS103_Episode_16x9.jpg" />
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260720113000 +0000" stop="20260720120000 +0000" channel="plex.tv.Outside.plex">
-    <title lang="en">Sport Fishing TV: Vs.</title>
-    <sub-title lang="en">Fishing Destinations: Town vs. Country</sub-title>
-    <desc lang="en">Panama offers jungle island Pacific fishing; Miami delivers the same thrill with a city skyline backdrop.</desc>
-    <date>2025</date>
-    <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/SFVS103_Episode_16x9.jpg" />
-    <episode-num system="onscreen">S1 E10</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260720120000 +0000" stop="20260720123000 +0000" channel="plex.tv.Outside.plex">
-    <title lang="en">Ultimate Mountain Athlete</title>
-    <sub-title lang="en">Cash Rules Avy Thing Around Me</sub-title>
-    <desc lang="en">Finding out who won the avy beacon search for the cash prize, we head to Durango’s Mesa Park for MTB.</desc>
+  <programme start="20260724030000 +0000" stop="20260724060000 +0000" channel="plex.tv.Stadium.plex">
+    <title lang="en">Bare Knuckle Boxing</title>
+    <desc lang="en">Boxing in its purest form, with no gloves and hands are wrapped only.</desc>
     <date>2026</date>
     <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/UUMA205_Episode_16x9.jpg" />
-    <episode-num system="onscreen">S2 E5</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260720123000 +0000" stop="20260720130000 +0000" channel="plex.tv.Outside.plex">
-    <title lang="en">Ultimate Mountain Athlete</title>
-    <sub-title lang="en">Flow &amp; Speed: Mountain Biking Begins</sub-title>
-    <desc lang="en">The athletes have completed their Flow and Downhill events. Next up: the Impossible Climb.</desc>
-    <date>2026</date>
-    <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/UUMA205_Episode_16x9.jpg" />
-    <episode-num system="onscreen">S2 E6</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260720130000 +0000" stop="20260720133000 +0000" channel="plex.tv.Outside.plex">
-    <title lang="en">The Road Less Eaten with Biju Thomas</title>
-    <sub-title lang="en">Moab, UT: Desert Trails and River Floats</sub-title>
-    <desc lang="en">Biju Thomas rides trails, floats the Colorado River, and uncovers some of Moab's surprising culinary hotspots.</desc>
-    <date>2025</date>
-    <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/TRLE302_Episode_16x9.jpg" />
-    <episode-num system="onscreen">S3 E1</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260720133000 +0000" stop="20260720140000 +0000" channel="plex.tv.Outside.plex">
-    <title lang="en">The Road Less Eaten with Biju Thomas</title>
-    <sub-title lang="en">Maine: Local Cuisine and Coastal Adventures</sub-title>
-    <desc lang="en">Biju visits Maine to take in the outdoor adventures, exploring off-the-beaten-path dining experiences.</desc>
-    <date>2025</date>
-    <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/TRLE302_Episode_16x9.jpg" />
-    <episode-num system="onscreen">S3 E2</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260720140000 +0000" stop="20260720150000 +0000" channel="plex.tv.Outside.plex">
-    <title lang="en">Red Bull: Made In</title>
-    <sub-title lang="en">South Africa: Shark-Infested Waters</sub-title>
-    <desc lang="en">Join South Africa's heroes as they explore their region’s best surf breaks and cultures around them.</desc>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/MADEIN105_Episode_16x9.jpg" />
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <premiere lang="en" />
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260720150000 +0000" stop="20260720160000 +0000" channel="plex.tv.Outside.plex">
-    <title lang="en">The Outer Edge: Part 1</title>
-    <desc lang="en">Explore the heart and soul of the Outer Banks of North Carolina through the stories of OBX locals.</desc>
-    <date>2025</date>
-    <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/TOE101_Episode_16x9.jpg" />
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260720160000 +0000" stop="20260720170000 +0000" channel="plex.tv.Outside.plex">
-    <title lang="en">The Outer Edge: Part 2</title>
-    <desc lang="en">Discover the Outer Banks of North Carolina through locals who celebrate and protect this one-of-a-kind place.</desc>
-    <date>2026</date>
-    <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/TOE102_Episode_16x9.jpg" />
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260720170000 +0000" stop="20260720180000 +0000" channel="plex.tv.Outside.plex">
-    <title lang="en">Khanh Ong’s Wild Food</title>
-    <sub-title lang="en">Nywaigi Country</sub-title>
-    <desc lang="en">Chef Khanh Ong learns to cook Magpie Goose with Nywaigi local, Buddy Cassidy.</desc>
-    <date>2023</date>
-    <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/WILD101_Episode_16x9.jpg" />
+    <icon src="https://provider-static.plex.tv/epg/cms/production/5765274d-f97d-4881-b9e2-09dfbb72d0e9/stadium_horizontal_-_Janet_Feng.jpg" />
     <episode-num system="onscreen">S1 E1</episode-num>
     <rating system="US">
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20260720180000 +0000" stop="20260720183000 +0000" channel="plex.tv.Outside.plex">
-    <title lang="en">10:00am on a Tuesday</title>
-    <sub-title lang="en">A Day in the Climbing Life</sub-title>
-    <desc lang="en">Behind the scenes look at an "average" weekday with professional climber Sasha DiGiulian.</desc>
-    <date>2020</date>
-    <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/TAT102_Episode_16x9.jpg" />
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260720183000 +0000" stop="20260720190000 +0000" channel="plex.tv.Outside.plex">
-    <title lang="en">10:00am on a Tuesday</title>
-    <sub-title lang="en">Elevated Tuesdays</sub-title>
-    <desc lang="en">Behind the scenes look at an "average" weekday with professional climber Sasha DiGiulian.</desc>
-    <date>2020</date>
-    <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/TAT102_Episode_16x9.jpg" />
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260720190000 +0000" stop="20260720193000 +0000" channel="plex.tv.Outside.plex">
-    <title lang="en">PaddyO Sucks at</title>
-    <sub-title lang="en">Blisters and Bonks:  Ultrarunning</sub-title>
-    <desc lang="en">Attempting a 50-mile trail run with no training, PaddyO experiences the ultimate physical and mental bonk.</desc>
+  <programme start="20260724060000 +0000" stop="20260724070000 +0000" channel="plex.tv.Stadium.plex">
+    <title lang="en">Bellator Champions Series</title>
+    <desc lang="en">Championship between Usman Nurmagomedov and Alexandr Shabliy headlines the event.</desc>
     <date>2024</date>
     <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/POSA204_Episode_16x9.jpg" />
-    <episode-num system="onscreen">S2 E4</episode-num>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/5765274d-f97d-4881-b9e2-09dfbb72d0e9/stadium_horizontal_-_Janet_Feng.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
     <rating system="US">
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20260720193000 +0000" stop="20260720200000 +0000" channel="plex.tv.Outside.plex">
-    <title lang="en">PaddyO Sucks at</title>
-    <sub-title lang="en">Catching Edges:  Snowboarding</sub-title>
-    <desc lang="en">PaddyO hits the slopes on a snowboard, spending more time on his backside than riding down the mountain.</desc>
+  <programme start="20260724070000 +0000" stop="20260724080000 +0000" channel="plex.tv.Stadium.plex">
+    <title lang="en">Bellator Champions Series</title>
+    <desc lang="en">Leah McCourt takes on Sara Collins in a women's featherweight fight in the main event of Bellator Champions Series London.</desc>
     <date>2024</date>
     <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/POSA204_Episode_16x9.jpg" />
-    <episode-num system="onscreen">S2 E5</episode-num>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/5765274d-f97d-4881-b9e2-09dfbb72d0e9/stadium_horizontal_-_Janet_Feng.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
     <rating system="US">
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20260720200000 +0000" stop="20260720210000 +0000" channel="plex.tv.Outside.plex">
-    <title lang="en">Descending</title>
-    <sub-title lang="en">The Ghosts of the Pacific</sub-title>
-    <desc lang="en">History fanatic Scott talks Ellis into diving the shark-infested waters off the coast of the Solomon Islands.</desc>
-    <date>2020</date>
-    <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/DES110_Episode_16x9.jpg" />
-    <episode-num system="onscreen">S1 E10</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260720210000 +0000" stop="20260720220000 +0000" channel="plex.tv.Outside.plex">
-    <title lang="en">Red Bull: Made In</title>
-    <sub-title lang="en">South Africa: Shark-Infested Waters</sub-title>
-    <desc lang="en">Join South Africa's heroes as they explore their region’s best surf breaks and cultures around them.</desc>
+  <programme start="20260724080000 +0000" stop="20260724090000 +0000" channel="plex.tv.Stadium.plex">
+    <title lang="en">Bellator Champions Series</title>
+    <desc lang="en">From May 17, 2024, at Accor Arena in Paris.</desc>
     <date>2024</date>
     <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/MADEIN105_Episode_16x9.jpg" />
-    <episode-num system="onscreen">S1 E5</episode-num>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/5765274d-f97d-4881-b9e2-09dfbb72d0e9/stadium_horizontal_-_Janet_Feng.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
     <rating system="US">
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20260720220000 +0000" stop="20260720223000 +0000" channel="plex.tv.Outside.plex">
-    <title lang="en">Beat Monday</title>
-    <sub-title lang="en">Vermont Gravel Growler</sub-title>
-    <desc lang="en">Beat Monday is a series of epic weekend adventures to see what's possible between Friday and Monday.</desc>
-    <date>2022</date>
+  <programme start="20260724090000 +0000" stop="20260724100000 +0000" channel="plex.tv.Stadium.plex">
+    <title lang="en">Bellator MMA</title>
+    <desc lang="en">Ryan Bader defeats Fedor Emelianenko.</desc>
+    <date>2023</date>
     <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/BMD305_Episode_16x9.jpg" />
-    <episode-num system="onscreen">S3 E5</episode-num>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/5765274d-f97d-4881-b9e2-09dfbb72d0e9/stadium_horizontal_-_Janet_Feng.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
     <rating system="US">
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20260720223000 +0000" stop="20260720230000 +0000" channel="plex.tv.Outside.plex">
-    <title lang="en">Beat Monday</title>
-    <sub-title lang="en">Weekend Escape</sub-title>
-    <desc lang="en">Epic weekend adventures designed to push the boundaries of what's possible.</desc>
-    <date>2022</date>
+  <programme start="20260724100000 +0000" stop="20260724110000 +0000" channel="plex.tv.Stadium.plex">
+    <title lang="en">Bellator MMA</title>
+    <desc lang="en">From Feb. 25, 2023 at 3Arena in Dublin.</desc>
+    <date>2023</date>
     <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/BMD305_Episode_16x9.jpg" />
-    <episode-num system="onscreen">S2 E7</episode-num>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/5765274d-f97d-4881-b9e2-09dfbb72d0e9/stadium_horizontal_-_Janet_Feng.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
     <rating system="US">
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20260720230000 +0000" stop="20260720233000 +0000" channel="plex.tv.Outside.plex">
-    <title lang="en">Ultimate Mountain Athlete</title>
-    <sub-title lang="en">The End of MTB, the Start of Freeski</sub-title>
-    <desc lang="en">We pick back up on the Impossible Climb before the final challenge of the season: a freeski competition.</desc>
+  <programme start="20260724110000 +0000" stop="20260724140000 +0000" channel="plex.tv.Stadium.plex">
+    <title lang="en">Warriors Cup</title>
+    <desc lang="en">From June 14, 2024, in Melrose Ballroom in Queens, NY.</desc>
     <date>2026</date>
     <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/UUMA205_Episode_16x9.jpg" />
-    <episode-num system="onscreen">S2 E2</episode-num>
-    <premiere lang="en" />
+    <icon src="https://provider-static.plex.tv/epg/cms/production/5765274d-f97d-4881-b9e2-09dfbb72d0e9/stadium_horizontal_-_Janet_Feng.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
     <rating system="US">
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20260720233000 +0000" stop="20260721000000 +0000" channel="plex.tv.Outside.plex">
-    <title lang="en">Ultimate Mountain Athlete</title>
-    <sub-title lang="en">And the Winner Is…</sub-title>
-    <desc lang="en">We head to the judges deliberation and crown the Season 2 Winners of the Ultimate Mountain Athlete.</desc>
+  <programme start="20260724140000 +0000" stop="20260724160000 +0000" channel="plex.tv.Stadium.plex">
+    <title lang="en">Best of Bare Knuckle Boxing</title>
+    <desc lang="en">Best of Bare Knuckle Boxing.</desc>
     <date>2026</date>
     <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/UUMA205_Episode_16x9.jpg" />
-    <episode-num system="onscreen">S2 E2</episode-num>
-    <premiere lang="en" />
+    <icon src="https://provider-static.plex.tv/epg/cms/production/5765274d-f97d-4881-b9e2-09dfbb72d0e9/stadium_horizontal_-_Janet_Feng.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20260724160000 +0000" stop="20260724180000 +0000" channel="plex.tv.Stadium.plex">
+    <title lang="en">BKB Extreme Fighting Series</title>
+    <desc lang="en">BKB Extreme Fighting Series.</desc>
+    <date>2026</date>
+    <category lang="en">Sports</category>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/5765274d-f97d-4881-b9e2-09dfbb72d0e9/stadium_horizontal_-_Janet_Feng.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20260724180000 +0000" stop="20260724190000 +0000" channel="plex.tv.Stadium.plex">
+    <title lang="en">Bellator Champions Series</title>
+    <desc lang="en">Championship between Usman Nurmagomedov and Alexandr Shabliy headlines the event.</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/5765274d-f97d-4881-b9e2-09dfbb72d0e9/stadium_horizontal_-_Janet_Feng.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20260724190000 +0000" stop="20260724200000 +0000" channel="plex.tv.Stadium.plex">
+    <title lang="en">Bellator Champions Series</title>
+    <desc lang="en">Leah McCourt takes on Sara Collins in a women's featherweight fight in the main event of Bellator Champions Series London.</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/5765274d-f97d-4881-b9e2-09dfbb72d0e9/stadium_horizontal_-_Janet_Feng.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20260724200000 +0000" stop="20260724210000 +0000" channel="plex.tv.Stadium.plex">
+    <title lang="en">Bellator Champions Series</title>
+    <desc lang="en">From May 17, 2024, at Accor Arena in Paris.</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/5765274d-f97d-4881-b9e2-09dfbb72d0e9/stadium_horizontal_-_Janet_Feng.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
     <rating system="US">
       <value>TV-PG</value>
     </rating>
@@ -2901,7 +2532,7 @@
     <desc lang="en">Ellis Emmett sets sail for the islands of Fiji.</desc>
     <date>2020</date>
     <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/OTH106_Episode_16x9.jpg" />
+    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/OTH103_Episode_16x9.jpg" />
     <episode-num system="onscreen">S1 E3</episode-num>
     <premiere lang="en" />
     <rating system="US">
@@ -2962,7 +2593,7 @@
     <desc lang="en">A snowboarder is caught in a high-risk avalanche zone. SAR braves the sliding terrain for a risky extraction.</desc>
     <date>2026</date>
     <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/BCR105_Episode_16x9.jpg" />
+    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/BCR108_Episode_16x9.jpg" />
     <episode-num system="onscreen">S1 E8</episode-num>
     <rating system="US">
       <value>TV-PG</value>
@@ -2974,7 +2605,7 @@
     <desc lang="en">Teton County SAR faces its toughest day yet: a lost hiker, a snowmobile crash, and an avalanche.</desc>
     <date>2026</date>
     <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/BCR105_Episode_16x9.jpg" />
+    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/BCR108_Episode_16x9.jpg" />
     <episode-num system="onscreen">S1 E5</episode-num>
     <rating system="US">
       <value>TV-PG</value>
@@ -2986,7 +2617,7 @@
     <desc lang="en">Teton County SAR's highly trained volunteers drop everything to rescue the injured in their community.</desc>
     <date>2026</date>
     <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/BCR105_Episode_16x9.jpg" />
+    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/BCR108_Episode_16x9.jpg" />
     <episode-num system="onscreen">S1 E4</episode-num>
     <rating system="US">
       <value>TV-PG</value>
@@ -2998,7 +2629,7 @@
     <desc lang="en">Teton rescuers Chris and Dee Hattaway's roles collide when treating a skier with a suspected spinal injury.</desc>
     <date>2026</date>
     <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/BCR105_Episode_16x9.jpg" />
+    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/BCR108_Episode_16x9.jpg" />
     <episode-num system="onscreen">S1 E3</episode-num>
     <rating system="US">
       <value>TV-PG</value>
@@ -3010,7 +2641,7 @@
     <desc lang="en">Ellis Emmett sets sail for the islands of Fiji.</desc>
     <date>2020</date>
     <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/OTH106_Episode_16x9.jpg" />
+    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/OTH103_Episode_16x9.jpg" />
     <episode-num system="onscreen">S1 E3</episode-num>
     <rating system="US">
       <value>TV-PG</value>
@@ -3046,7 +2677,7 @@
     <desc lang="en">Will and Rachael volunteer at a rhino sanctuary. Emily relocates a giraffe, while Alison battles pollution.</desc>
     <date>2026</date>
     <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/WOTW103_Episode_16x9.jpg" />
+    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/WOTW101_Episode_16x9.jpg" />
     <episode-num system="onscreen">S1 E1</episode-num>
     <rating system="US">
       <value>TV-PG</value>
@@ -3058,7 +2689,7 @@
     <desc lang="en">We head deep to the Gulf Stream to chase yellowfin tuna in the deepest, darkest blue water.</desc>
     <date>2024</date>
     <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/SFTV309_Episode_16x9.jpeg" />
+    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/SFTV509_Episode_16x9.jpg" />
     <episode-num system="onscreen">S5 E9</episode-num>
     <premiere lang="en" />
     <rating system="US">
@@ -3071,7 +2702,7 @@
     <desc lang="en">We explore the shores of South Florida a short run from Sailfish Marina to encounter A-list game fish species.</desc>
     <date>2024</date>
     <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/SFTV309_Episode_16x9.jpeg" />
+    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/SFTV509_Episode_16x9.jpg" />
     <episode-num system="onscreen">S5 E7</episode-num>
     <premiere lang="en" />
     <rating system="US">
@@ -3166,7 +2797,7 @@
     <desc lang="en">Ellis Emmett sets sail for the islands of Fiji.</desc>
     <date>2020</date>
     <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/OTH106_Episode_16x9.jpg" />
+    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/OTH103_Episode_16x9.jpg" />
     <episode-num system="onscreen">S1 E3</episode-num>
     <rating system="US">
       <value>TV-PG</value>
@@ -3214,7 +2845,7 @@
     <desc lang="en">Alex Honnold heads to Nevada’s spookiest town, Tonopah, for ghosts, gems, and a haunted hotel.</desc>
     <date>2026</date>
     <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/UGALOT101_Episode_16x9.jpg" />
+    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/UGALOT103_Episode_16x9.jpg" />
     <episode-num system="onscreen">S1 E3</episode-num>
     <rating system="US">
       <value>TV-PG</value>
@@ -3226,7 +2857,7 @@
     <desc lang="en">Alex Honnold scales a vertical bus, a sand dune, and joins Tommy Caldwell for an ascent on a granite wall.</desc>
     <date>2026</date>
     <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/UGALOT101_Episode_16x9.jpg" />
+    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/UGALOT103_Episode_16x9.jpg" />
     <episode-num system="onscreen">S1 E2</episode-num>
     <rating system="US">
       <value>TV-PG</value>
@@ -3312,7 +2943,7 @@
     <desc lang="en">Biju travels to Tucson, Arizona, seeking experiences from trendy hotspots to entirely off-the-beaten-path.</desc>
     <date>2026</date>
     <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/TRLE302_Episode_16x9.jpg" />
+    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/TRLE301_Episode_16x9.jpg" />
     <episode-num system="onscreen">S3 E3</episode-num>
     <rating system="US">
       <value>TV-PG</value>
@@ -3324,7 +2955,7 @@
     <desc lang="en">Biju visits Maine to take in the outdoor adventures, exploring off-the-beaten-path dining experiences.</desc>
     <date>2025</date>
     <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/TRLE302_Episode_16x9.jpg" />
+    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/TRLE301_Episode_16x9.jpg" />
     <episode-num system="onscreen">S3 E2</episode-num>
     <rating system="US">
       <value>TV-PG</value>
@@ -3371,7 +3002,7 @@
     <desc lang="en">Biju travels to Tucson, Arizona, seeking experiences from trendy hotspots to entirely off-the-beaten-path.</desc>
     <date>2026</date>
     <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/TRLE302_Episode_16x9.jpg" />
+    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/TRLE301_Episode_16x9.jpg" />
     <episode-num system="onscreen">S3 E3</episode-num>
     <rating system="US">
       <value>TV-PG</value>
@@ -3383,7 +3014,7 @@
     <desc lang="en">The Nashville gravel biking scene and the city's legendary hot chicken culture with Saint Motel's Greg Erwin.</desc>
     <date>2023</date>
     <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/TRLE302_Episode_16x9.jpg" />
+    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/TRLE301_Episode_16x9.jpg" />
     <episode-num system="onscreen">S1 E2</episode-num>
     <rating system="US">
       <value>TV-PG</value>
@@ -3429,7 +3060,7 @@
     <desc lang="en">Harriet performs emergency surgery on an injured elephant fighting for its life.</desc>
     <date>2026</date>
     <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/WOTW103_Episode_16x9.jpg" />
+    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/WOTW101_Episode_16x9.jpg" />
     <episode-num system="onscreen">S1 E5</episode-num>
     <rating system="US">
       <value>TV-PG</value>
@@ -3451,7 +3082,7 @@
     <desc lang="en">Off the coast of San Diego, two captains join forces to chase bluefin tuna at the legendary Cortes Bank.</desc>
     <date>2021</date>
     <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/SFTV309_Episode_16x9.jpeg" />
+    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/SFTV509_Episode_16x9.jpg" />
     <episode-num system="onscreen">S2 E6</episode-num>
     <rating system="US">
       <value>TV-PG</value>
@@ -3463,7 +3094,7 @@
     <desc lang="en">Biju travels to Tucson, Arizona, seeking experiences from trendy hotspots to entirely off-the-beaten-path.</desc>
     <date>2026</date>
     <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/TRLE302_Episode_16x9.jpg" />
+    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/TRLE301_Episode_16x9.jpg" />
     <episode-num system="onscreen">S3 E3</episode-num>
     <rating system="US">
       <value>TV-PG</value>
@@ -3475,7 +3106,7 @@
     <desc lang="en">Biju visits Maine to take in the outdoor adventures, exploring off-the-beaten-path dining experiences.</desc>
     <date>2025</date>
     <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/TRLE302_Episode_16x9.jpg" />
+    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/TRLE301_Episode_16x9.jpg" />
     <episode-num system="onscreen">S3 E2</episode-num>
     <rating system="US">
       <value>TV-PG</value>
@@ -3677,7 +3308,7 @@
     <desc lang="en">Jenna and Sean conduct a unique animal behavior experiment while Emma provides specialist genet care.</desc>
     <date>2026</date>
     <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/WOTW103_Episode_16x9.jpg" />
+    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/WOTW101_Episode_16x9.jpg" />
     <episode-num system="onscreen">S1 E1</episode-num>
     <premiere lang="en" />
     <rating system="US">
@@ -3690,7 +3321,7 @@
     <desc lang="en">Emily tranquilizes a wild cheetah. Will bonds with Arthur, a young rhino orphan.</desc>
     <date>2026</date>
     <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/WOTW103_Episode_16x9.jpg" />
+    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/WOTW101_Episode_16x9.jpg" />
     <episode-num system="onscreen">S1 E1</episode-num>
     <premiere lang="en" />
     <rating system="US">
@@ -3775,7 +3406,7 @@
     <desc lang="en">Jenna and Sean conduct a unique animal behavior experiment while Emma provides specialist genet care.</desc>
     <date>2026</date>
     <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/WOTW103_Episode_16x9.jpg" />
+    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/WOTW101_Episode_16x9.jpg" />
     <episode-num system="onscreen">S1 E1</episode-num>
     <rating system="US">
       <value>TV-PG</value>
@@ -3787,7 +3418,7 @@
     <desc lang="en">Emily tranquilizes a wild cheetah. Will bonds with Arthur, a young rhino orphan.</desc>
     <date>2026</date>
     <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/WOTW103_Episode_16x9.jpg" />
+    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/WOTW101_Episode_16x9.jpg" />
     <episode-num system="onscreen">S1 E1</episode-num>
     <rating system="US">
       <value>TV-PG</value>
@@ -3869,7 +3500,7 @@
     <desc lang="en">Jenna and Sean conduct a unique animal behavior experiment while Emma provides specialist genet care.</desc>
     <date>2026</date>
     <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/WOTW103_Episode_16x9.jpg" />
+    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/WOTW101_Episode_16x9.jpg" />
     <episode-num system="onscreen">S1 E1</episode-num>
     <rating system="US">
       <value>TV-PG</value>
@@ -3881,7 +3512,7 @@
     <desc lang="en">Emily tranquilizes a wild cheetah. Will bonds with Arthur, a young rhino orphan.</desc>
     <date>2026</date>
     <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/WOTW103_Episode_16x9.jpg" />
+    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/WOTW101_Episode_16x9.jpg" />
     <episode-num system="onscreen">S1 E1</episode-num>
     <rating system="US">
       <value>TV-PG</value>
@@ -3932,6 +3563,18 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/70c9527c-a763-4f8a-996c-80e38376185f/Plex_keyart_16x9.jpg" />
     <episode-num system="onscreen">S8 E8</episode-num>
     <premiere lang="en" />
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20260723183000 +0000" stop="20260723190000 +0000" channel="plex.tv.Outside.plex">
+    <title lang="en">Ascend TV</title>
+    <sub-title lang="en">Great Lakes Surfing</sub-title>
+    <desc lang="en">Curtis Eichenberger explores the growing winter surfing culture in Collingwood, Ontario.</desc>
+    <date>2026</date>
+    <category lang="en">Sports</category>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/70c9527c-a763-4f8a-996c-80e38376185f/Plex_keyart_16x9.jpg" />
+    <episode-num system="onscreen">S7 E9</episode-num>
     <rating system="US">
       <value>TV-PG</value>
     </rating>
@@ -4040,6 +3683,412 @@
     <category lang="en">Sports</category>
     <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/BMD305_Episode_16x9.jpg" />
     <episode-num system="onscreen">S2 E4</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20260724000000 +0000" stop="20260724010000 +0000" channel="plex.tv.Outside.plex">
+    <title lang="en">Dirt</title>
+    <sub-title lang="en">Newfoundland: Wild Food and Hunt</sub-title>
+    <desc lang="en">Experience the "wild kinship" of the North Atlantic, culminating in a traditional Newfoundland shed party.</desc>
+    <date>2026</date>
+    <category lang="en">Sports</category>
+    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/DRT304_Episode_16x9.jpg" />
+    <episode-num system="onscreen">S3 E6</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20260724010000 +0000" stop="20260724013000 +0000" channel="plex.tv.Outside.plex">
+    <title lang="en">Backcountry Rescue</title>
+    <sub-title lang="en">Deadly Avalanche</sub-title>
+    <desc lang="en">SAR uses helicopters and controlled detonations for a rescue where calculated risks and courage are vital.</desc>
+    <date>2026</date>
+    <category lang="en">Sports</category>
+    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/BCR108_Episode_16x9.jpg" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20260724013000 +0000" stop="20260724020000 +0000" channel="plex.tv.Outside.plex">
+    <title lang="en">Backcountry Rescue</title>
+    <sub-title lang="en">Remote Mountain Bike Emergency</sub-title>
+    <desc lang="en">A mountain biker crashes on a remote trail. SAR performs a long-line helicopter rescue against the clock.</desc>
+    <date>2026</date>
+    <category lang="en">Sports</category>
+    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/BCR108_Episode_16x9.jpg" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20260724020000 +0000" stop="20260724023000 +0000" channel="plex.tv.Outside.plex">
+    <title lang="en">SOS: Extreme Rescue</title>
+    <sub-title lang="en">Lost on Tryfan</sub-title>
+    <desc lang="en">Three outdoor emergencies unfold: stranded on Tryfan, injured at a waterfall, drifting in the sea.</desc>
+    <date>2026</date>
+    <category lang="en">Sports</category>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/70c9527c-a763-4f8a-996c-80e38376185f/Plex_keyart_16x9.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <premiere lang="en" />
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20260724023000 +0000" stop="20260724030000 +0000" channel="plex.tv.Outside.plex">
+    <title lang="en">SOS: Extreme Rescue</title>
+    <sub-title lang="en">Against the Storm</sub-title>
+    <desc lang="en">Search for a missing person. A walker collapses with hypothermia. Young friends take a wrong turn.</desc>
+    <date>2026</date>
+    <category lang="en">Sports</category>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/70c9527c-a763-4f8a-996c-80e38376185f/Plex_keyart_16x9.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <premiere lang="en" />
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20260724030000 +0000" stop="20260724043000 +0000" channel="plex.tv.Outside.plex">
+    <title lang="en">Streif: One Hell of a Ride</title>
+    <desc lang="en">The race down the Streif is the most anticipated event of all the Superbowl of skiing.</desc>
+    <date>2021</date>
+    <category lang="en">Sports</category>
+    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/STF101_Episode_16x9.jpg" />
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20260724043000 +0000" stop="20260724050000 +0000" channel="plex.tv.Outside.plex">
+    <title lang="en">Beat Monday</title>
+    <sub-title lang="en">Idaho Packrafting</sub-title>
+    <desc lang="en">Mike and Jason head out on a hiking and pack rafting mission of the Sawtooth Range in central Idaho.</desc>
+    <date>2020</date>
+    <category lang="en">Sports</category>
+    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/BMD305_Episode_16x9.jpg" />
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20260724050000 +0000" stop="20260724060000 +0000" channel="plex.tv.Outside.plex">
+    <title lang="en">Dirt</title>
+    <sub-title lang="en">Newfoundland: Wild Food and Hunt</sub-title>
+    <desc lang="en">Experience the "wild kinship" of the North Atlantic, culminating in a traditional Newfoundland shed party.</desc>
+    <date>2026</date>
+    <category lang="en">Sports</category>
+    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/DRT304_Episode_16x9.jpg" />
+    <episode-num system="onscreen">S3 E6</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20260724060000 +0000" stop="20260724063000 +0000" channel="plex.tv.Outside.plex">
+    <title lang="en">Backcountry Rescue</title>
+    <sub-title lang="en">Deadly Avalanche</sub-title>
+    <desc lang="en">SAR uses helicopters and controlled detonations for a rescue where calculated risks and courage are vital.</desc>
+    <date>2026</date>
+    <category lang="en">Sports</category>
+    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/BCR108_Episode_16x9.jpg" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20260724063000 +0000" stop="20260724070000 +0000" channel="plex.tv.Outside.plex">
+    <title lang="en">Backcountry Rescue</title>
+    <sub-title lang="en">Remote Mountain Bike Emergency</sub-title>
+    <desc lang="en">A mountain biker crashes on a remote trail. SAR performs a long-line helicopter rescue against the clock.</desc>
+    <date>2026</date>
+    <category lang="en">Sports</category>
+    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/BCR108_Episode_16x9.jpg" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20260724070000 +0000" stop="20260724073000 +0000" channel="plex.tv.Outside.plex">
+    <title lang="en">SOS: Extreme Rescue</title>
+    <sub-title lang="en">Lost on Tryfan</sub-title>
+    <desc lang="en">Three outdoor emergencies unfold: stranded on Tryfan, injured at a waterfall, drifting in the sea.</desc>
+    <date>2026</date>
+    <category lang="en">Sports</category>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/70c9527c-a763-4f8a-996c-80e38376185f/Plex_keyart_16x9.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20260724073000 +0000" stop="20260724080000 +0000" channel="plex.tv.Outside.plex">
+    <title lang="en">SOS: Extreme Rescue</title>
+    <sub-title lang="en">Against the Storm</sub-title>
+    <desc lang="en">Search for a missing person. A walker collapses with hypothermia. Young friends take a wrong turn.</desc>
+    <date>2026</date>
+    <category lang="en">Sports</category>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/70c9527c-a763-4f8a-996c-80e38376185f/Plex_keyart_16x9.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20260724080000 +0000" stop="20260724093000 +0000" channel="plex.tv.Outside.plex">
+    <title lang="en">Bentonville Bike Fest</title>
+    <sub-title lang="en">Red Bull Double Down (2026)</sub-title>
+    <desc lang="en">The Red Bull Double Down is a brand-new crossover event pairing BMX and Freeride Mountain Biking.</desc>
+    <date>2026</date>
+    <category lang="en">Sports</category>
+    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/BBFR101_Episode_16x9.jpg" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20260724093000 +0000" stop="20260724100000 +0000" channel="plex.tv.Outside.plex">
+    <title lang="en">Red Bull: Made In</title>
+    <sub-title lang="en">Europe: Continental Surf Scenes</sub-title>
+    <desc lang="en">Join Europe's heroes as they explore their region’s best surf breaks and cultures around them.</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/MADEIN105_Episode_16x9.jpg" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20260724100000 +0000" stop="20260724113000 +0000" channel="plex.tv.Outside.plex">
+    <title lang="en">Streif: One Hell of a Ride</title>
+    <desc lang="en">The race down the Streif is the most anticipated event of all the Superbowl of skiing.</desc>
+    <date>2021</date>
+    <category lang="en">Sports</category>
+    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/STF101_Episode_16x9.jpg" />
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20260724113000 +0000" stop="20260724120000 +0000" channel="plex.tv.Outside.plex">
+    <title lang="en">Sport Fishing Television</title>
+    <sub-title lang="en">The Traveling Angler: Florida Keys</sub-title>
+    <desc lang="en">A look back at SFTV's 2022 season and the transplants and captains who made it possible.</desc>
+    <date>2022</date>
+    <category lang="en">Sports</category>
+    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/SFTV509_Episode_16x9.jpg" />
+    <episode-num system="onscreen">S3 E11</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20260724120000 +0000" stop="20260724123000 +0000" channel="plex.tv.Outside.plex">
+    <title lang="en">Beat Monday</title>
+    <sub-title lang="en">The Presidential Traverse</sub-title>
+    <desc lang="en">Epic weekend adventures designed to push the boundaries of what's possible.</desc>
+    <date>2020</date>
+    <category lang="en">Sports</category>
+    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/BMD305_Episode_16x9.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20260724123000 +0000" stop="20260724130000 +0000" channel="plex.tv.Outside.plex">
+    <title lang="en">Beat Monday</title>
+    <sub-title lang="en">Idaho Packrafting</sub-title>
+    <desc lang="en">Mike and Jason head out on a hiking and pack rafting mission of the Sawtooth Range in central Idaho.</desc>
+    <date>2020</date>
+    <category lang="en">Sports</category>
+    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/BMD305_Episode_16x9.jpg" />
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20260724130000 +0000" stop="20260724140000 +0000" channel="plex.tv.Outside.plex">
+    <title lang="en">Dirt</title>
+    <sub-title lang="en">Newfoundland: Wild Food and Hunt</sub-title>
+    <desc lang="en">Experience the "wild kinship" of the North Atlantic, culminating in a traditional Newfoundland shed party.</desc>
+    <date>2026</date>
+    <category lang="en">Sports</category>
+    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/DRT304_Episode_16x9.jpg" />
+    <episode-num system="onscreen">S3 E6</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20260724140000 +0000" stop="20260724143000 +0000" channel="plex.tv.Outside.plex">
+    <title lang="en">Backcountry Rescue</title>
+    <sub-title lang="en">Deadly Avalanche</sub-title>
+    <desc lang="en">SAR uses helicopters and controlled detonations for a rescue where calculated risks and courage are vital.</desc>
+    <date>2026</date>
+    <category lang="en">Sports</category>
+    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/BCR108_Episode_16x9.jpg" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20260724143000 +0000" stop="20260724150000 +0000" channel="plex.tv.Outside.plex">
+    <title lang="en">Backcountry Rescue</title>
+    <sub-title lang="en">Remote Mountain Bike Emergency</sub-title>
+    <desc lang="en">A mountain biker crashes on a remote trail. SAR performs a long-line helicopter rescue against the clock.</desc>
+    <date>2026</date>
+    <category lang="en">Sports</category>
+    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/BCR108_Episode_16x9.jpg" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20260724150000 +0000" stop="20260724153000 +0000" channel="plex.tv.Outside.plex">
+    <title lang="en">SOS: Extreme Rescue</title>
+    <sub-title lang="en">Lost on Tryfan</sub-title>
+    <desc lang="en">Three outdoor emergencies unfold: stranded on Tryfan, injured at a waterfall, drifting in the sea.</desc>
+    <date>2026</date>
+    <category lang="en">Sports</category>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/70c9527c-a763-4f8a-996c-80e38376185f/Plex_keyart_16x9.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20260724153000 +0000" stop="20260724160000 +0000" channel="plex.tv.Outside.plex">
+    <title lang="en">SOS: Extreme Rescue</title>
+    <sub-title lang="en">Race Against the Tide</sub-title>
+    <desc lang="en">Power kiter slams into rocks as tide closes in. Storm cuts off ambulance in life-or-death emergency.</desc>
+    <date>2026</date>
+    <category lang="en">Sports</category>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/70c9527c-a763-4f8a-996c-80e38376185f/Plex_keyart_16x9.jpg" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20260724160000 +0000" stop="20260724163000 +0000" channel="plex.tv.Outside.plex">
+    <title lang="en">The Road Less Eaten with Biju Thomas</title>
+    <sub-title lang="en">Maine: Local Cuisine and Coastal Adventures</sub-title>
+    <desc lang="en">Biju visits Maine to take in the outdoor adventures, exploring off-the-beaten-path dining experiences.</desc>
+    <date>2025</date>
+    <category lang="en">Sports</category>
+    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/TRLE301_Episode_16x9.jpg" />
+    <episode-num system="onscreen">S3 E2</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20260724163000 +0000" stop="20260724170000 +0000" channel="plex.tv.Outside.plex">
+    <title lang="en">The Road Less Eaten with Biju Thomas</title>
+    <sub-title lang="en">South Lake Tahoe, CA: Stunning Landscapes and Bountiful Cuisine</sub-title>
+    <desc lang="en">Biju visits the South Shore of Lake Tahoe to experience the stunning landscape, dining scene, and cuisine.</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/TRLE301_Episode_16x9.jpg" />
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20260724170000 +0000" stop="20260724180000 +0000" channel="plex.tv.Outside.plex">
+    <title lang="en">Khanh Ong’s Wild Food</title>
+    <sub-title lang="en">Eyre Peninsula</sub-title>
+    <desc lang="en">Chef Khanh Ong travels to the spectacular Eyre Peninsula, South Australia where he learns how to spearfish.</desc>
+    <date>2023</date>
+    <category lang="en">Sports</category>
+    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/WILD101_Episode_16x9.jpg" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20260724200000 +0000" stop="20260724203000 +0000" channel="plex.tv.Outside.plex">
+    <title lang="en">Ultimate Mountain Athlete</title>
+    <sub-title lang="en">Climb On: Welcome to</sub-title>
+    <desc lang="en">Kicking off Season 2 with a climbing competition, we welcome all-new athletes to Colorado to test their skill.</desc>
+    <date>2026</date>
+    <category lang="en">Sports</category>
+    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/UUMA205_Episode_16x9.jpg" />
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20260724203000 +0000" stop="20260724210000 +0000" channel="plex.tv.Outside.plex">
+    <title lang="en">Ultimate Mountain Athlete</title>
+    <sub-title lang="en">From Hard Rock to Hard Snow: Up, Up and Away</sub-title>
+    <desc lang="en">From climbing to ski mountaineering, the athletes complete their climbs and head towards Silverton Mountain.</desc>
+    <date>2026</date>
+    <category lang="en">Sports</category>
+    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/UUMA205_Episode_16x9.jpg" />
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20260724210000 +0000" stop="20260724213000 +0000" channel="plex.tv.Outside.plex">
+    <title lang="en">Ultimate Mountain Athlete</title>
+    <sub-title lang="en">Skimo: What Goes Up, Must Come Down</sub-title>
+    <desc lang="en">We transition the competition from racing up Silverton Mountain for time to the downhill portion of the event.</desc>
+    <date>2026</date>
+    <category lang="en">Sports</category>
+    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/UUMA205_Episode_16x9.jpg" />
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20260724213000 +0000" stop="20260724220000 +0000" channel="plex.tv.Outside.plex">
+    <title lang="en">Ultimate Mountain Athlete</title>
+    <sub-title lang="en">Hard Way Down to Avy Beacon Hunt</sub-title>
+    <desc lang="en">As we find out who is the fastest downhill ski racer, the athletes are put to a search competition.</desc>
+    <date>2026</date>
+    <category lang="en">Sports</category>
+    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/UUMA205_Episode_16x9.jpg" />
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20260724220000 +0000" stop="20260724223000 +0000" channel="plex.tv.Outside.plex">
+    <title lang="en">Ultimate Mountain Athlete</title>
+    <sub-title lang="en">Cash Rules Avy Thing Around Me</sub-title>
+    <desc lang="en">Finding out who won the avy beacon search for the cash prize, we head to Durango’s Mesa Park for MTB.</desc>
+    <date>2026</date>
+    <category lang="en">Sports</category>
+    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/UUMA205_Episode_16x9.jpg" />
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20260724223000 +0000" stop="20260724230000 +0000" channel="plex.tv.Outside.plex">
+    <title lang="en">Ultimate Mountain Athlete</title>
+    <sub-title lang="en">Flow &amp; Speed: Mountain Biking Begins</sub-title>
+    <desc lang="en">The athletes have completed their Flow and Downhill events. Next up: the Impossible Climb.</desc>
+    <date>2026</date>
+    <category lang="en">Sports</category>
+    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/UUMA205_Episode_16x9.jpg" />
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20260724230000 +0000" stop="20260724233000 +0000" channel="plex.tv.Outside.plex">
+    <title lang="en">Ultimate Mountain Athlete</title>
+    <sub-title lang="en">The End of MTB, the Start of Freeski</sub-title>
+    <desc lang="en">We pick back up on the Impossible Climb before the final challenge of the season: a freeski competition.</desc>
+    <date>2026</date>
+    <category lang="en">Sports</category>
+    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/UUMA205_Episode_16x9.jpg" />
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20260724233000 +0000" stop="20260725000000 +0000" channel="plex.tv.Outside.plex">
+    <title lang="en">Ultimate Mountain Athlete</title>
+    <sub-title lang="en">And the Winner Is…</sub-title>
+    <desc lang="en">We head to the judges deliberation and crown the Season 2 Winners of the Ultimate Mountain Athlete.</desc>
+    <date>2026</date>
+    <category lang="en">Sports</category>
+    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/UUMA205_Episode_16x9.jpg" />
+    <episode-num system="onscreen">S2 E2</episode-num>
     <rating system="US">
       <value>TV-PG</value>
     </rating>
