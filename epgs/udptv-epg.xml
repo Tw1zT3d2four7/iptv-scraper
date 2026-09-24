@@ -29012,23 +29012,11 @@
     <icon src="https://guidatv.sky.it/uuid/045ecd32-c5bb-4ae5-a1d2-e605f3370975/cover?territory=IT&amp;md5ChecksumParam=c3253bc0fbb8a234c340cbfdf6008708" />
     <country lang="it">ITA</country>
   </programme>
-  <channel id="SkySp.Fball.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3939.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3939.png" />
+  <channel id="SkySp.Mix.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4090.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4090.png" />
     <url>http://www.sky.com</url>
-    <display-name lang="en">SkySp Fball HD</display-name>
-  </channel>
-  <channel id="TNT.Sports.1.HD.uk">
-    <icon src="https://tv.assets.pressassociation.io/f55b110f-8046-5273-a249-badfe915e918.png" />
-    <icon src="https://tv.assets.pressassociation.io/f55b110f-8046-5273-a249-badfe915e918.png" />
-    <url>http://www.tvguide.co.uk</url>
-    <display-name lang="en">TNT Sports 1 HD</display-name>
-  </channel>
-  <channel id="Sky.Comedy.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1143.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1143.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">Sky Comedy HD</display-name>
+    <display-name lang="en">SkySp Mix HD</display-name>
   </channel>
   <channel id="TNT.Sports.3.HD.uk">
     <icon src="https://tv.assets.pressassociation.io/75c9df5d-d2d8-5d04-92ac-d9973c082c72.png" />
@@ -29036,59 +29024,11 @@
     <url>http://www.tvguide.co.uk</url>
     <display-name lang="en">TNT Sports 3 HD</display-name>
   </channel>
-  <channel id="SkySp.Tennis.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1284.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1284.png" />
+  <channel id="SkySp.PL.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" />
     <url>http://www.sky.com</url>
-    <display-name lang="en">SkySp Tennis HD</display-name>
-  </channel>
-  <channel id="TNT.Sports.2.HD.uk">
-    <icon src="https://tv.assets.pressassociation.io/77f422fa-d4a2-5687-953c-34f4da7d8b91.png" />
-    <icon src="https://tv.assets.pressassociation.io/77f422fa-d4a2-5687-953c-34f4da7d8b91.png" />
-    <url>http://www.tvguide.co.uk</url>
-    <display-name lang="en">TNT Sports 2 HD</display-name>
-  </channel>
-  <channel id="SkySp.Mix.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4090.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4090.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">SkySp Mix HD</display-name>
-  </channel>
-  <channel id="Sky.Kids.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1147.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1147.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">Sky Kids HD</display-name>
-  </channel>
-  <channel id="TNT.Sports.4.HD.uk">
-    <icon src="https://tv.assets.pressassociation.io/056d00c0-1629-5388-857c-f1a9ebdec5b8.png" />
-    <icon src="https://tv.assets.pressassociation.io/056d00c0-1629-5388-857c-f1a9ebdec5b8.png" />
-    <url>http://www.tvguide.co.uk</url>
-    <display-name lang="en">TNT Sports 4 HD</display-name>
-  </channel>
-  <channel id="SkySpCricket.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4081.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4081.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">SkySpCricket HD</display-name>
-  </channel>
-  <channel id="SkySp.F1.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">SkySp F1 HD</display-name>
-  </channel>
-  <channel id="SkySpMainEvHD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4002.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4002.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">SkySpMainEvHD</display-name>
-  </channel>
-  <channel id="Sky.Arts.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4063.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4063.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">Sky Arts HD</display-name>
+    <display-name lang="en">SkySp PL HD</display-name>
   </channel>
   <channel id="SkySp.News.HD.uk">
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4049.png" />
@@ -29096,11 +29036,59 @@
     <url>http://www.sky.com</url>
     <display-name lang="en">SkySp News HD</display-name>
   </channel>
-  <channel id="SkySp+.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3839.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3839.png" />
+  <channel id="Sky.Action.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4014.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4014.png" />
     <url>http://www.sky.com</url>
-    <display-name lang="en">SkySp+</display-name>
+    <display-name lang="en">Sky Action HD</display-name>
+  </channel>
+  <channel id="TNT.Sports.1.HD.uk">
+    <icon src="https://tv.assets.pressassociation.io/f55b110f-8046-5273-a249-badfe915e918.png" />
+    <icon src="https://tv.assets.pressassociation.io/f55b110f-8046-5273-a249-badfe915e918.png" />
+    <url>http://www.tvguide.co.uk</url>
+    <display-name lang="en">TNT Sports 1 HD</display-name>
+  </channel>
+  <channel id="SkySp.Tennis.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1284.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1284.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">SkySp Tennis HD</display-name>
+  </channel>
+  <channel id="Sky.Kids.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1147.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1147.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">Sky Kids HD</display-name>
+  </channel>
+  <channel id="Sky.Arts.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4063.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4063.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">Sky Arts HD</display-name>
+  </channel>
+  <channel id="TNT.Sports.4.HD.uk">
+    <icon src="https://tv.assets.pressassociation.io/056d00c0-1629-5388-857c-f1a9ebdec5b8.png" />
+    <icon src="https://tv.assets.pressassociation.io/056d00c0-1629-5388-857c-f1a9ebdec5b8.png" />
+    <url>http://www.tvguide.co.uk</url>
+    <display-name lang="en">TNT Sports 4 HD</display-name>
+  </channel>
+  <channel id="Sky.Comedy.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1143.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1143.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">Sky Comedy HD</display-name>
+  </channel>
+  <channel id="SkySp.F1.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">SkySp F1 HD</display-name>
+  </channel>
+  <channel id="SkySp.Fball.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3939.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3939.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">SkySp Fball HD</display-name>
   </channel>
   <channel id="TNT.Sports.5.HD.uk">
     <icon src="https://tv.assets.pressassociation.io/dbf92dca-857c-5522-bbc6-2bda4e23ff31.png" />
@@ -29108,11 +29096,23 @@
     <url>http://www.tvguide.co.uk</url>
     <display-name lang="en">TNT Sports 5 HD</display-name>
   </channel>
-  <channel id="Sky.Action.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4014.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4014.png" />
+  <channel id="Sky.Atlantic.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4053.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4053.png" />
     <url>http://www.sky.com</url>
-    <display-name lang="en">Sky Action HD</display-name>
+    <display-name lang="en">Sky Atlantic HD</display-name>
+  </channel>
+  <channel id="TNT.Sports.2.HD.uk">
+    <icon src="https://tv.assets.pressassociation.io/77f422fa-d4a2-5687-953c-34f4da7d8b91.png" />
+    <icon src="https://tv.assets.pressassociation.io/77f422fa-d4a2-5687-953c-34f4da7d8b91.png" />
+    <url>http://www.tvguide.co.uk</url>
+    <display-name lang="en">TNT Sports 2 HD</display-name>
+  </channel>
+  <channel id="SkySpCricket.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4081.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4081.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">SkySpCricket HD</display-name>
   </channel>
   <channel id="SkySp.Racing.HD.uk">
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4032.png" />
@@ -29120,17 +29120,17 @@
     <url>http://www.sky.com</url>
     <display-name lang="en">SkySp Racing HD</display-name>
   </channel>
-  <channel id="SkySp.PL.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" />
+  <channel id="SkySp+.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3839.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3839.png" />
     <url>http://www.sky.com</url>
-    <display-name lang="en">SkySp PL HD</display-name>
+    <display-name lang="en">SkySp+</display-name>
   </channel>
-  <channel id="Sky.Atlantic.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4053.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4053.png" />
+  <channel id="SkySpMainEvHD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4002.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4002.png" />
     <url>http://www.sky.com</url>
-    <display-name lang="en">Sky Atlantic HD</display-name>
+    <display-name lang="en">SkySpMainEvHD</display-name>
   </channel>
   <programme channel="Sky.Action.HD.uk" start="20260921015500 +0000" stop="20260921035500 +0000">
     <title lang="en">300</title>
@@ -107019,136 +107019,6 @@
     <display-name lang="Russian Federation">beIN Sports Xtra [US]</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/02/23/20250223020606068934_27.png" />
   </channel>
-  <programme channel="413152" start="20260923000000 +0000" stop="20260923020000 +0000">
-    <title lang="zh">French Ligue 1 Soccer: AS Monaco vs. RC Lens (Stade Louis II, MCO)</title>
-    <desc />
-    <date>2026-09-23</date>
-  </programme>
-  <programme channel="413152" start="20260923020000 +0000" stop="20260923030000 +0000">
-    <title lang="zh">GT World Challenge Europe: Nürburgring, Germany</title>
-    <desc />
-    <date>2026-09-23</date>
-  </programme>
-  <programme channel="413152" start="20260923030000 +0000" stop="20260923033000 +0000">
-    <title lang="zh">GWA Wing Foil World Tour: Episode 1</title>
-    <desc />
-    <date>2026-09-23</date>
-  </programme>
-  <programme channel="413152" start="20260923033000 +0000" stop="20260923040000 +0000">
-    <title lang="zh">Modern Pentathlon Highlights: UIPM World Championships, Guiyang</title>
-    <desc />
-    <date>2026-09-23</date>
-  </programme>
-  <programme channel="413152" start="20260923040000 +0000" stop="20260923043000 +0000">
-    <title lang="zh">The Knockout Room: Best of 2025</title>
-    <desc />
-    <date>2026-09-23</date>
-  </programme>
-  <programme channel="413152" start="20260923043000 +0000" stop="20260923050000 +0000">
-    <title lang="zh">The Knockout Room: Best of 2025</title>
-    <desc />
-    <date>2026-09-23</date>
-  </programme>
-  <programme channel="413152" start="20260923050000 +0000" stop="20260923070000 +0000">
-    <title lang="zh">French Ligue 1 Soccer: AS Monaco vs. RC Lens (Stade Louis II, MCO)</title>
-    <desc />
-    <date>2026-09-23</date>
-  </programme>
-  <programme channel="413152" start="20260923070000 +0000" stop="20260923073000 +0000">
-    <title lang="zh">FIBA 3x3 Asia Cup 2026: Men's First Semifinal, Japan vs. New Zealand</title>
-    <desc />
-    <date>2026-09-23</date>
-  </programme>
-  <programme channel="413152" start="20260923073000 +0000" stop="20260923080000 +0000">
-    <title lang="zh">FIBA 3x3 Asia Cup 2026: Men's Second Semifinal, China vs. Republic of Korea</title>
-    <desc />
-    <date>2026-09-23</date>
-  </programme>
-  <programme channel="413152" start="20260923080000 +0000" stop="20260923090000 +0000">
-    <title lang="zh">GT World Challenge Europe: Nürburgring, Germany</title>
-    <desc />
-    <date>2026-09-23</date>
-  </programme>
-  <programme channel="413152" start="20260923090000 +0000" stop="20260923110000 +0000">
-    <title lang="zh">Skiing: Ski Classics Pro Tour: Bad Gastein Criterium, Sportgastein – Race 2</title>
-    <desc />
-    <date>2026-09-23</date>
-  </programme>
-  <programme channel="413152" start="20260923110000 +0000" stop="20260923120000 +0000">
-    <title lang="zh">Footvolley: Pro Tour: Hollywood Beach</title>
-    <desc />
-    <date>2026-09-23</date>
-  </programme>
-  <programme channel="413152" start="20260923120000 +0000" stop="20260923123000 +0000">
-    <title lang="zh">FIBA 3x3 Asia Cup 2026: Women's, China vs. Australia</title>
-    <desc />
-    <date>2026-09-23</date>
-  </programme>
-  <programme channel="413152" start="20260923123000 +0000" stop="20260923130000 +0000">
-    <title lang="zh">FIBA 3x3 Asia Cup 2026: Women's, Phillippines vs. Japan</title>
-    <desc />
-    <date>2026-09-23</date>
-  </programme>
-  <programme channel="413152" start="20260923130000 +0000" stop="20260923150000 +0000">
-    <title lang="zh">Premier Padel Tennis: Buenos Aires, Men's Final</title>
-    <desc />
-    <date>2026-09-23</date>
-  </programme>
-  <programme channel="413152" start="20260923150000 +0000" stop="20260923160000 +0000">
-    <title lang="zh">2026 European Le Mans Series Highlights: SPA</title>
-    <desc />
-    <date>2026-09-23</date>
-  </programme>
-  <programme channel="413152" start="20260923160000 +0000" stop="20260923170000 +0000">
-    <title lang="zh">Porsche Sprint Challenge Auto Racing: Southern Europe: Portimao, Club Division – Race 1</title>
-    <desc />
-    <date>2026-09-23</date>
-  </programme>
-  <programme channel="413152" start="20260923170000 +0000" stop="20260923180000 +0000">
-    <title lang="zh">Archery Highlights: World Cup, Pan American Games</title>
-    <desc />
-    <date>2026-09-23</date>
-  </programme>
-  <programme channel="413152" start="20260923180000 +0000" stop="20260923190000 +0000">
-    <title lang="zh">FEI Western European League Show: A Coruna</title>
-    <desc />
-    <date>2026-09-23</date>
-  </programme>
-  <programme channel="413152" start="20260923190000 +0000" stop="20260923193000 +0000">
-    <title lang="zh">Copa Libertadores Highlights: Quarterfinals, 2nd Leg</title>
-    <desc />
-    <date>2026-09-23</date>
-  </programme>
-  <programme channel="413152" start="20260923193000 +0000" stop="20260923200000 +0000">
-    <title lang="zh">Copa Sudamericana: Highlights: Quarterfinals – 2nd leg</title>
-    <desc />
-    <date>2026-09-23</date>
-  </programme>
-  <programme channel="413152" start="20260923200000 +0000" stop="20260923220000 +0000">
-    <title lang="zh">Track Cycling: Sixdays Berlin, Day 1</title>
-    <desc />
-    <date>2026-09-23</date>
-  </programme>
-  <programme channel="413152" start="20260923220000 +0000" stop="20260923223000 +0000">
-    <title lang="zh">GWA Wing Foil World Tour: Episode 1</title>
-    <desc />
-    <date>2026-09-23</date>
-  </programme>
-  <programme channel="413152" start="20260923223000 +0000" stop="20260923230000 +0000">
-    <title lang="zh">Modern Pentathlon Highlights: UIPM World Championships, Guiyang</title>
-    <desc />
-    <date>2026-09-23</date>
-  </programme>
-  <programme channel="413152" start="20260923230000 +0000" stop="20260923233000 +0000">
-    <title lang="zh">FIBA 3x3 Asia Cup 2026: Women's, China vs. Australia</title>
-    <desc />
-    <date>2026-09-23</date>
-  </programme>
-  <programme channel="413152" start="20260923233000 +0000" stop="20260924000000 +0000">
-    <title lang="zh">FIBA 3x3 Asia Cup 2026: Women's, Phillippines vs. Japan</title>
-    <desc />
-    <date>2026-09-23</date>
-  </programme>
   <programme channel="413152" start="20260924000000 +0000" stop="20260924020000 +0000">
     <title lang="zh">French Ligue 1 Soccer: Olympique Lyonnais vs. Stade Rennais (Groupama Stadium, Décines-Charpieu, 69,</title>
     <desc />
@@ -107279,9 +107149,154 @@
     <desc />
     <date>2026-09-24</date>
   </programme>
-  <programme channel="413152" start="20260925000000 +0000" stop="20260926000000 +0000">
+  <programme channel="413152" start="20260925000000 +0000" stop="20260925020000 +0000">
     <title lang="zh">French Ligue 1 Soccer: Olympique de Marseille vs. Paris Saint-Germain (Orange Vélodrome, Provence-Al</title>
     <desc />
     <date>2026-09-25</date>
+  </programme>
+  <programme channel="413152" start="20260925020000 +0000" stop="20260925023000 +0000">
+    <title lang="zh">Gearing Up</title>
+    <desc />
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="413152" start="20260925023000 +0000" stop="20260925030000 +0000">
+    <title lang="zh">Powerboat Racing Highlights: Kyrgyzstan</title>
+    <desc />
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="413152" start="20260925030000 +0000" stop="20260925033000 +0000">
+    <title lang="zh">The Sports Rundown</title>
+    <desc />
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="413152" start="20260925033000 +0000" stop="20260925040000 +0000">
+    <title lang="zh">The Sports Rundown</title>
+    <desc />
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="413152" start="20260925040000 +0000" stop="20260925043000 +0000">
+    <title lang="zh">The Knockout Room: Best of 2025</title>
+    <desc />
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="413152" start="20260925043000 +0000" stop="20260925050000 +0000">
+    <title lang="zh">The Knockout Room</title>
+    <desc />
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="413152" start="20260925050000 +0000" stop="20260925070000 +0000">
+    <title lang="zh">French Ligue 1 Soccer: Olympique de Marseille vs. Paris Saint-Germain (Orange Vélodrome, Provence-Al</title>
+    <desc />
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="413152" start="20260925070000 +0000" stop="20260925073000 +0000">
+    <title lang="zh">FIBA 3x3 Asia Cup 2026: Men's Final, New Zealand vs. Republic of Korea</title>
+    <desc />
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="413152" start="20260925073000 +0000" stop="20260925080000 +0000">
+    <title lang="zh">FIBA 3x3 Asia Cup 2026: Women's. Australia vs. Phillippines</title>
+    <desc />
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="413152" start="20260925080000 +0000" stop="20260925083000 +0000">
+    <title lang="zh">Gearing Up</title>
+    <desc />
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="413152" start="20260925083000 +0000" stop="20260925090000 +0000">
+    <title lang="zh">Powerboat Racing Highlights: Kyrgyzstan</title>
+    <desc />
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="413152" start="20260925090000 +0000" stop="20260925110000 +0000">
+    <title lang="zh">Skiing: Ski Classic Pro Tour: Macrialonga, Race 4</title>
+    <desc />
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="413152" start="20260925110000 +0000" stop="20260925120000 +0000">
+    <title lang="zh">Footvolley: Pro Tour: Stop 2 from Hollywood Beach</title>
+    <desc />
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="413152" start="20260925120000 +0000" stop="20260925123000 +0000">
+    <title lang="zh">2026 FIBA 3x3 World Cup: Latvia vs. Germany</title>
+    <desc />
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="413152" start="20260925123000 +0000" stop="20260925130000 +0000">
+    <title lang="zh">2026 FIBA 3x3 World Cup: Poland, Women's Final: Australia vs. United States</title>
+    <desc />
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="413152" start="20260925130000 +0000" stop="20260925133000 +0000">
+    <title lang="zh">This is Paris</title>
+    <desc />
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="413152" start="20260925133000 +0000" stop="20260925150000 +0000">
+    <title lang="zh">Premier Padel Tennis: italy, Men's Final</title>
+    <desc />
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="413152" start="20260925150000 +0000" stop="20260925160000 +0000">
+    <title lang="zh">Monterey Motorsports Festival 2025</title>
+    <desc />
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="413152" start="20260925160000 +0000" stop="20260925170000 +0000">
+    <title lang="zh">Porsche Sprint Challenge Auto Racing: Southern Europe: Estoril, Sport Division – Race 1</title>
+    <desc />
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="413152" start="20260925170000 +0000" stop="20260925173000 +0000">
+    <title lang="zh">World Downhill Skateboarding Championships</title>
+    <desc />
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="413152" start="20260925173000 +0000" stop="20260925180000 +0000">
+    <title lang="zh">World Downhill Skateboarding Championships</title>
+    <desc />
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="413152" start="20260925180000 +0000" stop="20260925190000 +0000">
+    <title lang="zh">FEI Western European League Show: Mechelen</title>
+    <desc />
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="413152" start="20260925190000 +0000" stop="20260925193000 +0000">
+    <title lang="zh">Ligue 1 Show</title>
+    <desc />
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="413152" start="20260925193000 +0000" stop="20260925195000 +0000">
+    <title lang="zh">Ligue 1 – Highlight Show: 2026-27: Matchday 5</title>
+    <desc />
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="413152" start="20260925195000 +0000" stop="20260925220000 +0000">
+    <title lang="zh">⋗ 2027 Africa Cup of Nations Qualifiers: Senegal vs. Mozambique (Stade Me Abdoulaye Wade, SEN)</title>
+    <desc />
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="413152" start="20260925220000 +0000" stop="20260925230000 +0000">
+    <title lang="zh">Footvolley: Ocean City, Md</title>
+    <desc />
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="413152" start="20260925230000 +0000" stop="20260925233000 +0000">
+    <title lang="zh">2026 FIBA 3x3 World Cup: Latvia vs. Germany</title>
+    <desc />
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="413152" start="20260925233000 +0000" stop="20260926000000 +0000">
+    <title lang="zh">2026 FIBA 3x3 World Cup: Poland, Women's Final: Australia vs. United States</title>
+    <desc />
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="413152" start="20260926000000 +0000" stop="20260927000000 +0000">
+    <title lang="zh">Turkish Super Lig Soccer: Trabzonspor vs. Galatasaray (Senol Günes Spor Kompleksi, TUR)</title>
+    <desc />
+    <date>2026-09-26</date>
   </programme>
 </tv>
