@@ -55940,7 +55940,6 @@
   <channel id="IBC.TV.13.ph">
     <display-name lang="en">IBC TV 13</display-name>
     <icon src="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/18091206/gma13-logo-300x300.png" />
-    <icon src="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/18091206/gma13-logo-300x300.png" />
     <url>http://www.clickthecity.com</url>
   </channel>
   <channel id="Jeepney.TV.ph">
@@ -56067,72 +56066,6 @@
     <display-name lang="en">Warnertv Hd</display-name>
     <url>http://www.cignalplay.com</url>
   </channel>
-  <programme start="20260930100000 +0800" stop="20260930103000 +0800" channel="ANC.ph">
-    <title lang="en">My Italy with Margarita</title>
-    <category lang="en">Lifestyle</category>
-  </programme>
-  <programme start="20260930103000 +0800" stop="20260930110000 +0800" channel="ANC.ph">
-    <title lang="en">Hot Copy on Headstart with Karen Davila</title>
-    <category lang="en">News</category>
-    <category lang="en">Talk</category>
-  </programme>
-  <programme start="20260930110000 +0800" stop="20260930113000 +0800" channel="ANC.ph">
-    <title lang="en">Made in Germany</title>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20260930113000 +0800" stop="20260930120000 +0800" channel="ANC.ph">
-    <title lang="en">#NoFilter</title>
-    <category lang="en">Talk</category>
-  </programme>
-  <programme start="20260930120000 +0800" stop="20260930130000 +0800" channel="ANC.ph">
-    <title lang="en">Dateline Philippines</title>
-  </programme>
-  <programme start="20260930130000 +0800" stop="20260930140000 +0800" channel="ANC.ph">
-    <title lang="en">Chasing Flavors</title>
-  </programme>
-  <programme start="20260930140000 +0800" stop="20260930143000 +0800" channel="ANC.ph">
-    <title lang="en">Tomorrow Today</title>
-  </programme>
-  <programme start="20260930143000 +0800" stop="20260930150000 +0800" channel="ANC.ph">
-    <title lang="en">Beyond The Exchange</title>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20260930150000 +0800" stop="20260930160000 +0800" channel="ANC.ph">
-    <title lang="en">Business Roadshow</title>
-    <category lang="en">Lifestyle</category>
-  </programme>
-  <programme start="20260930160000 +0800" stop="20260930163000 +0800" channel="ANC.ph">
-    <title lang="en">LSS: The Martin Nievera Show</title>
-    <category lang="en">Talk</category>
-  </programme>
-  <programme start="20260930163000 +0800" stop="20260930170000 +0800" channel="ANC.ph">
-    <title lang="en">Arts.21</title>
-    <category lang="en">Education</category>
-  </programme>
-  <programme start="20260930170000 +0800" stop="20260930180000 +0800" channel="ANC.ph">
-    <title lang="en">Top Story</title>
-  </programme>
-  <programme start="20260930180000 +0800" stop="20260930183000 +0800" channel="ANC.ph">
-    <title lang="en">Cityscape</title>
-  </programme>
-  <programme start="20260930183000 +0800" stop="20260930200000 +0800" channel="ANC.ph">
-    <title lang="en">TV Patrol</title>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260930200000 +0800" stop="20260930203000 +0800" channel="ANC.ph">
-    <title lang="en">Business Outlook</title>
-  </programme>
-  <programme start="20260930203000 +0800" stop="20260930210000 +0800" channel="ANC.ph">
-    <title lang="en">On Cue</title>
-  </programme>
-  <programme start="20260930210000 +0800" stop="20260930213000 +0800" channel="ANC.ph">
-    <title lang="en">The World Tonight</title>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260930213000 +0800" stop="20260930220000 +0800" channel="ANC.ph">
-    <title lang="en">At The Moment</title>
-    <category lang="en">News</category>
-  </programme>
   <programme start="20260930220000 +0800" stop="20260930223000 +0800" channel="ANC.ph">
     <title lang="en">In Good Shape</title>
     <category lang="en">Documentary</category>
@@ -56176,66 +56109,75 @@
     <title lang="en">My Italy with Margarita</title>
     <category lang="en">Lifestyle</category>
   </programme>
-  <programme start="20260930010000 +0800" stop="20260930030000 +0800" channel="Cinema.One.ph">
-    <title lang="en">Kasibulan</title>
+  <programme start="20260930210000 +0800" stop="20260930230000 +0800" channel="Cinema.One.ph">
+    <title lang="en">Himala</title>
+    <desc lang="en">When plain orphan Elsa begins having visions of the Virgin Mary, the rest of the residents of her isolated village find themselves questioning their own beliefs and values. Soon, Elsa is healing people with a variety of ailments. As word of this phenomenon spreads, tourists, pilgrims, patients and a documentary filmmaker all arrive on a quest to partake in the miracle.</desc>
     <credits>
-      <actor>Paolo Rivero</actor>
+      <director>Ishmael Bernal</director>
+      <actor>Nora Aunor</actor>
+      <actor>Spanky Manikan</actor>
+      <actor>Vangie Labalan</actor>
+      <actor>Veronica Palileo</actor>
+      <actor>Joel Lamangan</actor>
+      <actor>Ama Quiambao</actor>
+      <actor>Cris Daluz</actor>
+      <actor>Pen Medina</actor>
+      <actor>Gigi Duenas</actor>
+      <actor>Ray Ventura</actor>
+      <actor>Joe Gruta</actor>
+      <actor>Ellen Ongkeko-Marfil</actor>
+      <writer>Ricky Lee</writer>
     </credits>
-    <date>2001</date>
+    <date>1982</date>
     <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <country lang="en">Philippines</country>
+    <rating system="MTRCB">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20260930230000 +0800" stop="20261001010000 +0800" channel="Cinema.One.ph">
+    <title lang="en">Ang Panahon Ng Halimaw</title>
+    <desc lang="en">It tells the story of Lorena, a young doctor who opens a clinic for the poor in a remote Philippine village in the 70s. She then disappears without a trace, prompting her husband Hugo, an activist, poet and teacher, to come looking for her.</desc>
+    <credits>
+      <director>Lav Diaz</director>
+      <actor>Piolo Pascual</actor>
+      <actor>Shaina Magdayao</actor>
+      <actor>Angel Aquino</actor>
+      <actor>Pinky Amador</actor>
+      <actor>Hazel Orencio</actor>
+      <actor>Joel Saracho</actor>
+      <actor>Bart Guingona</actor>
+      <actor>Bituin Escalante</actor>
+      <actor>Lilit  Reyes</actor>
+      <actor>Bradley Liew</actor>
+      <actor>Ian Lomongo</actor>
+      <writer>Lav Diaz</writer>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Musical</category>
+    <country lang="en">Philippines</country>
+    <rating system="MTRCB">
+      <value>R-13</value>
+    </rating>
+    <star-rating system="Critics">
+      <value>2.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20261001010000 +0800" stop="20261001030000 +0800" channel="Cinema.One.ph">
+    <title lang="en">Sagad</title>
+    <credits>
+      <actor>Via Veloso</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Romance</category>
     <category lang="en">Sexy</category>
     <rating system="MTRCB">
       <value>R</value>
     </rating>
-  </programme>
-  <programme start="20260930093000 +0800" stop="20260930110000 +0800" channel="GMA.ph">
-    <title lang="en">Kapuso Movie Festival</title>
-  </programme>
-  <programme start="20260930110000 +0800" stop="20260930120000 +0800" channel="GMA.ph">
-    <title lang="en">Tiktoclock</title>
-  </programme>
-  <programme start="20260930120000 +0800" stop="20260930143000 +0800" channel="GMA.ph">
-    <title lang="en">It's Showtime</title>
-    <category lang="en">Game</category>
-    <category lang="en">Variety Show</category>
-  </programme>
-  <programme start="20260930143000 +0800" stop="20260930152000 +0800" channel="GMA.ph">
-    <title lang="en">Born To Shine</title>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260930152000 +0800" stop="20260930160500 +0800" channel="GMA.ph">
-    <title lang="en">Kamao</title>
-    <category lang="en">Action/Adventure</category>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260930160500 +0800" stop="20260930163000 +0800" channel="GMA.ph">
-    <title lang="en">Fast Talk with Boy Abunda</title>
-    <category lang="en">Talk</category>
-  </programme>
-  <programme start="20260930163000 +0800" stop="20260930171000 +0800" channel="GMA.ph">
-    <title lang="en">Maria Clara At Ibarra</title>
-    <category lang="en">Drama</category>
-    <category lang="en">Biography</category>
-  </programme>
-  <programme start="20260930171000 +0800" stop="20260930174000 +0800" channel="GMA.ph">
-    <title lang="en">Arthdal Chronicles</title>
-    <category lang="en">Fantasy</category>
-  </programme>
-  <programme start="20260930174000 +0800" stop="20260930183000 +0800" channel="GMA.ph">
-    <title lang="en">Family Feud</title>
-    <category lang="en">Game</category>
-  </programme>
-  <programme start="20260930183000 +0800" stop="20260930200000 +0800" channel="GMA.ph">
-    <title lang="en">24 Oras</title>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260930200000 +0800" stop="20260930205000 +0800" channel="GMA.ph">
-    <title lang="en">The Master Cutter</title>
-    <category lang="en">Action/Adventure</category>
-  </programme>
-  <programme start="20260930205000 +0800" stop="20260930213500 +0800" channel="GMA.ph">
-    <title lang="en">Task Force Firewall</title>
-    <category lang="en">Action/Adventure</category>
   </programme>
   <programme start="20260930213500 +0800" stop="20260930221000 +0800" channel="GMA.ph">
     <title lang="en">Love, Siargao</title>
@@ -56249,36 +56191,6 @@
     <title lang="en">The Kinnaree Conspiracy</title>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20260930094500 +0800" stop="20260930110000 +0800" channel="GTV.ph">
-    <title lang="en">The Vice President On Trial</title>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20260930110000 +0800" stop="20260930120000 +0800" channel="GTV.ph">
-    <title lang="en">Balitanghali</title>
-  </programme>
-  <programme start="20260930120000 +0800" stop="20260930150000 +0800" channel="GTV.ph">
-    <title lang="en">The Vice President On Trial</title>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20260930150000 +0800" stop="20260930171500 +0800" channel="GTV.ph">
-    <title lang="en">Afternoon Movie Break</title>
-  </programme>
-  <programme start="20260930171500 +0800" stop="20260930180000 +0800" channel="GTV.ph">
-    <title lang="en">Chika Cart</title>
-    <category lang="en">Talk</category>
-  </programme>
-  <programme start="20260930180000 +0800" stop="20260930183000 +0800" channel="GTV.ph">
-    <title lang="en">Usap-usapan: What We Know So Far</title>
-    <category lang="en">Talk</category>
-  </programme>
-  <programme start="20260930183000 +0800" stop="20260930200000 +0800" channel="GTV.ph">
-    <title lang="en">24 Oras</title>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260930200000 +0800" stop="20260930205000 +0800" channel="GTV.ph">
-    <title lang="en">The Master Cutter</title>
-    <category lang="en">Action/Adventure</category>
-  </programme>
   <programme start="20260930205000 +0800" stop="20260930223000 +0800" channel="GTV.ph">
     <title lang="en">G! Flicks</title>
     <category lang="en">Teens</category>
@@ -56290,153 +56202,6 @@
   <programme start="20260930230500 +0800" stop="20260930232500 +0800" channel="GTV.ph">
     <title lang="en">State Of The Nation</title>
     <category lang="en">Talk</category>
-  </programme>
-  <programme start="20260930100000 +0800" stop="20260930101500 +0800" channel="IBC.TV.13.ph">
-    <title lang="en">Treze Express Balita</title>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20260930101500 +0800" stop="20260930120000 +0800" channel="IBC.TV.13.ph">
-    <title lang="en">#IPABITAGMO - Sumbungan Ng Sambayanan</title>
-    <category lang="en">Reality</category>
-  </programme>
-  <programme start="20260930120000 +0800" stop="20260930121500 +0800" channel="IBC.TV.13.ph">
-    <title lang="en">Treze Express Balita</title>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20260930121500 +0800" stop="20260930130000 +0800" channel="IBC.TV.13.ph">
-    <title lang="en">Ang Paglilitis</title>
-  </programme>
-  <programme start="20260930130000 +0800" stop="20260930140000 +0800" channel="IBC.TV.13.ph">
-    <title lang="en">Treze Sa Tanghali</title>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260930140000 +0800" stop="20260930141500 +0800" channel="IBC.TV.13.ph">
-    <title lang="en">PCSO Lottery Draw</title>
-    <category lang="en">Game</category>
-  </programme>
-  <programme start="20260930141500 +0800" stop="20260930150000 +0800" channel="IBC.TV.13.ph">
-    <title lang="en">Ang Paglilitis</title>
-  </programme>
-  <programme start="20260930150000 +0800" stop="20260930151500 +0800" channel="IBC.TV.13.ph">
-    <title lang="en">Treze Express Balita</title>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20260930151500 +0800" stop="20260930160000 +0800" channel="IBC.TV.13.ph">
-    <title lang="en">Good Stories</title>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20260930160000 +0800" stop="20260930161500 +0800" channel="IBC.TV.13.ph">
-    <title lang="en">Treze Express Balita</title>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20260930161500 +0800" stop="20260930170000 +0800" channel="IBC.TV.13.ph">
-    <title lang="en">PBBM - RTVM</title>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20260930170000 +0800" stop="20260930171500 +0800" channel="IBC.TV.13.ph">
-    <title lang="en">PCSO Lottery Draw</title>
-    <category lang="en">Game</category>
-  </programme>
-  <programme start="20260930171500 +0800" stop="20260930181500 +0800" channel="IBC.TV.13.ph">
-    <title lang="en">Tutok Treze</title>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20260930181500 +0800" stop="20260930190000 +0800" channel="IBC.TV.13.ph">
-    <title lang="en">Congress News</title>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20260930190000 +0800" stop="20260930191500 +0800" channel="IBC.TV.13.ph">
-    <title lang="en">Treze Express Balita</title>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20260930191500 +0800" stop="20260930193000 +0800" channel="IBC.TV.13.ph">
-    <title lang="en">Voices Of Hope</title>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20260930193000 +0800" stop="20260930200000 +0800" channel="IBC.TV.13.ph">
-    <title lang="en">Congress TV</title>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20260930200000 +0800" stop="20260930201500 +0800" channel="IBC.TV.13.ph">
-    <title lang="en">Treze Express Balita</title>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20260930201500 +0800" stop="20260930210000 +0800" channel="IBC.TV.13.ph">
-    <title lang="en">PBBM - RTVM</title>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20260930210000 +0800" stop="20260930213000 +0800" channel="IBC.TV.13.ph">
-    <title lang="en">PCSO Lottery Draw</title>
-    <category lang="en">Game</category>
-  </programme>
-  <programme start="20260930213000 +0800" stop="20260930220000 +0800" channel="IBC.TV.13.ph">
-    <title lang="en">13 News</title>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260930100000 +0800" stop="20260930110000 +0800" channel="Jeepney.TV.ph">
-    <title lang="en">Mga Anghel Na Walang Langit</title>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260930110000 +0800" stop="20260930120000 +0800" channel="Jeepney.TV.ph">
-    <title lang="en">Aryana</title>
-    <category lang="en">Drama</category>
-    <category lang="en">Teens</category>
-  </programme>
-  <programme start="20260930120000 +0800" stop="20260930130000 +0800" channel="Jeepney.TV.ph">
-    <title lang="en">Gulong Ng Palad</title>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260930130000 +0800" stop="20260930140000 +0800" channel="Jeepney.TV.ph">
-    <title lang="en">Be My Lady</title>
-    <category lang="en">Romance</category>
-  </programme>
-  <programme start="20260930140000 +0800" stop="20260930143000 +0800" channel="Jeepney.TV.ph">
-    <title lang="en">Kahit Konting Pagtingin</title>
-    <category lang="en">Comedy</category>
-    <category lang="en">Romance</category>
-  </programme>
-  <programme start="20260930143000 +0800" stop="20260930150000 +0800" channel="Jeepney.TV.ph">
-    <title lang="en">Bagito</title>
-  </programme>
-  <programme start="20260930150000 +0800" stop="20260930154500 +0800" channel="Jeepney.TV.ph">
-    <title lang="en">Darating Ang Umaga</title>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260930154500 +0800" stop="20260930170000 +0800" channel="Jeepney.TV.ph">
-    <title lang="en">Magkano Ang Iyong Dangal?</title>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260930170000 +0800" stop="20260930174500 +0800" channel="Jeepney.TV.ph">
-    <title lang="en">Huwag Kang Mangamba</title>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260930174500 +0800" stop="20260930183000 +0800" channel="Jeepney.TV.ph">
-    <title lang="en">The Better Half</title>
-    <category lang="en">Drama</category>
-    <category lang="en">Romance</category>
-  </programme>
-  <programme start="20260930183000 +0800" stop="20260930193000 +0800" channel="Jeepney.TV.ph">
-    <title lang="en">Los Bastardos</title>
-    <category lang="en">Action/Adventure</category>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260930193000 +0800" stop="20260930200000 +0800" channel="Jeepney.TV.ph">
-    <title lang="en">Bukas Na Lang Kita Mamahalin</title>
-    <category lang="en">Drama</category>
-    <category lang="en">Soap opera</category>
-  </programme>
-  <programme start="20260930200000 +0800" stop="20260930204500 +0800" channel="Jeepney.TV.ph">
-    <title lang="en">Dream Dad</title>
-    <category lang="en">Comedy</category>
-    <category lang="en">Kids/Family</category>
-  </programme>
-  <programme start="20260930204500 +0800" stop="20260930213000 +0800" channel="Jeepney.TV.ph">
-    <title lang="en">Imortal</title>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-  </programme>
-  <programme start="20260930213000 +0800" stop="20260930220000 +0800" channel="Jeepney.TV.ph">
-    <title lang="en">The Good Son</title>
   </programme>
   <programme start="20260930220000 +0800" stop="20260930231500 +0800" channel="Jeepney.TV.ph">
     <title lang="en">Magkano Ang Iyong Dangal?</title>
@@ -56473,64 +56238,6 @@
   <programme start="20261001033000 +0800" stop="20261001044500 +0800" channel="Jeepney.TV.ph">
     <title lang="en">Magkano Ang Iyong Dangal?</title>
     <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260930083000 +0800" stop="20260930103000 +0800" channel="Kapamilya.Channel.ph">
-    <title lang="en">Blockbuster Sa Umaga</title>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20260930103000 +0800" stop="20260930110000 +0800" channel="Kapamilya.Channel.ph">
-    <title lang="en">Oh My Gan!</title>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20260930110000 +0800" stop="20260930120000 +0800" channel="Kapamilya.Channel.ph">
-    <title lang="en">Face 2 Face with Ate Koring</title>
-    <category lang="en">Talk</category>
-  </programme>
-  <programme start="20260930120000 +0800" stop="20260930143000 +0800" channel="Kapamilya.Channel.ph">
-    <title lang="en">It's Showtime</title>
-    <category lang="en">Game</category>
-    <category lang="en">Variety Show</category>
-  </programme>
-  <programme start="20260930143000 +0800" stop="20260930151500 +0800" channel="Kapamilya.Channel.ph">
-    <title lang="en">My Bespren Emman: Ang Totoong Laban</title>
-    <category lang="en">Action/Adventure</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Thriller</category>
-  </programme>
-  <programme start="20260930151500 +0800" stop="20260930160000 +0800" channel="Kapamilya.Channel.ph">
-    <title lang="en">Can't Buy Me Love</title>
-    <category lang="en">Drama</category>
-    <category lang="en">Teens</category>
-  </programme>
-  <programme start="20260930160000 +0800" stop="20260930164500 +0800" channel="Kapamilya.Channel.ph">
-    <title lang="en">High Street</title>
-    <category lang="en">Drama</category>
-    <category lang="en">Teens</category>
-  </programme>
-  <programme start="20260930164500 +0800" stop="20260930173000 +0800" channel="Kapamilya.Channel.ph">
-    <title lang="en">Happiness</title>
-    <category lang="en">Animation/Cartoon</category>
-  </programme>
-  <programme start="20260930173000 +0800" stop="20260930174500 +0800" channel="Kapamilya.Channel.ph">
-    <title lang="en">TV Patrol Express</title>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20260930174500 +0800" stop="20260930183000 +0800" channel="Kapamilya.Channel.ph">
-    <title lang="en">Minute To Win It</title>
-  </programme>
-  <programme start="20260930183000 +0800" stop="20260930200000 +0800" channel="Kapamilya.Channel.ph">
-    <title lang="en">TV Patrol</title>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260930200000 +0800" stop="20260930204500 +0800" channel="Kapamilya.Channel.ph">
-    <title lang="en">Sigabo</title>
-    <category lang="en">Action/Adventure</category>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260930204500 +0800" stop="20260930213000 +0800" channel="Kapamilya.Channel.ph">
-    <title lang="en">Someone, Someday</title>
-    <category lang="en">Drama</category>
-    <category lang="en">Romance</category>
   </programme>
   <programme start="20260930213000 +0800" stop="20260930221500 +0800" channel="Kapamilya.Channel.ph">
     <title lang="en">A Secret In Prague</title>
@@ -56649,119 +56356,6 @@
   <programme start="20261001033000 +0800" stop="20261001040000 +0800" channel="Net.25.ph">
     <title lang="en">Turning Point</title>
   </programme>
-  <programme start="20260930091500 +0800" stop="20260930110000 +0800" channel="PBO.ph">
-    <title lang="en">Ikaw Lamang Hanggang Ngayon</title>
-    <credits>
-      <actor>Richard Gomez</actor>
-      <actor>Regine Velasquez</actor>
-      <actor>Candy Pangilinan</actor>
-    </credits>
-    <date>2001</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Romance</category>
-    <rating system="MTRCB">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260930110000 +0800" stop="20260930113000 +0800" channel="PBO.ph">
-    <title lang="en">Anong Ganap?</title>
-  </programme>
-  <programme start="20260930113000 +0800" stop="20260930133000 +0800" channel="PBO.ph">
-    <title lang="en">Pangako Sa 'Yo</title>
-    <credits>
-      <director>Pepe Marcos</director>
-    </credits>
-    <date>1992</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260930133000 +0800" stop="20260930151500 +0800" channel="PBO.ph">
-    <title lang="en">Hustler</title>
-    <credits>
-      <actor>Jacky Woo</actor>
-      <actor>Via Veloso</actor>
-      <actor>Ricardo Cepeda</actor>
-      <actor>John Apacible</actor>
-      <actor>German Moreno</actor>
-    </credits>
-    <date>2002</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Action</category>
-    <rating system="MTRCB">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260930151500 +0800" stop="20260930173000 +0800" channel="PBO.ph">
-    <title lang="en">Buhay Kamao</title>
-    <credits>
-      <actor>Robin Padilla</actor>
-      <actor>Rica Peralejo</actor>
-      <actor>Bobby Andrews</actor>
-      <actor>Raymond Bagatsing</actor>
-    </credits>
-    <date>2001</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Action</category>
-    <rating system="MTRCB">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260930173000 +0800" stop="20260930191500 +0800" channel="PBO.ph">
-    <title lang="en">The Write Moment</title>
-    <desc lang="en">It tells the story of a heartbroken writer who tries to get back with an ex through his romantic comedy script but fails and instead finds himself magically living out the scenes he has written.</desc>
-    <credits>
-      <director>Dominic Lim</director>
-      <actor>Jerald Napoles</actor>
-      <actor>Valeen Montenegro</actor>
-      <actor>Dennis Padilla</actor>
-      <actor>Cherry Malvar</actor>
-      <actor>Nor Domingo</actor>
-      <writer>Dominic Lim</writer>
-    </credits>
-    <date>2018</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Romance</category>
-    <country lang="en">Philippines</country>
-    <rating system="MTRCB">
-      <value>R-13</value>
-    </rating>
-  </programme>
-  <programme start="20260930191500 +0800" stop="20260930213000 +0800" channel="PBO.ph">
-    <title lang="en">Indak</title>
-    <desc lang="en">This song-and-dance musical follows the journey of an island girl with a natural gift for dancing as she navigates through life in the city to follow her dreams and find love along the way.</desc>
-    <credits>
-      <actor>Sam Concepcion</actor>
-      <actor>Nadine Lustre</actor>
-      <actor>Yayo Aguila</actor>
-      <actor>Julian Trono</actor>
-      <actor>Rose Van Ginkel</actor>
-      <actor>Mayton Eugenio</actor>
-      <actor>Kedebon Colim</actor>
-      <actor>Christian Morones</actor>
-      <actor>Nicole Omillo</actor>
-      <actor>Andrew Muhlach</actor>
-      <actor>Aubrey  Caraan</actor>
-      <actor>AJ Raval</actor>
-      <writer>Juvy Galamiton</writer>
-      <writer>Regene Estolatan</writer>
-      <producer>Vic Del Rosario Jr.</producer>
-      <producer>Veronique del Rosario-Corpus</producer>
-    </credits>
-    <date>2019</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Music</category>
-    <category lang="en">Romance</category>
-    <country lang="en">Philippines</country>
-    <rating system="MTRCB">
-      <value>PG</value>
-    </rating>
-    <star-rating system="Critics">
-      <value>3.0</value>
-    </star-rating>
-  </programme>
   <programme start="20260930213000 +0800" stop="20260930233000 +0800" channel="PBO.ph">
     <title lang="en">Mia</title>
     <desc lang="en">A nerdy forester, Jay Policarpio, who transforms mined-out land into rain forests pursues the self-destructive alcoholic, Mia Salazar, who recently joined the government's Doctor To The Barrios program to heal the tragedy of her fiance's death.</desc>
@@ -56784,49 +56378,45 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20260930100000 +0800" stop="20260930120000 +0800" channel="PTV.ph">
-    <title lang="en">The Impeachment Trial</title>
-    <category lang="en">Special</category>
+  <programme start="20260930233000 +0800" stop="20261001013000 +0800" channel="PBO.ph">
+    <title lang="en">On Vodka, Beers and Regrets</title>
+    <desc lang="en">It follows the story of Jane Pineda, a washed-up actress and former child star whose career hits rock bottom. Struggling to get movie roles and trying to escape from a big scandal, Jane seeks comfort in alcohol. She then meets Francis who’s a vocalist of a band.</desc>
+    <credits>
+      <actor>Bela Padilla</actor>
+      <actor>JC Santos</actor>
+      <actor>Matteo Guidicelli</actor>
+      <actor>Kean Cipriano</actor>
+      <actor>Danita Paner</actor>
+      <actor>Rio Locsin</actor>
+      <producer>Veronique del Rosario-Corpus</producer>
+      <producer>Vic Del Rosario Jr.</producer>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Romance</category>
+    <country lang="en">Philippines</country>
+    <rating system="MTRCB">
+      <value>R-13</value>
+    </rating>
+    <star-rating system="Critics">
+      <value>4.5</value>
+    </star-rating>
   </programme>
-  <programme start="20260930120000 +0800" stop="20260930130000 +0800" channel="PTV.ph">
-    <title lang="en">Bagong Pilipinas Ngayon</title>
-    <category lang="en">News</category>
-    <category lang="en">Talk</category>
-  </programme>
-  <programme start="20260930130000 +0800" stop="20260930140000 +0800" channel="PTV.ph">
-    <title lang="en">Sentro Balita</title>
-    <category lang="en">News</category>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20260930140000 +0800" stop="20260930160000 +0800" channel="PTV.ph">
-    <title lang="en">The Impeachment Trial</title>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20260930160000 +0800" stop="20260930170000 +0800" channel="PTV.ph">
-    <title lang="en">Kangrunaan A Damag</title>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20260930170000 +0800" stop="20260930180000 +0800" channel="PTV.ph">
-    <title lang="en">PTV News Mindanao</title>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260930180000 +0800" stop="20260930190000 +0800" channel="PTV.ph">
-    <title lang="en">Ulat Bayan</title>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260930190000 +0800" stop="20260930193000 +0800" channel="PTV.ph">
-    <title lang="en">Dayaw</title>
-  </programme>
-  <programme start="20260930193000 +0800" stop="20260930200000 +0800" channel="PTV.ph">
-    <title lang="en">Code Red</title>
-  </programme>
-  <programme start="20260930200000 +0800" stop="20260930210000 +0800" channel="PTV.ph">
-    <title lang="en">Presidential Coverage</title>
-    <category lang="en">Talk</category>
-  </programme>
-  <programme start="20260930210000 +0800" stop="20260930220000 +0800" channel="PTV.ph">
-    <title lang="en">PTV News Tonight</title>
-    <category lang="en">News</category>
+  <programme start="20261001013000 +0800" stop="20261001033000 +0800" channel="PBO.ph">
+    <title lang="en">Sugo Ng Tondo</title>
+    <credits>
+      <actor>Joko Diaz</actor>
+      <actor>Raymond Bagatsing</actor>
+      <actor>Rommel Montano</actor>
+    </credits>
+    <date>2000</date>
+    <category lang="en">Action/Adventure</category>
+    <category lang="en">Movie</category>
+    <category lang="en">Action</category>
+    <rating system="MTRCB">
+      <value>PG</value>
+    </rating>
   </programme>
   <programme start="20260930220000 +0800" stop="20260930230000 +0800" channel="PTV.ph">
     <title lang="en">Bagong Pilipinas Ngayon</title>
@@ -107650,171 +107240,6 @@
     <url>http://www.mydishtv.in</url>
     <display-name lang="en">MOVIES NOW</display-name>
   </channel>
-  <programme channel="MOVIES.NOW.in" start="20260930083100 +0530" stop="20260930105900 +0530">
-    <title lang="en">Transformers: Dark of the Moon</title>
-    <desc lang="en">The Decepticons are trying to learn the secrets of a stranded Cybertronian spacecraft. Sam Witwicky and the Autobots must stop them before it is too late.</desc>
-    <credits>
-      <actor>Shia LaBeouf</actor>
-      <actor>Josh Duhamel</actor>
-      <actor>John Turturro</actor>
-      <actor>Tyrese Gibson</actor>
-      <actor>Rosie Huntington-Whiteley</actor>
-      <actor>Patrick Dempsey</actor>
-      <actor>Kevin Dunn</actor>
-      <actor>Julie White</actor>
-      <actor>Ken Jeong</actor>
-      <actor>John Malkovich</actor>
-      <actor>Frances McDormand</actor>
-      <actor>Peter Cullen</actor>
-      <actor>Hugo Weaving</actor>
-      <actor>Leonard Nimoy</actor>
-      <actor>Chris Sheffield</actor>
-      <director>Michael Bay</director>
-      <producer>Lorenzo di Bonaventura</producer>
-      <producer>Tom DeSanto</producer>
-      <producer>Don Murphy</producer>
-      <producer>Ian Bryce</producer>
-    </credits>
-    <category lang="en">Film</category>
-    <category lang="en">Action</category>
-    <icon src="https://dtil.tmsimg.com/assets/p8176375_v_h9_aa.jpg?lock=880x660" />
-  </programme>
-  <programme channel="MOVIES.NOW.in" start="20260930105900 +0530" stop="20260930130000 +0530">
-    <title lang="en">The Mummy</title>
-    <desc lang="en">Rick and his group accidentally awaken a mummy during an archaeological excavation.</desc>
-    <credits>
-      <actor>Brendan Fraser</actor>
-      <actor>Rachel Weisz</actor>
-      <actor>John Hannah</actor>
-      <actor>Arnold Vosloo</actor>
-      <actor>Kevin J. O'Connor</actor>
-      <actor>Jonathan Hyde</actor>
-      <actor>Oded Fehr</actor>
-      <actor>Erick Avari</actor>
-      <actor>Stephen Dunham</actor>
-      <actor>Corey Johnson</actor>
-      <actor>Tuc Watkins</actor>
-      <actor>Omid Djalili</actor>
-      <actor>Aharon Ipalé</actor>
-      <actor>Bernard Fox</actor>
-      <actor>Patricia Velasquez</actor>
-      <actor>Carl Chase</actor>
-      <actor>Mohammed Afifi</actor>
-      <director>Stephen Sommers</director>
-      <producer>Sean Daniel</producer>
-      <producer>James Jacks</producer>
-    </credits>
-    <category lang="en">Film</category>
-    <category lang="en">Action</category>
-    <icon src="https://dtil.tmsimg.com/assets/p23111_v_h9_ab.jpg?lock=880x660" />
-  </programme>
-  <programme channel="MOVIES.NOW.in" start="20260930130000 +0530" stop="20260930145800 +0530">
-    <title lang="en">Warcraft</title>
-    <desc lang="en">A few human survivors must team up with a group of dissenting Orcs to stop an Orc horde from invading their planet through a magic portal.</desc>
-    <credits>
-      <actor>Travis Fimmel</actor>
-      <actor>Paula Patton</actor>
-      <actor>Ben Foster</actor>
-      <actor>Dominic Cooper</actor>
-      <actor>Toby Kebbell</actor>
-      <actor>Ben Schnetzer</actor>
-      <actor>Robert Kazinsky</actor>
-      <actor>Clancy Brown</actor>
-      <actor>Daniel Wu</actor>
-      <actor>Ruth Negga</actor>
-      <actor>Anna Galvin</actor>
-      <actor>Callum Keith Rennie</actor>
-      <actor>Burkely Duffield</actor>
-      <actor>Ryan Robbins</actor>
-      <actor>Dean Redman</actor>
-      <actor>Glenn Ennis</actor>
-      <director>Duncan Jones</director>
-      <producer>Charles Roven</producer>
-      <producer>Thomas Tull</producer>
-      <producer>Jon Jashni</producer>
-      <producer>Alex Gartner</producer>
-      <producer>Stuart Fenegan</producer>
-    </credits>
-    <category lang="en">Film</category>
-    <category lang="en">Action</category>
-    <icon src="https://dtil.tmsimg.com/assets/p11882721_v_h9_ag.jpg?lock=880x660" />
-  </programme>
-  <programme channel="MOVIES.NOW.in" start="20260930145800 +0530" stop="20260930171200 +0530">
-    <title lang="en">Terminator 2: Judgment Day</title>
-    <desc lang="en">John, son of Sarah Connor, sends a reprogrammed Terminator to protect his younger self, who also holds the key to humanity's survival, from the T-1000, an advanced robot created by Skynet.</desc>
-    <credits>
-      <actor>Arnold Schwarzenegger</actor>
-      <actor>Linda Hamilton</actor>
-      <actor>Edward Furlong</actor>
-      <actor>Robert Patrick</actor>
-      <actor>Earl Boen</actor>
-      <actor>Joe Morton</actor>
-      <actor>S. Epatha Merkerson</actor>
-      <actor>Castulo Guerra</actor>
-      <actor>Danny Cooksey</actor>
-      <actor>Jenette Goldstein</actor>
-      <actor>Xander Berkeley</actor>
-      <director>James Cameron</director>
-      <producer>Van Ling</producer>
-    </credits>
-    <category lang="en">Film</category>
-    <category lang="en">Thriller</category>
-    <icon src="https://dtil.tmsimg.com/assets/p13308_v_h9_as.jpg?lock=880x660" />
-  </programme>
-  <programme channel="MOVIES.NOW.in" start="20260930171200 +0530" stop="20260930184500 +0530">
-    <title lang="en">The Trust</title>
-    <desc lang="en">Two financially stressed police officers discover that a petty drug dealer has hidden large amounts of money in a safe, and they plot to steal it. However, things do not go as planned.</desc>
-    <credits>
-      <actor>Nicolas Cage</actor>
-      <actor>Elijah Wood</actor>
-      <actor>Jerry Lewis</actor>
-      <actor>Kevin Weisman</actor>
-      <actor>Steven Williams</actor>
-      <actor>Christie Beran</actor>
-      <actor>Keston John</actor>
-      <actor>Alexandria Lee</actor>
-      <director>Alex Brewer</director>
-      <director>Benjamin Brewer</director>
-      <producer>Molly Hassell</producer>
-      <producer>Braxton Pope</producer>
-    </credits>
-    <category lang="en">Film</category>
-    <category lang="en">Thriller</category>
-    <icon src="https://dtil.tmsimg.com/assets/p12583797_v_h9_ae.jpg?lock=880x660" />
-  </programme>
-  <programme channel="MOVIES.NOW.in" start="20260930184500 +0530" stop="20260930204500 +0530">
-    <title lang="en">Transformers: Rise of the Beasts</title>
-    <desc lang="en">As a nefarious force imperils Earth, an unlikely alliance forms between Optimus Prime's Autobots and the mighty Maximals, aided by two humans to safeguard mankind's future.</desc>
-    <credits>
-      <actor>Anthony Ramos</actor>
-      <actor>Dominique Fishback</actor>
-      <actor>Peter Cullen</actor>
-      <actor>Michelle Yeoh</actor>
-      <actor>Peter Dinklage</actor>
-      <actor>Ron Perlman</actor>
-      <actor>Pete Davidson</actor>
-      <actor>Colman Domingo</actor>
-      <actor>Dean Scott Vazquez</actor>
-      <actor>Luna Lauren Velez</actor>
-      <actor>Cristo Fernández</actor>
-      <actor>John DiMaggio</actor>
-      <actor>Michaela Jaé Rodriguez</actor>
-      <actor>Tobe Nwigwe</actor>
-      <actor>Liza Koshy</actor>
-      <actor>David Sobolov</actor>
-      <actor>Tongai Arnold Chirisa</actor>
-      <director>Steven Caple Jr.</director>
-      <producer>Lorenzo di Bonaventura</producer>
-      <producer>Tom DeSanto</producer>
-      <producer>Don Murphy</producer>
-      <producer>Michael Bay</producer>
-      <producer>Mark Vahradian</producer>
-      <producer>Duncan Henderson</producer>
-    </credits>
-    <category lang="en">Film</category>
-    <category lang="en">Action</category>
-    <icon src="https://dtil.tmsimg.com/assets/p20201199_v_h9_aw.jpg?lock=880x660" />
-  </programme>
   <programme channel="MOVIES.NOW.in" start="20260930204500 +0530" stop="20260930225100 +0530">
     <title lang="en">Godzilla: King of the Monsters</title>
     <desc lang="en">A legendary monster named King Ghidorah awakens Rodan, as well as other titans, to destroy the world. To defeat them, the crypto-zoological organisation Monarch must rely on the almighty Godzilla.</desc>
@@ -108170,6 +107595,200 @@
     <category lang="en">Film</category>
     <category lang="en">Action</category>
     <icon src="https://dtil.tmsimg.com/assets/p32279_v_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme channel="MOVIES.NOW.in" start="20261001091500 +0530" stop="20261001113500 +0530">
+    <title lang="en">Mission: Impossible -- Fallout</title>
+    <desc lang="en">After a crucial operation goes wrong, IMF Agent Ethan Hunt and his team must work together with a few allies to prevent a nuclear attack.</desc>
+    <credits>
+      <actor>Tom Cruise</actor>
+      <actor>Henry Cavill</actor>
+      <actor>Ving Rhames</actor>
+      <actor>Simon Pegg</actor>
+      <actor>Rebecca Ferguson</actor>
+      <actor>Sean Harris</actor>
+      <actor>Angela Bassett</actor>
+      <actor>Michelle Monaghan</actor>
+      <actor>Alec Baldwin</actor>
+      <actor>Vanessa Kirby</actor>
+      <actor>Wes Bentley</actor>
+      <actor>Frederick Schmidt</actor>
+      <actor>Wolf Blitzer</actor>
+      <director>Christopher McQuarrie</director>
+      <producer>Tom Cruise</producer>
+      <producer>Jake Myers</producer>
+      <producer>J.J. Abrams</producer>
+    </credits>
+    <category lang="en">Film</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://dtil.tmsimg.com/assets/p13492451_v_h9_bm.jpg?lock=880x660" />
+  </programme>
+  <programme channel="MOVIES.NOW.in" start="20261001113500 +0530" stop="20261001134000 +0530">
+    <title lang="en">Godzilla: King of the Monsters</title>
+    <desc lang="en">A legendary monster named King Ghidorah awakens Rodan, as well as other titans, to destroy the world. To defeat them, the crypto-zoological organisation Monarch must rely on the almighty Godzilla.</desc>
+    <credits>
+      <actor>Kyle Chandler</actor>
+      <actor>Vera Farmiga</actor>
+      <actor>Millie Bobby Brown</actor>
+      <actor>Ken Watanabe</actor>
+      <actor>Zhang Ziyi</actor>
+      <actor>Bradley Whitford</actor>
+      <actor>Sally Hawkins</actor>
+      <actor>Charles Dance</actor>
+      <actor>Thomas Middleditch</actor>
+      <actor>Aisha Hinds</actor>
+      <actor>O'Shea Jackson Jr.</actor>
+      <actor>David Strathairn</actor>
+      <actor>Anthony Ramos</actor>
+      <actor>Elizabeth Ludlow</actor>
+      <actor>Jonathan Howard</actor>
+      <actor>CCH Pounder</actor>
+      <actor>Joe Morton</actor>
+      <director>Michael Dougherty</director>
+      <producer>Mary Parent</producer>
+      <producer>Alex Garcia</producer>
+      <producer>Thomas Tull</producer>
+      <producer>Jon Jashni</producer>
+      <producer>Brian Rogers</producer>
+    </credits>
+    <category lang="en">Film</category>
+    <category lang="en">Action</category>
+    <icon src="https://dtil.tmsimg.com/assets/p13796942_v_h9_av.jpg?lock=880x660" />
+  </programme>
+  <programme channel="MOVIES.NOW.in" start="20261001134000 +0530" stop="20261001151500 +0530">
+    <title lang="en">Despicable Me</title>
+    <desc lang="en">A supervillain's plan to steal the moon is upended by three young orphans.</desc>
+    <credits>
+      <actor>Steve Carell</actor>
+      <actor>Jason Segel</actor>
+      <actor>Russell Brand</actor>
+      <actor>Julie Andrews</actor>
+      <actor>Will Arnett</actor>
+      <actor>Kristen Wiig</actor>
+      <actor>Miranda Cosgrove</actor>
+      <actor>Dana Gaier</actor>
+      <actor>Elsie Kate Fisher</actor>
+      <director>Chris Renaud</director>
+      <director>Pierre Coffin</director>
+      <producer>Christopher Meledandri</producer>
+      <producer>John Cohen</producer>
+      <producer>Janet Healy</producer>
+    </credits>
+    <category lang="en">Film</category>
+    <category lang="en">Animation</category>
+    <icon src="https://dtil.tmsimg.com/assets/p8000398_v_h9_af.jpg?lock=880x660" />
+  </programme>
+  <programme channel="MOVIES.NOW.in" start="20261001151500 +0530" stop="20261001170000 +0530">
+    <title lang="en">Ted 2</title>
+    <desc lang="en">Ted, a living teddy bear, decides to have a baby with his human wife, Tami-Lynn. However, their plan hits a roadblock when the court declares Ted to be property and not a person.</desc>
+    <credits>
+      <actor>Mark Wahlberg</actor>
+      <actor>Seth MacFarlane</actor>
+      <actor>Amanda Seyfried</actor>
+      <actor>Jessica Barth</actor>
+      <actor>Giovanni Ribisi</actor>
+      <actor>Morgan Freeman</actor>
+      <actor>Sam Jones</actor>
+      <actor>Patrick Warburton</actor>
+      <actor>Michael Dorn</actor>
+      <actor>Bill Smitrovich</actor>
+      <actor>John Slattery</actor>
+      <actor>Cocoa Brown</actor>
+      <actor>John Carroll Lynch</actor>
+      <actor>Ron Canada</actor>
+      <actor>Liam Neeson</actor>
+      <actor>Dennis Haysbert</actor>
+      <actor>Patrick Stewart</actor>
+      <actor>Tom Brady</actor>
+      <actor>Jay Leno</actor>
+      <actor>Jimmy Kimmel</actor>
+      <actor>Kate McKinnon</actor>
+      <actor>Bobby Moynihan</actor>
+      <actor>Taran Killam</actor>
+      <director>Seth MacFarlane</director>
+      <producer>Scott Stuber</producer>
+      <producer>Jason Clark</producer>
+      <producer>John Jacobs</producer>
+    </credits>
+    <category lang="en">Film</category>
+    <category lang="en">Fantasy</category>
+    <icon src="https://dtil.tmsimg.com/assets/p10975254_v_h9_bc.jpg?lock=880x660" />
+  </programme>
+  <programme channel="MOVIES.NOW.in" start="20261001170000 +0530" stop="20261001184500 +0530">
+    <title lang="en">Baywatch</title>
+    <desc lang="en">Mitch Buchannon, the respected and beloved lifeguard of Florida's Baywatch, assembles a new team to take down a drug baron and safeguard the beach.</desc>
+    <credits>
+      <actor>Dwayne Johnson</actor>
+      <actor>Zac Efron</actor>
+      <actor>Priyanka Chopra Jonas</actor>
+      <actor>Alexandra Daddario</actor>
+      <actor>Kelly Rohrbach</actor>
+      <actor>Jon Bass</actor>
+      <director>Seth Gordon</director>
+      <producer>Ivan Reitman</producer>
+      <producer>Beau Flynn</producer>
+      <producer>Michael Berk</producer>
+      <producer>Douglas Schwartz</producer>
+      <producer>Gregory J. Bonann</producer>
+    </credits>
+    <category lang="en">Film</category>
+    <category lang="en">Action</category>
+    <icon src="https://dtil.tmsimg.com/assets/p28586280_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme channel="MOVIES.NOW.in" start="20261001184500 +0530" stop="20261001204500 +0530">
+    <title lang="en">Warcraft</title>
+    <desc lang="en">A few human survivors must team up with a group of dissenting Orcs to stop an Orc horde from invading their planet through a magic portal.</desc>
+    <credits>
+      <actor>Travis Fimmel</actor>
+      <actor>Paula Patton</actor>
+      <actor>Ben Foster</actor>
+      <actor>Dominic Cooper</actor>
+      <actor>Toby Kebbell</actor>
+      <actor>Ben Schnetzer</actor>
+      <actor>Robert Kazinsky</actor>
+      <actor>Clancy Brown</actor>
+      <actor>Daniel Wu</actor>
+      <actor>Ruth Negga</actor>
+      <actor>Anna Galvin</actor>
+      <actor>Callum Keith Rennie</actor>
+      <actor>Burkely Duffield</actor>
+      <actor>Ryan Robbins</actor>
+      <actor>Dean Redman</actor>
+      <actor>Glenn Ennis</actor>
+      <director>Duncan Jones</director>
+      <producer>Charles Roven</producer>
+      <producer>Thomas Tull</producer>
+      <producer>Jon Jashni</producer>
+      <producer>Alex Gartner</producer>
+      <producer>Stuart Fenegan</producer>
+    </credits>
+    <category lang="en">Film</category>
+    <category lang="en">Action</category>
+    <icon src="https://dtil.tmsimg.com/assets/p11882721_v_h9_ag.jpg?lock=880x660" />
+  </programme>
+  <programme channel="MOVIES.NOW.in" start="20261001204500 +0530" stop="20261001221500 +0530">
+    <title lang="en">Kung Fu Panda 2</title>
+    <desc lang="en">Dragon Warrior Po takes it upon himself to foil the plans of murderous peacock Shen who intends to conquer China and destroy kung fu. For this, Po has to unveil the mystery of his own past.</desc>
+    <credits>
+      <actor>Jack Black</actor>
+      <actor>Angelina Jolie</actor>
+      <actor>Dustin Hoffman</actor>
+      <actor>Gary Oldman</actor>
+      <actor>Jackie Chan</actor>
+      <actor>Seth Rogen</actor>
+      <actor>Lucy Liu</actor>
+      <actor>David Cross</actor>
+      <actor>James Hong</actor>
+      <actor>Michelle Yeoh</actor>
+      <actor>Danny McBride</actor>
+      <actor>Dennis Haysbert</actor>
+      <actor>Jean-Claude Van Damme</actor>
+      <actor>Victor Garber</actor>
+      <director>Jennifer Yuh Nelson</director>
+      <producer>Melissa Cobb</producer>
+    </credits>
+    <category lang="en">Film</category>
+    <category lang="en">Animation</category>
+    <icon src="https://dtil.tmsimg.com/assets/p3575546_v_h9_ae.jpg?lock=880x660" />
   </programme>
   <channel id="413152">
     <display-name lang="Russian Federation">beIN Sports Xtra [US]</display-name>
