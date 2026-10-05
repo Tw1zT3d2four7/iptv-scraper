@@ -55441,7 +55441,6 @@
   <channel id="IBC.TV.13.ph">
     <display-name lang="en">IBC TV 13</display-name>
     <icon src="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/18091206/gma13-logo-300x300.png" />
-    <icon src="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/18091206/gma13-logo-300x300.png" />
     <url>http://www.clickthecity.com</url>
   </channel>
   <channel id="Jeepney.TV.ph">
@@ -55673,146 +55672,6 @@
   <programme start="20261006040000 +0800" stop="20261006043000 +0800" channel="ANC.ph">
     <title lang="en">Women of Style</title>
   </programme>
-  <programme start="20261005100000 +0800" stop="20261005110000 +0800" channel="Cinema.One.ph">
-    <title lang="en">The B Side</title>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20261005110000 +0800" stop="20261005130000 +0800" channel="Cinema.One.ph">
-    <title lang="en">And I Love You So</title>
-    <desc lang="en">A widowed preschool teacher still depressed over the loss of her husband strikes up a friendship with a man who has also just lost his spouse. The two help each other deal with their sadness, and soon find a new love growing between them.</desc>
-    <credits>
-      <director>Laurenti M. Dyogi</director>
-      <actor>Bea Alonzo</actor>
-      <actor>Sam Milby</actor>
-      <actor>Derek Ramsay</actor>
-      <actor>Candy Pangilinan</actor>
-      <actor>Nikki Gil</actor>
-      <actor>Coney Reyes</actor>
-      <actor>Dick Israel</actor>
-      <actor>Kakai Bautista</actor>
-      <actor>RJ Ledesma</actor>
-      <actor>Angel Jacob</actor>
-      <actor>Jannah Dominguez</actor>
-      <actor>Maricar Reyes</actor>
-      <writer>Vanessa Valdez</writer>
-      <writer>Jacqui Franquelli</writer>
-      <producer>Malou N. Santos</producer>
-      <producer>Elma S. Medua</producer>
-      <producer>Carmi Raymundo</producer>
-      <producer>Kara U. Kintanar</producer>
-    </credits>
-    <date>2009</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Romance</category>
-    <icon src="http://www.clickthecity.com/movies/img/12314.jpg" />
-    <country lang="en">Philippines</country>
-    <rating system="MTRCB">
-      <value>PG</value>
-    </rating>
-    <star-rating system="Critics">
-      <value>3.5</value>
-    </star-rating>
-  </programme>
-  <programme start="20261005130000 +0800" stop="20261005150000 +0800" channel="Cinema.One.ph">
-    <title lang="en">Mary, Marry Me</title>
-    <desc lang="en">Sisters Mary Jane and Mary Anne find themselves fighting over a groom-to-be.</desc>
-    <credits>
-      <director>RC Delos Reyes</director>
-      <actor>Toni Gonzaga</actor>
-      <actor>Sam Milby</actor>
-      <actor>Alex Gonzaga</actor>
-      <actor>Bayani Agbayani</actor>
-      <actor>Moi  Bien</actor>
-      <actor>Melai Cantiveros</actor>
-    </credits>
-    <date>2018</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Romance</category>
-    <country lang="en">Philippines</country>
-    <rating system="MTRCB">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20261005150000 +0800" stop="20261005170000 +0800" channel="Cinema.One.ph">
-    <title lang="en">Oops Teka Lang...Diskarte Ko To!</title>
-    <credits>
-      <director>Jose N. Carreon</director>
-    </credits>
-    <date>2001</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Action</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Romance</category>
-    <rating system="MTRCB">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20261005170000 +0800" stop="20261005190000 +0800" channel="Cinema.One.ph">
-    <title lang="en">Can't Help Falling In Love</title>
-    <desc lang="en">Gab de la Cuesta is a high-strung career woman who got recently engaged to her longtime boyfriend. Her well-planned life suddenly becomes complicated when she discovers that she is actually married to a total stranger.</desc>
-    <credits>
-      <director>Mae Cruz-Alviar</director>
-      <actor>Daniel Padilla</actor>
-      <actor>Kathryn Bernardo</actor>
-      <actor>Matteo Guidicelli</actor>
-      <actor>Cherry Pie Picache</actor>
-      <actor>Lito Pimentel</actor>
-      <actor>Lotlot De Leon</actor>
-      <actor>Dennis Padilla</actor>
-      <actor>Joross Gamboa</actor>
-      <actor>Janus Del Prado</actor>
-      <actor>Pinky Amador</actor>
-      <actor>Johnny Revilla</actor>
-      <actor>Hannah Ledesma</actor>
-      <actor>Devon Seron</actor>
-      <actor>Earl Ignacio</actor>
-      <actor>Nina Dolino</actor>
-      <actor>Clarence Delgado</actor>
-      <actor>Belle Mariano</actor>
-      <writer>Carmi Raymundo</writer>
-      <writer>Kristine Gabriel</writer>
-    </credits>
-    <date>2017</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Romance</category>
-    <country lang="en">Philippines</country>
-    <rating system="MTRCB">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20261005190000 +0800" stop="20261005210000 +0800" channel="Cinema.One.ph">
-    <title lang="en">My Cactus Heart</title>
-    <desc lang="en">A young woman who doesn't believe in love has gained a reputation for breaking her suitors' hearts. In spite of this, she soon finds herself in the middle of a love triangle, her two new suitors making her question her approach to relationships.</desc>
-    <credits>
-      <director>Enrico C. Santos</director>
-      <actor>Maja Salvador</actor>
-      <actor>Matteo Guidicelli</actor>
-      <actor>Xian Lim</actor>
-      <actor>Ricky Davao</actor>
-      <actor>Rosanna Roces</actor>
-      <actor>Ramon Christopher Gutierrez</actor>
-      <writer>Enrico C. Santos</writer>
-      <writer>Ricardo Fernando III</writer>
-      <writer>Raz Dela Torre</writer>
-      <writer>Jerry Gracio</writer>
-    </credits>
-    <date>2012</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Romance</category>
-    <icon src="http://www.clickthecity.com/movies/img/13534.jpg" />
-    <country lang="en">Philippines</country>
-    <rating system="MTRCB">
-      <value>PG</value>
-    </rating>
-    <star-rating system="Critics">
-      <value>2.5</value>
-    </star-rating>
-  </programme>
   <programme start="20261005210000 +0800" stop="20261005230000 +0800" channel="Cinema.One.ph">
     <title lang="en">Kasal (2018)</title>
     <desc lang="en">Lia is set to marry Cebu's most eligible bachelor and mayoral candidate Philip. Conflict begins when Lia's ex boyfriend Wado works for them in a project that will potentially help Philip win the elections.</desc>
@@ -55973,84 +55832,6 @@
   <programme start="20261005230500 +0800" stop="20261005232500 +0800" channel="GTV.ph">
     <title lang="en">State Of The Nation</title>
     <category lang="en">Talk</category>
-  </programme>
-  <programme start="20261005100000 +0800" stop="20261005101500 +0800" channel="IBC.TV.13.ph">
-    <title lang="en">Treze Express Balita</title>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20261005101500 +0800" stop="20261005120000 +0800" channel="IBC.TV.13.ph">
-    <title lang="en">#IPABITAGMO - Sumbungan Ng Sambayanan</title>
-    <category lang="en">Reality</category>
-  </programme>
-  <programme start="20261005120000 +0800" stop="20261005121500 +0800" channel="IBC.TV.13.ph">
-    <title lang="en">Treze Express Balita</title>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20261005121500 +0800" stop="20261005130000 +0800" channel="IBC.TV.13.ph">
-    <title lang="en">Ang Paglilitis</title>
-  </programme>
-  <programme start="20261005130000 +0800" stop="20261005140000 +0800" channel="IBC.TV.13.ph">
-    <title lang="en">Treze Sa Tanghali</title>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20261005140000 +0800" stop="20261005141500 +0800" channel="IBC.TV.13.ph">
-    <title lang="en">PCSO Lottery Draw</title>
-    <category lang="en">Game</category>
-  </programme>
-  <programme start="20261005141500 +0800" stop="20261005150000 +0800" channel="IBC.TV.13.ph">
-    <title lang="en">Ang Paglilitis</title>
-  </programme>
-  <programme start="20261005150000 +0800" stop="20261005151500 +0800" channel="IBC.TV.13.ph">
-    <title lang="en">Treze Express Balita</title>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20261005151500 +0800" stop="20261005160000 +0800" channel="IBC.TV.13.ph">
-    <title lang="en">Public Matters</title>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20261005160000 +0800" stop="20261005161500 +0800" channel="IBC.TV.13.ph">
-    <title lang="en">Treze Express Balita</title>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20261005161500 +0800" stop="20261005170000 +0800" channel="IBC.TV.13.ph">
-    <title lang="en">Ang Senado Ng Pilipinas</title>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20261005170000 +0800" stop="20261005171500 +0800" channel="IBC.TV.13.ph">
-    <title lang="en">PCSO Lottery Draw</title>
-    <category lang="en">Game</category>
-  </programme>
-  <programme start="20261005171500 +0800" stop="20261005181500 +0800" channel="IBC.TV.13.ph">
-    <title lang="en">Tutok Treze</title>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20261005181500 +0800" stop="20261005190000 +0800" channel="IBC.TV.13.ph">
-    <title lang="en">Congress News</title>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20261005190000 +0800" stop="20261005191500 +0800" channel="IBC.TV.13.ph">
-    <title lang="en">Treze Express Balita</title>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20261005191500 +0800" stop="20261005200000 +0800" channel="IBC.TV.13.ph">
-    <title lang="en">Congress TV</title>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20261005200000 +0800" stop="20261005201500 +0800" channel="IBC.TV.13.ph">
-    <title lang="en">Treze Express Balita</title>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20261005201500 +0800" stop="20261005210000 +0800" channel="IBC.TV.13.ph">
-    <title lang="en">PBBM - RTVM</title>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20261005210000 +0800" stop="20261005213000 +0800" channel="IBC.TV.13.ph">
-    <title lang="en">PCSO Lottery Draw</title>
-    <category lang="en">Game</category>
-  </programme>
-  <programme start="20261005213000 +0800" stop="20261005220000 +0800" channel="IBC.TV.13.ph">
-    <title lang="en">13 News</title>
-    <category lang="en">News</category>
   </programme>
   <programme start="20261005100000 +0800" stop="20261005110000 +0800" channel="Jeepney.TV.ph">
     <title lang="en">Mga Anghel Na Walang Langit</title>
@@ -107497,187 +107278,6 @@
     <url>http://www.mydishtv.in</url>
     <display-name lang="en">MOVIES NOW</display-name>
   </channel>
-  <programme channel="MOVIES.NOW.in" start="20261005082300 +0530" stop="20261005095000 +0530">
-    <title lang="en">Krampus</title>
-    <desc lang="en">A boy who has a bad Christmas accidentally summons a festive demon to his family home.</desc>
-    <credits>
-      <actor>Emjay Anthony</actor>
-      <actor>Adam Scott</actor>
-      <actor>Toni Collette</actor>
-      <actor>Stefania Owen</actor>
-      <actor>Krista Stadler</actor>
-      <actor>Conchata Ferrell</actor>
-      <actor>Allison Tolman</actor>
-      <actor>David Koechner</actor>
-      <actor>Maverick Flack</actor>
-      <actor>Queenie Samuel</actor>
-      <actor>Lolo Owen</actor>
-      <actor>Sage Hunefeld</actor>
-      <actor>Leith Towers</actor>
-      <actor>Curtis Vowell</actor>
-      <actor>Luke Hawker</actor>
-      <director>Michael Dougherty</director>
-      <producer>Thomas Tull</producer>
-      <producer>Jon Jashni</producer>
-      <producer>Michael Dougherty</producer>
-      <producer>Alex Garcia</producer>
-    </credits>
-    <category lang="en">Film</category>
-    <category lang="en">Fantasy</category>
-    <icon src="https://dtil.tmsimg.com/assets/p11822957_v_h9_al.jpg?lock=880x660" />
-  </programme>
-  <programme channel="MOVIES.NOW.in" start="20261005095000 +0530" stop="20261005124900 +0530">
-    <title lang="en">King Kong</title>
-    <desc lang="en">An eccentric director, Carl Denham and his crew make their way to film on the perilous Skull Island, home to several wayward creatures including a gigantic ape named Kong.</desc>
-    <credits>
-      <actor>Naomi Watts</actor>
-      <actor>Jack Black</actor>
-      <actor>Adrien Brody</actor>
-      <actor>Thomas Kretschmann</actor>
-      <actor>Colin Hanks</actor>
-      <actor>Andy Serkis</actor>
-      <actor>Jamie Bell</actor>
-      <actor>Lobo Chan</actor>
-      <actor>John Sumner</actor>
-      <actor>Kyle Chandler</actor>
-      <actor>David Dengelo</actor>
-      <actor>Stephen Hall</actor>
-      <actor>Evan Parke</actor>
-      <actor>Craig Hall</actor>
-      <actor>William Johnson</actor>
-      <actor>Mark Hadlow</actor>
-      <actor>Geraldine Brophy</actor>
-      <actor>David Dennis</actor>
-      <actor>David Pittu</actor>
-      <actor>Pip Mushin</actor>
-      <actor>Jim Knobeloch</actor>
-      <actor>Ric Herbert</actor>
-      <director>Peter Jackson</director>
-      <producer>Jan Blenkin</producer>
-      <producer>Carolynne Cunningham</producer>
-      <producer>Fran Walsh</producer>
-    </credits>
-    <category lang="en">Film</category>
-    <category lang="en">Action</category>
-    <icon src="https://dtil.tmsimg.com/assets/p90705_v_h9_ag.jpg?lock=880x660" />
-  </programme>
-  <programme channel="MOVIES.NOW.in" start="20261005124900 +0530" stop="20261005145100 +0530">
-    <title lang="en">Transformers: Rise of the Beasts</title>
-    <desc lang="en">As a nefarious force imperils Earth, an unlikely alliance forms between Optimus Prime's Autobots and the mighty Maximals, aided by two humans to safeguard mankind's future.</desc>
-    <credits>
-      <actor>Anthony Ramos</actor>
-      <actor>Dominique Fishback</actor>
-      <actor>Peter Cullen</actor>
-      <actor>Michelle Yeoh</actor>
-      <actor>Peter Dinklage</actor>
-      <actor>Ron Perlman</actor>
-      <actor>Pete Davidson</actor>
-      <actor>Colman Domingo</actor>
-      <actor>Dean Scott Vazquez</actor>
-      <actor>Luna Lauren Velez</actor>
-      <actor>Cristo Fernández</actor>
-      <actor>John DiMaggio</actor>
-      <actor>Michaela Jaé Rodriguez</actor>
-      <actor>Tobe Nwigwe</actor>
-      <actor>Liza Koshy</actor>
-      <actor>David Sobolov</actor>
-      <actor>Tongai Arnold Chirisa</actor>
-      <director>Steven Caple Jr.</director>
-      <producer>Lorenzo di Bonaventura</producer>
-      <producer>Tom DeSanto</producer>
-      <producer>Don Murphy</producer>
-      <producer>Michael Bay</producer>
-      <producer>Mark Vahradian</producer>
-      <producer>Duncan Henderson</producer>
-    </credits>
-    <category lang="en">Film</category>
-    <category lang="en">Action</category>
-    <icon src="https://dtil.tmsimg.com/assets/p20201199_v_h9_aw.jpg?lock=880x660" />
-  </programme>
-  <programme channel="MOVIES.NOW.in" start="20261005145100 +0530" stop="20261005163900 +0530">
-    <title lang="en">Godzilla vs. Kong</title>
-    <desc lang="en">King Kong is transported out of his containment zone after Godzilla resurfaces and creates mayhem. Humans need his help to reach Hollow Earth and find a way to subdue the king of the monsters.</desc>
-    <credits>
-      <actor>Alexander Skarsgård</actor>
-      <actor>Millie Bobby Brown</actor>
-      <actor>Rebecca Hall</actor>
-      <actor>Brian Tyree Henry</actor>
-      <actor>Shun Oguri</actor>
-      <actor>Eiza González</actor>
-      <actor>Julian Dennison</actor>
-      <actor>Kyle Chandler</actor>
-      <actor>Demián Bichir</actor>
-      <actor>Lance Reddick</actor>
-      <actor>Van Marten</actor>
-      <actor>Kaylee Hottle</actor>
-      <director>Adam Wingard</director>
-      <producer>Mary Parent</producer>
-      <producer>Alex Garcia</producer>
-      <producer>Eric McLeod</producer>
-      <producer>Jon Jashni</producer>
-      <producer>Thomas Tull</producer>
-      <producer>Brian Rogers</producer>
-    </credits>
-    <category lang="en">Film</category>
-    <category lang="en">Action</category>
-    <icon src="https://dtil.tmsimg.com/assets/p16193947_v_h9_af.jpg?lock=880x660" />
-  </programme>
-  <programme channel="MOVIES.NOW.in" start="20261005163900 +0530" stop="20261005191800 +0530">
-    <title lang="en">Mission: Impossible - Dead Reckoning</title>
-    <desc lang="en">When an advanced cyber weapon is on the verge of falling into the wrong hands, Ethan Hunt and his team must embark on a challenging mission to save the world from destruction.</desc>
-    <credits>
-      <actor>Tom Cruise</actor>
-      <actor>Hayley Atwell</actor>
-      <actor>Ving Rhames</actor>
-      <actor>Simon Pegg</actor>
-      <actor>Rebecca Ferguson</actor>
-      <actor>Vanessa Kirby</actor>
-      <actor>Esai Morales</actor>
-      <actor>Pom Klementieff</actor>
-      <actor>Mariela Garriga</actor>
-      <actor>Henry Czerny</actor>
-      <actor>Shea Whigham</actor>
-      <actor>Greg Tarzan Davis</actor>
-      <actor>Charles Parnell</actor>
-      <actor>Frederick Schmidt</actor>
-      <actor>Cary Elwes</actor>
-      <actor>Mark Gatiss</actor>
-      <actor>Indira Varma</actor>
-      <actor>Rob Delaney</actor>
-      <director>Christopher McQuarrie</director>
-      <producer>Tom Cruise</producer>
-      <producer>Leifur B. Dagfinnsson</producer>
-    </credits>
-    <category lang="en">Film</category>
-    <category lang="en">Thriller</category>
-    <icon src="https://dtil.tmsimg.com/assets/p16493930_v_h9_at.jpg?lock=880x660" />
-  </programme>
-  <programme channel="MOVIES.NOW.in" start="20261005191800 +0530" stop="20261005204500 +0530">
-    <title lang="en">Johnny English Strikes Again</title>
-    <desc lang="en">When a hacker reveals the identities of Britain's undercover agents, British agent Johnny English springs back into action and must overcome the challenges of modern technology.</desc>
-    <credits>
-      <actor>Rowan Atkinson</actor>
-      <actor>Ben Miller</actor>
-      <actor>Emma Thompson</actor>
-      <actor>Olga Kurylenko</actor>
-      <actor>Jake Lacy</actor>
-      <actor>Miranda Hennessy</actor>
-      <actor>Adam James</actor>
-      <actor>Pippa Bennett-Warner</actor>
-      <actor>David Mumeni</actor>
-      <actor>Kendra Mei</actor>
-      <actor>Michael Gambon</actor>
-      <director>David Kerr</director>
-      <producer>Chris Clark</producer>
-      <producer>Tim Bevan</producer>
-      <producer>Eric Fellner</producer>
-      <producer>Rowan Atkinson</producer>
-      <producer>Raphaël Benoliel</producer>
-    </credits>
-    <category lang="en">Film</category>
-    <category lang="en">Comedy</category>
-    <icon src="https://dtil.tmsimg.com/assets/p15020633_v_h9_ab.jpg?lock=880x660" />
-  </programme>
   <programme channel="MOVIES.NOW.in" start="20261005204500 +0530" stop="20261005224000 +0530">
     <title lang="en">Jumanji: Welcome to the Jungle</title>
     <desc lang="en">Four teens are transported into a magical jungle game, becoming adult avatars and must navigate challenges to return home safely.</desc>
@@ -108000,6 +107600,175 @@
     <category lang="en">Action</category>
     <icon src="https://dtil.tmsimg.com/assets/p9364987_v_h9_ar.jpg?lock=880x660" />
   </programme>
+  <programme channel="MOVIES.NOW.in" start="20261006093000 +0530" stop="20261006111900 +0530">
+    <title lang="en">Baby Driver</title>
+    <desc lang="en">When talented getaway driver Baby meets his dream girl, Debora, he chooses to leave his shady life behind. But when he is called in for one last heist with an unstable crew, things get dicey.</desc>
+    <credits>
+      <actor>Ansel Elgort</actor>
+      <actor>Kevin Spacey</actor>
+      <actor>Lily James</actor>
+      <actor>Jon Bernthal</actor>
+      <actor>Jon Hamm</actor>
+      <actor>Jamie Foxx</actor>
+      <actor>Eiza González</actor>
+      <actor>Flea</actor>
+      <actor>Sky Ferreira</actor>
+      <actor>Lanny Joon</actor>
+      <director>Edgar Wright</director>
+      <producer>Nira Park</producer>
+      <producer>Tim Bevan</producer>
+      <producer>Eric Fellner</producer>
+    </credits>
+    <category lang="en">Film</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://dtil.tmsimg.com/assets/p13259415_v_h9_ai.jpg?lock=880x660" />
+  </programme>
+  <programme channel="MOVIES.NOW.in" start="20261006111900 +0530" stop="20261006132400 +0530">
+    <title lang="en">Spider-Man 2</title>
+    <desc lang="en">After losing his job, lover and his powers, Peter Parker feels dissatisfied with his life. Soon, amidst all this chaos, he also has to fight Doctor Octavius who poses a threat to the New York.</desc>
+    <credits>
+      <actor>Tobey Maguire</actor>
+      <actor>Kirsten Dunst</actor>
+      <actor>James Franco</actor>
+      <actor>Alfred Molina</actor>
+      <actor>Rosemary Harris</actor>
+      <actor>Donna Murphy</actor>
+      <actor>J.K. Simmons</actor>
+      <director>Sam Raimi</director>
+      <producer>Laura Ziskin</producer>
+      <producer>Avi Arad</producer>
+    </credits>
+    <category lang="en">Film</category>
+    <category lang="en">Action</category>
+    <icon src="https://dtil.tmsimg.com/assets/p34442_v_h9_ai.jpg?lock=880x660" />
+  </programme>
+  <programme channel="MOVIES.NOW.in" start="20261006132400 +0530" stop="20261006150500 +0530">
+    <title lang="en">Dora and the Lost City of Gold</title>
+    <desc lang="en">While searching for a hidden land, the parents of a teenage Dora go missing. Consequently, she and her new high-school friends go in search of the lost city of gold with hopes of finding her parents.</desc>
+    <credits>
+      <actor>Isabela Merced</actor>
+      <actor>Eugenio Derbez</actor>
+      <actor>Michael Peña</actor>
+      <actor>Eva Longoria</actor>
+      <actor>Adriana Barraza</actor>
+      <actor>Temuera Morrison</actor>
+      <actor>Jeffrey Wahlberg</actor>
+      <actor>Nicholas Coombe</actor>
+      <actor>Madeleine Madden</actor>
+      <actor>Danny Trejo</actor>
+      <actor>Christopher Kirby</actor>
+      <actor>Isela Vega</actor>
+      <actor>Benicio del Toro</actor>
+      <actor>Sasha Toro</actor>
+      <actor>Marc Weiner</actor>
+      <actor>Joey Vieira</actor>
+      <actor>Pia Miller</actor>
+      <director>James Bobin</director>
+      <producer>Kristin Burr</producer>
+    </credits>
+    <category lang="en">Film</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://dtil.tmsimg.com/assets/p16536345_v_h9_ad.jpg?lock=880x660" />
+  </programme>
+  <programme channel="MOVIES.NOW.in" start="20261006150500 +0530" stop="20261006171000 +0530">
+    <title lang="en">Van Helsing</title>
+    <desc lang="en">Van Helsing, a legendary monster hunter, is sent to Transylvania by the Vatican to kill Count Dracula and protect the last descendants of the Valerious, Anna and Velkan.</desc>
+    <credits>
+      <actor>Hugh Jackman</actor>
+      <actor>Kate Beckinsale</actor>
+      <actor>Richard Roxburgh</actor>
+      <actor>David Wenham</actor>
+      <actor>Shuler Hensley</actor>
+      <actor>Elena Anaya</actor>
+      <actor>Will Kemp</actor>
+      <actor>Kevin J. O'Connor</actor>
+      <actor>Alun Armstrong</actor>
+      <actor>Silvia Colloca</actor>
+      <actor>Josie Maran</actor>
+      <actor>Tom Fisher</actor>
+      <actor>Samuel West</actor>
+      <actor>Robbie Coltrane</actor>
+      <director>Stephen Sommers</director>
+      <producer>Stephen Sommers</producer>
+      <producer>Bob Ducsay</producer>
+    </credits>
+    <category lang="en">Film</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://dtil.tmsimg.com/assets/p34434_v_h9_ao.jpg?lock=880x660" />
+  </programme>
+  <programme channel="MOVIES.NOW.in" start="20261006171000 +0530" stop="20261006183800 +0530">
+    <title lang="en">A Quiet Place Part II</title>
+    <desc lang="en">In a post-apocalyptic world, Regan and her family learn that the alien predators can be defeated using high-frequency audio. Soon, armed with this knowledge, they set out to look for other survivors.</desc>
+    <credits>
+      <actor>Emily Blunt</actor>
+      <actor>Cillian Murphy</actor>
+      <actor>Millicent Simmonds</actor>
+      <actor>Noah Jupe</actor>
+      <actor>Djimon Hounsou</actor>
+      <actor>John Krasinski</actor>
+      <actor>Lauren-Ashley Cristiano</actor>
+      <actor>Okieriete Onaodowan</actor>
+      <director>John Krasinski</director>
+      <producer>Michael Bay</producer>
+      <producer>Andrew Form</producer>
+      <producer>Brad Fuller</producer>
+    </credits>
+    <category lang="en">Film</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://dtil.tmsimg.com/assets/p15923621_v_h9_az.jpg?lock=880x660" />
+  </programme>
+  <programme channel="MOVIES.NOW.in" start="20261006183800 +0530" stop="20261006204500 +0530">
+    <title lang="en">Mission: Impossible Rogue Nation</title>
+    <desc lang="en">Following IMF's assimilation into the CIA, Ethan Hunt and his team face a new challenge from the Syndicate, an international rogue group determined to destroy their organisation.</desc>
+    <credits>
+      <actor>Tom Cruise</actor>
+      <actor>Jeremy Renner</actor>
+      <actor>Simon Pegg</actor>
+      <actor>Rebecca Ferguson</actor>
+      <actor>Ving Rhames</actor>
+      <actor>Sean Harris</actor>
+      <actor>Alec Baldwin</actor>
+      <actor>Simon McBurney</actor>
+      <actor>Jingchu Zhang</actor>
+      <actor>Jens Hultén</actor>
+      <director>Christopher McQuarrie</director>
+      <producer>Tom Cruise</producer>
+      <producer>J.J. Abrams</producer>
+      <producer>Bryan Burk</producer>
+      <producer>David Ellison</producer>
+      <producer>Dana Goldberg</producer>
+      <producer>Don Granger</producer>
+    </credits>
+    <category lang="en">Film</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://dtil.tmsimg.com/assets/p10989210_v_h9_ba.jpg?lock=880x660" />
+  </programme>
+  <programme channel="MOVIES.NOW.in" start="20261006204500 +0530" stop="20261006222700 +0530">
+    <title lang="en">Death Race</title>
+    <desc lang="en">When Warden Hennessey offers Jensen and other prisoners a chance to compete in a weaponised car race, millions watch as these criminals with life sentences race armoured cars to earn their freedom.</desc>
+    <credits>
+      <actor>Jason Statham</actor>
+      <actor>Tyrese Gibson</actor>
+      <actor>Ian McShane</actor>
+      <actor>Joan Allen</actor>
+      <actor>Natalie Martinez</actor>
+      <actor>Max Ryan</actor>
+      <actor>Jason Clarke</actor>
+      <actor>Frederick Koehler</actor>
+      <actor>Jacob Vargas</actor>
+      <actor>Justin Mader</actor>
+      <actor>Robert LaSardo</actor>
+      <actor>Robin Shou</actor>
+      <actor>Janaya Stephens</actor>
+      <director>Paul W.S. Anderson</director>
+      <producer>Paul W.S. Anderson</producer>
+      <producer>Jeremy Bolt</producer>
+      <producer>Paula Wagner</producer>
+    </credits>
+    <category lang="en">Film</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://dtil.tmsimg.com/assets/p176368_v_h9_al.jpg?lock=880x660" />
+  </programme>
   <channel id="413152">
     <display-name lang="Russian Federation">beIN Sports Xtra [US]</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/02/23/20250223020606068934_27.png" />
@@ -108074,9 +107843,209 @@
     <desc />
     <date>2026-10-05</date>
   </programme>
-  <programme channel="413152" start="20261005140000 +0000" stop="20261006000000 +0000">
+  <programme channel="413152" start="20261005140000 +0000" stop="20261005150000 +0000">
     <title lang="zh">Beach Volleyball: Queen King of the Court: Hamburg, Men's First Semifinal</title>
     <desc />
     <date>2026-10-05</date>
+  </programme>
+  <programme channel="413152" start="20261005150000 +0000" stop="20261005160000 +0000">
+    <title lang="zh">Ferrari Challenge Racing Series: Sydney Trofeo Pirelli Australasia, Night Race 1</title>
+    <desc />
+    <date>2026-10-05</date>
+  </programme>
+  <programme channel="413152" start="20261005160000 +0000" stop="20261005170000 +0000">
+    <title lang="zh">Porsche Sprint Challenge Auto Racing: Southern Europe: Valencia, Sport Division – Race 6</title>
+    <desc />
+    <date>2026-10-05</date>
+  </programme>
+  <programme channel="413152" start="20261005170000 +0000" stop="20261005173000 +0000">
+    <title lang="zh">Outdoor Sports Show</title>
+    <desc />
+    <date>2026-10-05</date>
+  </programme>
+  <programme channel="413152" start="20261005173000 +0000" stop="20261005180000 +0000">
+    <title lang="zh">Outdoor Sports Show</title>
+    <desc />
+    <date>2026-10-05</date>
+  </programme>
+  <programme channel="413152" start="20261005180000 +0000" stop="20261005190000 +0000">
+    <title lang="zh">Equestrian: FEI World Championships, Carriage Driving</title>
+    <desc />
+    <date>2026-10-05</date>
+  </programme>
+  <programme channel="413152" start="20261005190000 +0000" stop="20261005193000 +0000">
+    <title lang="zh">The Ligue 1 Show: 2026-27: Matchday 4</title>
+    <desc />
+    <date>2026-10-05</date>
+  </programme>
+  <programme channel="413152" start="20261005193000 +0000" stop="20261005200000 +0000">
+    <title lang="zh">This is Paris</title>
+    <desc />
+    <date>2026-10-05</date>
+  </programme>
+  <programme channel="413152" start="20261005200000 +0000" stop="20261005220000 +0000">
+    <title lang="zh">World Climbing Series: Wujiang: Men's and Women's Lead Finals</title>
+    <desc />
+    <date>2026-10-05</date>
+  </programme>
+  <programme channel="413152" start="20261005220000 +0000" stop="20261005230000 +0000">
+    <title lang="zh">Beach Volleyball: Queen King of the Court: Hamburg, Women's First Semifinal</title>
+    <desc />
+    <date>2026-10-05</date>
+  </programme>
+  <programme channel="413152" start="20261005230000 +0000" stop="20261005233000 +0000">
+    <title lang="zh">2026 FIBA 3x3 Europe Cup: Women's Quarterfinal: Netherlands vs. Czechia</title>
+    <desc />
+    <date>2026-10-05</date>
+  </programme>
+  <programme channel="413152" start="20261005233000 +0000" stop="20261006000000 +0000">
+    <title lang="zh">2026 FIBA 3x3 Europe Cup: Women's Quarterfinal: Germany vs. Slovenia</title>
+    <desc />
+    <date>2026-10-05</date>
+  </programme>
+  <programme channel="413152" start="20261006000000 +0000" stop="20261006020000 +0000">
+    <title lang="zh">2027 Africa Cup of Nations Qualifiers: Somalia vs. Côte d'Ivoire (Accra Sports Stadium, GHA)</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="413152" start="20261006020000 +0000" stop="20261006030000 +0000">
+    <title lang="zh">Ferrari Challenge Racing Series: Sydney Trofeo Pirelli Australasia, Night Race 1</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="413152" start="20261006030000 +0000" stop="20261006033000 +0000">
+    <title lang="zh">Outdoor Sports Show</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="413152" start="20261006033000 +0000" stop="20261006040000 +0000">
+    <title lang="zh">Outdoor Sports Show</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="413152" start="20261006040000 +0000" stop="20261006043000 +0000">
+    <title lang="zh">This is Paris</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="413152" start="20261006043000 +0000" stop="20261006050000 +0000">
+    <title lang="zh">The Knockout Room</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="413152" start="20261006050000 +0000" stop="20261006060000 +0000">
+    <title lang="zh">2026 World Taekwondo Grand Prix Series: Rome, Women's -49Kg</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="413152" start="20261006060000 +0000" stop="20261006070000 +0000">
+    <title lang="zh">2026 World Taekwondo Grand Prix Series: Rome, Men's -58Kg</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="413152" start="20261006070000 +0000" stop="20261006073000 +0000">
+    <title lang="zh">2026 FIBA 3x3 Europe Cup: Women's Quarterfinal: Netherlands vs. Czechia</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="413152" start="20261006073000 +0000" stop="20261006080000 +0000">
+    <title lang="zh">2026 FIBA 3x3 Europe Cup: Women's Quarterfinal: Germany vs. Slovenia</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="413152" start="20261006080000 +0000" stop="20261006090000 +0000">
+    <title lang="zh">Ferrari Challenge Racing Series: Sydney Trofeo Pirelli Australasia, Night Race 1</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="413152" start="20261006090000 +0000" stop="20261006100000 +0000">
+    <title lang="zh">Beach Volleyball: Queen King of the Court: Hamburg, Women's First Semifinal</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="413152" start="20261006100000 +0000" stop="20261006110000 +0000">
+    <title lang="zh">Beach Volleyball: Queen King of the Court: Hamburg, Men's First Semifinal</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="413152" start="20261006110000 +0000" stop="20261006130000 +0000">
+    <title lang="zh">Skiing: Ski Classics Pro Tour: Bad Gastein Criterium, Sportgastein – Race 2</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="413152" start="20261006130000 +0000" stop="20261006140000 +0000">
+    <title lang="zh">Beach Volleyball: Queen King of the Court: Hamburg, Women's Second Semifinal</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="413152" start="20261006140000 +0000" stop="20261006150000 +0000">
+    <title lang="zh">Beach Volleyball: Queen King of the Court: Hamburg, Men's Second Semifinal</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="413152" start="20261006150000 +0000" stop="20261006160000 +0000">
+    <title lang="zh">Ferrari Challenge Racing Series: Sydney Trofeo Pirelli Australasia, Race 2</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="413152" start="20261006160000 +0000" stop="20261006170000 +0000">
+    <title lang="zh">Porsche Sprint Challenge Auto Racing: Southern Europe: Valencia, Club Division – Race 6</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="413152" start="20261006170000 +0000" stop="20261006173000 +0000">
+    <title lang="zh">Sailing to The Games</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="413152" start="20261006173000 +0000" stop="20261006180000 +0000">
+    <title lang="zh">Sailing to the Games</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="413152" start="20261006180000 +0000" stop="20261006183000 +0000">
+    <title lang="zh">USPA Polo – Breakaway Polo in Europe</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="413152" start="20261006183000 +0000" stop="20261006190000 +0000">
+    <title lang="zh">USPA Polo: Breakaway, Polo IN College</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="413152" start="20261006190000 +0000" stop="20261006193000 +0000">
+    <title lang="zh">Ligue 1 Show</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="413152" start="20261006193000 +0000" stop="20261006200000 +0000">
+    <title lang="zh">90 in 30: Ligue 1 2025-26: Stade Brest vs. Paris Saint-Germain</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="413152" start="20261006200000 +0000" stop="20261006220000 +0000">
+    <title lang="zh">World Climbing Series: Wujiang Speed Finals</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="413152" start="20261006220000 +0000" stop="20261006230000 +0000">
+    <title lang="zh">Beach Volleyball: Queen King of the Court: Hamburg, Women's Second Semifinal</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="413152" start="20261006230000 +0000" stop="20261006233000 +0000">
+    <title lang="zh">2026 FIBA 3x3 Europe Cup: Women's Quarterfinal: Spain vs. Belgium</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="413152" start="20261006233000 +0000" stop="20261007000000 +0000">
+    <title lang="zh">2026 FIBA 3x3 Europe Cup: Women's Quarterfinal: France vs. Azerbaijan</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="413152" start="20261007000000 +0000" stop="20261008000000 +0000">
+    <title lang="zh">2027 Africa Cup of Nations Qualifiers: Eritrea vs. South Africa (Al Salam Stadium, C, EGY)</title>
+    <desc />
+    <date>2026-10-07</date>
   </programme>
 </tv>
